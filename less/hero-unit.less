@@ -1,0 +1,47 @@
+//
+// Hero unit
+// --------------------------------------------------
+
+
+.hero-unit {
+  height: 420px;
+  // padding: 60px;
+  padding-top: 50px;
+  margin-bottom: 30px;
+  font-size: 18px;
+  font-weight: 200;
+  line-height: @baseLineHeight * 1.5;
+  color: @heroUnitLeadColor;
+  background: url(../img/map.jpg) no-repeat top center;
+  text-align: center;
+
+  h1 {
+    margin: 50px auto 0 auto;
+    max-width: 620px;
+    font-family: 'FG Medium';
+    font-size: 36px;
+    font-weight: normal;
+    line-height: 1.7;
+    letter-spacing: 1px;
+    color: @white;
+    background-color: @accent;
+  }
+
+  h2 {
+    color: @accent;
+    font-family: @serifFontFamily;
+    font-size: 18px;
+    font-weight: normal;
+    text-transform: none;
+  }
+
+  li {
+    line-height: @baseLineHeight * 1.5; // Reset since we specify in type.less
+  }
+
+  p.tagline {
+    margin-bottom: 15px;
+    font-size: 14px;
+    font-style: italic;
+  }
+}

@@ -1,0 +1,255 @@
+/*..................................the Franklin Gothic */
+@font-face {
+    font-family: 'FG Medium';
+    src: url('../fonts/FranklinGothic-Med-webfont.eot');
+    src: url('../fonts/FranklinGothic-Med-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/FranklinGothic-Med-webfont.woff') format('woff'),
+         url('../fonts/FranklinGothic-Med-webfont.ttf') format('truetype'),
+         url('../fonts/FranklinGothic-Med-webfont.svg#franklin_gothic_fs_medregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FG Compressed';
+    src: url('../fonts/FranklinGothic-Comp-webfont.eot');
+    src: url('../fonts/FranklinGothic-Comp-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/FranklinGothic-Comp-webfont.woff') format('woff'),
+         url('../fonts/FranklinGothic-Comp-webfont.ttf') format('truetype'),
+         url('../fonts/FranklinGothic-Comp-webfont.svg#franklin_gothic_fs_compressRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/*..................................the type */
+
+h2,
+h3 {
+	font-family: 'FG Compressed';
+	font-weight: normal;
+	text-transform: uppercase;
+}
+
+h2 {
+	font-size: 36px;
+}
+
+h3 {
+	color: @accent;
+	font-size: 24px;
+	line-height: 1;
+	text-align: center;
+}
+
+.navbar .nav > li > a.btn {
+	margin-top: 7px;
+	padding: 0 6px;
+	background-color: @blueBlack;
+	text-decoration: none;
+
+	&:hover {
+		background-color: lighten(@blueBlack, 5%);
+	}
+}
+
+/*..................................the landing page */
+
+article {
+	padding: 55px 0 85px 0;
+	margin-bottom: 0;
+	margin-top: 0;
+}
+
+/*..................................the services section */
+article.services {
+
+	.span2 {
+		img {
+			padding-top: 20px;
+		}
+	}
+
+	h2 {
+		color: @blueBlack;
+	}
+
+	h3 {
+		height: 48px;
+		margin-bottom: 45px;
+	}
+	
+	p {
+		color: @gray;
+	}
+
+	hr {
+		margin-top: 60px;
+		margin-bottom: 20px;
+	}
+
+	.branding {
+		margin-left: 0px;
+	}
+
+	img {
+		display: block;
+		margin: 0 auto;
+	}
+}
+
+/*..................................the work section */
+article.work {
+	background-color: @tan;
+
+	h2 {
+		color: @accent;
+
+		span {
+			padding-left: 10px;
+			color: @blueBlack;
+			font-family: @serifFontFamily;
+			font-size: 18px;
+			font-weight: normal;
+			text-transform: none;
+
+			a {
+				color: @accent;
+				text-decoration: underline;
+			}
+		}
+	}
+
+	.piece {
+		position: relative;
+		height: 300px;
+		margin-top: 25px;
+
+		img {
+			display: block;
+			position: absolute;
+			top: 0;
+			left: 0;
+		}
+
+		a {
+			display: block;
+			position: absolute;
+			bottom: 0;
+			left: 0;
+			width: 300px;
+			padding: 25px 0;
+			color: @white;
+			font-size: 16px;
+			background-color: @black;
+			filter: alpha(opacity=50);
+			background-color: rgba(0,0,0,0.5);
+
+			span {
+				padding: 0 20px;
+			}
+		}
+	}
+}
+
+/*..................................the contact section */
+article.contact {
+	color: @white;
+	background-color: @accent;
+
+	hr {
+		margin-top: 40px;
+		margin-bottom: 35px;
+	  	border-top: 1px solid darken(@accent, 10%);
+	  	border-bottom: 1px solid lighten(@accent, 10%);
+	}
+
+	.reach-by {
+		font-size: 18px;
+		font-style: italic;
+	}
+
+	.phone,
+	.email {
+		letter-spacing: 2px;
+		line-height: 1;
+		font-family: 'FG Compressed';
+		font-size: 24px;
+		text-transform: uppercase;
+
+		a {
+			color: @white;
+
+			&:hover {
+				text-decoration: underline;
+			}
+		}
+	}
+
+	.phone {
+		margin-bottom: 15px;
+		font-size: 60px;
+	}
+
+	.start-project {
+		margin-bottom: 5px;
+		font-size: 18px;
+	}
+
+	.download {
+		margin-bottom: 30px;
+		font-size: 18px;
+		font-weight: bold;
+	}
+
+	a.btn {
+		color: @white;
+		font-size: 24px;
+		font-style: italic;
+		background-color: @blueDarker;
+	}
+}
+
+/*..................................the social media section */
+article.social-media {
+	padding-bottom: 40px;
+	background-color: @blueDarker;
+
+	a {
+		display: block;
+		color: @white;
+		font-size: 16px;
+	}
+
+	img {
+		display: block;
+		float: left;
+		margin: 3px 40px 0 20px;
+	}
+
+	p {
+		float: left;
+	}
+}
+
+/*..................................the support section */
+article.support {
+	display: none;
+}
+
+/*..................................the footer */
+footer {
+	padding: 20px 0;
+	font-size: 11px;
+
+	span {
+		color: @accent;
+		text-decoration: underline;
+		cursor: pointer;
+	}
+
+	.span8 {
+		font-style: italic;
+		text-align: right;
+	}
+}
