@@ -23,9 +23,10 @@
 }
 
 /*..................................the type */
-
 h2,
 h3 {
+	color: @accent;
+	// color: @red;
 	font-family: 'FG Compressed';
 	font-weight: normal;
 	text-transform: uppercase;
@@ -37,6 +38,7 @@ h2 {
 
 h3 {
 	color: @accent;
+	// color: @red;
 	font-size: 24px;
 	line-height: 1;
 	text-align: center;
@@ -45,20 +47,43 @@ h3 {
 .navbar .nav > li > a.btn {
 	margin-top: 7px;
 	padding: 0 6px;
-	background-color: @blueBlack;
+	color: @white;
+	background-color: @black;
 	text-decoration: none;
 
 	&:hover {
-		background-color: lighten(@blueBlack, 5%);
+		background-color: lighten(@black, 25%);
 	}
 }
 
 /*..................................the landing page */
-
 article {
 	padding: 55px 0 85px 0;
 	margin-bottom: 0;
 	margin-top: 0;
+}
+
+/*..................................the headline */
+.desire {
+	padding-bottom: 0;
+
+	p {
+		padding-bottom: 30px;
+		font-size: 22px;
+		line-height: 1.5;
+
+		cite {
+			display: block;
+			text-align: right;
+			font-family: 'FG Compressed';
+			text-transform: uppercase;
+
+		}
+	}
+
+	hr {
+		margin-bottom: 0;
+	}
 }
 
 /*..................................the services section */
@@ -68,10 +93,6 @@ article.services {
 		img {
 			padding-top: 20px;
 		}
-	}
-
-	h2 {
-		color: @blueBlack;
 	}
 
 	h3 {
@@ -103,7 +124,7 @@ article.work {
 	background-color: @tan;
 
 	h2 {
-		color: @accent;
+		// color: @accent;
 
 		span {
 			padding-left: 10px;
@@ -150,21 +171,34 @@ article.work {
 			}
 		}
 	}
+
+	img.middle-imac {
+		position: relative;
+		top: 40px;
+	}
 }
 
 /*..................................the contact section */
 article.contact {
 	color: @white;
+	// background-color: @black;
 	background-color: @accent;
+
+	h2 {
+		color: @white;
+	}
 
 	hr {
 		margin-top: 40px;
 		margin-bottom: 35px;
+	  	// border-top: 1px solid darken(@black, 10%);
+	  	// border-bottom: 1px solid lighten(@black, 10%);
 	  	border-top: 1px solid darken(@accent, 10%);
 	  	border-bottom: 1px solid lighten(@accent, 10%);
 	}
 
 	.reach-by {
+		// color: @yellow;
 		font-size: 18px;
 		font-style: italic;
 	}
@@ -206,14 +240,14 @@ article.contact {
 		color: @white;
 		font-size: 24px;
 		font-style: italic;
-		background-color: @blueDarker;
+		background-color: @blueDark;
 	}
 }
 
 /*..................................the social media section */
 article.social-media {
 	padding-bottom: 40px;
-	background-color: @blueDarker;
+	background-color: @blueDark;
 
 	a {
 		display: block;
@@ -300,7 +334,7 @@ footer {
 	font-size: 11px;
 
 	span {
-		color: @accent;
+		color: @blue;
 		text-decoration: underline;
 		cursor: pointer;
 	}
