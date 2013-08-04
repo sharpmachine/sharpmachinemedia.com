@@ -199,12 +199,18 @@ article.contact {
 
 	.reach-by {
 		// color: @yellow;
+		margin-top: 25px;
 		font-size: 18px;
 		font-style: italic;
+
+		&:first-child {
+			margin-top: 0;
+		}
 	}
 
 	.phone,
-	.email {
+	.email,
+	address {
 		letter-spacing: 2px;
 		line-height: 1;
 		font-family: 'FG Compressed';
@@ -220,8 +226,12 @@ article.contact {
 		}
 	}
 
+	address {
+		margin-bottom: 0;
+	}
+
 	.phone {
-		margin-bottom: 15px;
+		margin-bottom: -10px;
 		font-size: 60px;
 	}
 
