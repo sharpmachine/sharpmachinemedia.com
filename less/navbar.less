@@ -23,8 +23,8 @@
   padding-left:  20px;
   padding-right: 20px;
   // #gradient > .vertical(@navbarBackgroundHighlight, @navbarBackground);
-  background-color: @accent;
-  // background-color: @black;
+  // background-color: @accent;
+  background-color: @black;
   // border: 1px solid @navbarBorder;
   .border-radius(@baseBorderRadius);
   .box-shadow(0 1px 4px rgba(0,0,0,.065));
@@ -247,11 +247,12 @@
 // Links
 .navbar .nav > li > a {
   float: none;
-  // Vertically center the text given @navbarHeight
-  padding: ((@navbarHeight - @baseLineHeight) / 2) 7px ((@navbarHeight - @baseLineHeight) / 2);
-  color: @navbarLinkColor;
-  font-size: 11px;
-  text-decoration: underline;
+  font-family: 'FG Compressed';
+  text-transform: uppercase;
+  padding: 7.5px 20px 7.5px;
+  letter-spacing: 1.5px;
+  color: @cream;
+  font-size: 22px;
 }
 .navbar .nav .dropdown-toggle .caret {
   margin-top: 8px;

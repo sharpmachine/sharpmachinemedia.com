@@ -5,33 +5,29 @@
 
 .hero-unit {
   height: 420px;
-  padding-top: 50px;
+  padding-top: 30px;
   font-size: 18px;
   font-weight: 200;
   line-height: @baseLineHeight * 1.5;
   color: @heroUnitLeadColor;
-  background: url(../img/map.jpg) no-repeat top center;
+  background: url(../img/printing-press.jpg) no-repeat center center;
   text-align: center;
 
   h1 {
-    display: inline-block;
-    padding: 0 10px;
-    font-family: 'FG Medium';
-    font-size: 28px;
+    margin-top: 5px;
+    font-family: @serifFontFamily;
+    font-size: 22px;
     font-weight: normal;
     line-height: 1.7;
-    letter-spacing: 1px;
-    color: @white;
+    letter-spacing: 2px;
+    color: @cream;
     text-transform: none;
-    // background-color: @black;
-    background-color: @accent;
   }
 
   h2 {
-    // color: @blue;
-    color: @accent;
+    color: @orange;
     font-family: @serifFontFamily;
-    font-size: 18px;
+    font-size: 14px;
     font-weight: normal;
     text-transform: none;
   }
@@ -40,9 +36,7 @@
     line-height: @baseLineHeight * 1.5; // Reset since we specify in type.less
   }
 
-  p.tagline {
-    margin-bottom: 15px;
-    font-size: 14px;
-    font-style: italic;
+  img {
+    padding-top: 109px;
   }
 }
