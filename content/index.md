@@ -3,11 +3,13 @@ Title: Branding, Strategy &amp; Design
 Description: This description will go in the meta description tag
 */
 
-<div class="jumbotron">
+<div class="jumbotron text-center">
 	<img src="themes/smm/img/full-logo-orange.png" alt="Sharp Machine Logo">
-	<h1 class="text-center">Branding<span class="comma">,</span> Strategy <span class="ampersand">&amp;</span> Design</h1>
-	<h2 class="text-center">Discover your brand.  Grow your business.  Build to last.</h2>
-	<p class="text-center"><a class="btn btn-primary btn-lg" role="button">Let's talk</a></p>
+	<h1>Branding, Strategy <span class="ampersand">&amp;</span> Design</h1>
+	<h2>Discover your brand.  Grow your business.  Build to last.</h2>
+	<p>
+		<a class="btn btn-primary btn-lg" role="button">Let's talk</a>
+	</p>
 </div>
 
 <div class="md-modal md-effect-12" id="modal-1">
@@ -34,13 +36,13 @@ Description: This description will go in the meta description tag
 </div>  
 
 
-<div class="container marketing">
-	<h2 class="text-center">What We Do</h2>
+<div class="container">
+	<h2 class="headline text-center">What We Do</h2>
 	<div class="row">
 		<div class="col-sm-6 service">
 			<div class="service-inner md-trigger" data-modal="modal-1">
 				<div class="service-content">
-					<h2>Branding <span class="ampersand">&amp;</span> Identity</h2>
+					<h3>Branding <span class="ampersand">&amp;</span> Identity</h3>
 					<p>We take your business identity from idea to reality and communicate your brand message with consistency.</p>
 				</div>
 			</div>
@@ -48,7 +50,7 @@ Description: This description will go in the meta description tag
 		<div class="col-sm-6 service">
 			<div class="service-inner md-trigger" data-modal="modal-1">
 				<div class="service-content">
-					<h2>Print</h2>
+					<h3>Print</h3>
 					<p>We design engaging print materials, and take them from conception to delivery for you.</p>
 				</div>
 			</div>
@@ -56,7 +58,7 @@ Description: This description will go in the meta description tag
 		<div class="col-sm-6 service">
 			<div class="service-inner md-trigger" data-modal="modal-1">
 				<div class="service-content">
-					<h2>Online</h2>
+					<h3>Online</h3>
 					<p>We create compelling mobile, tablet, and desktop experiences. Our code is as poetic as our design.</p>
 				</div>
 			</div>
@@ -64,7 +66,7 @@ Description: This description will go in the meta description tag
 		<div class="col-sm-6 service">
 			<div class="service-inner md-trigger" data-modal="modal-1">
 				<div class="service-content">
-					<h2>Copywriting <span class="ampersand">&amp;</span> Content Strategy</h2>
+					<h3>Copywriting <span class="ampersand">&amp;</span> Content Strategy</h3>
 					<p>We create authentic content that streamlines and conveys your brand message.</p>
 				</div>
 			</div>
@@ -82,11 +84,7 @@ Description: This description will go in the meta description tag
 
 <section class="cream">
 	<div class="container">
-		<div class="heading">
-			<h1 class="featurette-heading fhr">A few of our clients</h1>
-			<h1 class="featurette-heading fhw">A few of our clients</h1>
-			<h1 class="featurette-heading">A few of our clients</h1>
-		</div>
+		<h2 class="headline text-center">A few of our clients</h2>
 		<div class="row">
 			<div class="col-md-1 col-md-offset-1 col-sm-4 col-xs-6 client-logo">
 				<img src="themes/smm/img/bia.png" class="featurette-image img-responsive" alt="Generic placeholder image">
@@ -115,7 +113,7 @@ Description: This description will go in the meta description tag
 				<img src="themes/smm/img/jonathan.jpg" class="featurette-image img-thumbnail img-responsive img-circle" alt="Generic placeholder image">
 			</div>
 			<div class="col-sm-10">
-				<p class="lead">"We loved the enthusiasm and the commitment to design consistency which Sharp Machine Media demonstrated throughout the process" <br> <cite>- Michael Van Tinteren, BJM</cite></p>
+				<p>"We loved the enthusiasm and the commitment to design consistency which Sharp Machine Media demonstrated throughout the process" <br> <cite>- Michael Van Tinteren, BJM</cite></p>
 			</div>
 		</div>
 	</div>
@@ -129,13 +127,8 @@ Description: This description will go in the meta description tag
 </div>
 
 
-<div class="container marketing">
-	<div class="heading">
-		<h1 class="featurette-heading fhr">Recent Work</h1>
-		<h1 class="featurette-heading fhw">Recent Work</h1>
-		<h1 class="featurette-heading">Recent Work</h1>
-	</div>
-
+<div class="container">
+	<h2 class="headline text-center">Recent Work</h2>
 	<div class="row">
 		<div class="col-sm-6 work">
 			<a href="#">
@@ -158,13 +151,19 @@ Description: This description will go in the meta description tag
 			</a>
 		</div>
 	</div>
-	<a href="#" class="btn btn-lg btn-success btn-lg pull-right">See More</a>
+	<div class="text-center">
+		<a href="#" class="btn btn-lg btn-success btn-lg">See More</a>
+	</div>
+	
 </div>
 
 <div class="well well-lg">
 	<div class="diamond"><div class="borderrr"><p>Belief <span>3</span></p></div></div>
 	<div class="container">
 		<p class="lead">Good is the enemy of great.</p>
+		<div class="accent"></div>
 	</div>
-	<div class="accent"></div>
 </div>
+
+<!-- the overlay element -->
+<div class="md-overlay"></div>

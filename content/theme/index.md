@@ -8,6 +8,8 @@ Description: This description will go in the meta description tag
 
 	<p class="lead">Possible global CSS settings adopted from Bootstrap.  Just add the HTML for whichever global CSS settings are needed, then style it.  The most common are included already.</p>
 
+	<p>You should always set your typography and other global CSS settings first, following by any other theme components.</p>
+
 	<p>For more options see <a href="http://getbootstrap.com/css">Bootstrap Docs: CSS</a> | <a href="components">Go to Components &#10141;</a></p>
 
 	<ol>
