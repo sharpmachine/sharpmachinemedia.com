@@ -1,1 +1,0 @@
-jQuery(document).ready(function(e){e("footer span").click(function(){e("article.support").slideToggle()})});
