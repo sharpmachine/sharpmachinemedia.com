@@ -47,6 +47,12 @@
 	font-family: 'FG Book';
 }
 
+.libre {
+	font-family: "Libre Baskerville";
+	font-style: italic;
+	font-weight: 400;
+}
+
 /*..................................the headings */
 h1,
 h2,
@@ -58,7 +64,29 @@ h3 {
 	
 }
 
+h1.title {
+	margin: 0;
+	color: @brand-cream;
+	font-size: 70px;
+	text-shadow: 1px 1px 0px @brand-black, 2px 2px 0px @brand-cream;
+
+	.ampersand {
+		position: relative;
+		top: -4px;
+		font-size: 50px;
+	}
+}
+
 .headline {
 	margin: @padding-base-horizontal*4 0;
-	text-shadow: 1px 1px 0px @brand-tan, 2px 2px 0px @brand-red;
+	text-shadow: 1px 1px 0px @brand-cream, 2px 2px 0px @brand-red;
+}
+
+.ampersand {
+	.libre();
+}
+
+a,
+a:hover {
+	.transition(all ease 0.2s);
 }
