@@ -3,69 +3,104 @@ Title: About
 Description: This description will go in the meta description tag
 */
 
-<div class="page-header">
-	<h1 class="title text-center">About</h1>
-
+<header class="page-header long-format">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-8 col-md-offset-2 text-center">
-				<br>
-				<p class="">We are a small team of forward-thinking creatives and strategists brought together to make you happen.  We do our best to do everything with the core values of relationship, innovation, simplicity, excellence and relevance.</p>
-				<p class="">Redding, CA is home, and we love it.  Our dream is that our city's businesses would be prosperous and self-sustaining.  We also want to see innovation and creativity exported from Redding, to the rest of the world.</p>
+			<div class="col-md-5">
+				<h1 class="title">About</h1>
+				<div class="work-capacity">Sharp Machine</div>
+			</div>
+			<div class="col-md-7">
+				<p class="lead">We are a small team of forward-thinking creatives and strategists brought together to make you happen.  Redding, CA is home, and we love it here.  Our dream is that our city's businesses would be prosperous and self-sustaining, exporting innovation and creativity to the rest of the world.</p>
 			</div>
 		</div>
 	</div>
-</div>
-
-<div class="bar bar-black hidden">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-8 col-md-offset-2 text-center">
-				<h3>Our Values</h3>
-				<p>We are a small team of forward-thinking creatives and strategists brought together to make you happen.  We do our best to do everything with the core values of relationship, innovation, simplicity, excellence and relevance.</p>
-				<p>Redding, CA is home, and we love it.  Our dream is that our city's businesses would be prosperous and self-sustaining.  We also want to see innovation and creativity exported from Redding, to the rest of the world.</p>
-			</div>
-		</div>
-	</div>
-</div>
+</header>
 
 <div class="container">
 	<h2 class="headline text-center">The Team</h2>
-	<div class="row">
-		<div class="col-md-12">
-			<div class="row">
-				<div class="col-md-4 col-md-offset-1 text-center person">
-					<!-- <img src="holder.js/265x265" class="img-circle" alt=""> -->
-					<img src="themes/smm/img/jesse/4.jpg" class="img-circle img-responsive" alt="">
+	<div class="row text-center">
+
+		<div class="col-md-6">
+			<div class="person">
+				<img src="themes/smm/img/jesse/4.jpg" class="img-responsive" alt="Jesse Kade">
+				<div class="person-info">
 					<h2>Jesse Kade</h2>
 					<div class="position">Project Director</div>
-					<div class="bio">
-						<p>Born and raised in Washington State, Jesse grew up drawing, writing lyrics, and making music.  Somewhere along the way he figured out that he loved making people happen.  He decided he would do that by becoming a recording engineer.</p>
-						<p>
-							<a href="http://www.twitter.com/sharpmachine"><i class="fa fa-twitter"></i></a>
-							<a href="https://plus.google.com/102192504961948191311" rel="publisher"><i class="fa fa-google-plus"></i></a>
-							<a href="http://www.dribbble.com/sharpmachine"><i class="fa fa-dribbble"></i></a>
-						</p>
-					</div>
-				</div>
-				<div class="col-md-4 col-md-offset-2 text-center person">
-					<!-- <img src="holder.js/265x265" class="img-circle" alt=""> -->
-					<img src="themes/smm/img/brad.jpg" class="img-circle img-responsive" alt="">
-					<h2>Brad Webster</h2>
-					<div class="position">Brand Strategist</div>
-					<div class="bio">
-						<p>Born and raised in Washington State, Jesse grew up drawing, writing lyrics, and making music.  Somewhere along the way he figured out that he loved making people happen.  He decided he would do that by becoming a recording engineer.</p>
-						<p>
-							<a href="http://www.twitter.com/sharpmachine"><i class="fa fa-twitter"></i></a>
-							<a href="https://plus.google.com/102192504961948191311" rel="publisher"><i class="fa fa-google-plus"></i></a>
-							<a href="http://www.dribbble.com/sharpmachine"><i class="fa fa-dribbble"></i></a>
-						</p>
-					</div>
+					<p class="hidden">
+						<a href="http://www.twitter.com/sharpmachine"><i class="fa fa-twitter"></i></a>
+						<a href="https://plus.google.com/102192504961948191311" rel="publisher"><i class="fa fa-google-plus"></i></a>
+						<a href="http://www.dribbble.com/sharpmachine"><i class="fa fa-dribbble"></i></a>
+					</p>
 				</div>
 			</div>
 		</div>
+
+		<div class="col-md-6">
+			<div class="person">
+				<img src="themes/smm/img/brad.jpg" class="img-responsive" alt="Jesse Kade">
+				<div class="person-info">
+					<h2>Brad Webster</h2>
+					<div class="position">Brand Strategist</div>
+					<p class="hidden">
+						<a href="http://www.twitter.com/sharpmachine"><i class="fa fa-twitter"></i></a>
+						<a href="https://plus.google.com/102192504961948191311" rel="publisher"><i class="fa fa-google-plus"></i></a>
+						<a href="http://www.dribbble.com/sharpmachine"><i class="fa fa-dribbble"></i></a>
+					</p>
+				</div>
+			</div>
+		</div>
+
+		<div class="col-md-4">
+			<div class="person">
+				<img src="themes/smm/img/jesse/4.jpg" class="img-responsive" alt="Jesse Kade">
+				<div class="person-info">
+					<h2>Jack Vu</h2>
+					<div class="position">Code Intern</div>
+					<p class="hidden">
+						<a href="http://www.twitter.com/sharpmachine"><i class="fa fa-twitter"></i></a>
+						<a href="https://plus.google.com/102192504961948191311" rel="publisher"><i class="fa fa-google-plus"></i></a>
+						<a href="http://www.dribbble.com/sharpmachine"><i class="fa fa-dribbble"></i></a>
+					</p>
+				</div>
+			</div>
+		</div>
+
+		<div class="col-md-4">
+			<div class="person">
+				<img src="themes/smm/img/jesse/4.jpg" class="img-responsive" alt="Jesse Kade">
+				<div class="person-info">
+					<h2>Jack Scanlan</h2>
+					<div class="position">Design Intern</div>
+					<p class="hidden">
+						<a href="http://www.twitter.com/sharpmachine"><i class="fa fa-twitter"></i></a>
+						<a href="https://plus.google.com/102192504961948191311" rel="publisher"><i class="fa fa-google-plus"></i></a>
+						<a href="http://www.dribbble.com/sharpmachine"><i class="fa fa-dribbble"></i></a>
+					</p>
+				</div>
+			</div>
+		</div>
+
+		<div class="col-md-4">
+			<div class="person">
+				<img src="themes/smm/img/jesse/4.jpg" class="img-responsive" alt="Jesse Kade">
+				<div class="person-info">
+					<h2>Jack Scanlan</h2>
+					<div class="position">Design Intern</div>
+					<p class="hidden">
+						<a href="http://www.twitter.com/sharpmachine"><i class="fa fa-twitter"></i></a>
+						<a href="https://plus.google.com/102192504961948191311" rel="publisher"><i class="fa fa-google-plus"></i></a>
+						<a href="http://www.dribbble.com/sharpmachine"><i class="fa fa-dribbble"></i></a>
+					</p>
+				</div>
+			</div>
+		</div>
+
 	</div>
 </div>
+<br>
+<br>
+<br>
 
 <div class="well well-lg">
 	<div class="diamond">

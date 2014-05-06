@@ -165,57 +165,32 @@ Description: This description will go in the meta description tag
 		<div class="row">
 			<div class="col-sm-6">
 				<div class="work">
+					<a href="work/piece"><img src="themes/smm/img/bia-lg.jpg" class="img-responsive" alt="Beauty I AM" width="570" height="234"></a>
+				</div>
+			</div>
+			<div class="col-sm-6">
+				<div class="work">
 					<a href="#">
-						<img src="themes/smm/img/bia.jpg" class="img-responsive" alt="Beauty I AM" width="570" height="234">
-						<div class="overlay text-center">
-							<h3>Beauty I AM</h3>
-							<div class="work-capacity">
-								Branding, Identity, Web
-							</div>
-						</div>
+						<img src="themes/smm/img/globacom-lg.jpg" class="img-responsive" alt="Beauty I AM" width="570" height="234">
 					</a>
 				</div>
 			</div>
 			<div class="col-sm-6">
 				<div class="work">
 					<a href="#">
-						<img src="themes/smm/img/bia.jpg" class="img-responsive" alt="Beauty I AM" width="570" height="234">
-						<div class="overlay text-center">
-							<h3>Beauty I AM</h3>
-							<div class="work-capacity">
-								Branding, Identity, Web
-							</div>
-						</div>
+						<img src="themes/smm/img/otb-lg.jpg" class="img-responsive" alt="Beauty I AM" width="570" height="234">
 					</a>
 				</div>
 			</div>
 			<div class="col-sm-6">
 				<div class="work">
 					<a href="#">
-						<img src="themes/smm/img/bia.jpg" class="img-responsive" alt="Beauty I AM" width="570" height="234">
-						<div class="overlay text-center">
-							<h3>Beauty I AM</h3>
-							<div class="work-capacity">
-								Branding, Identity, Web
-							</div>
-						</div>
+						<img src="themes/smm/img/uh-lg.jpg" class="img-responsive" alt="Beauty I AM" width="570" height="234">
 					</a>
 				</div>
 			</div>
-			<div class="col-sm-6">
-				<div class="work">
-					<a href="#">
-						<img src="themes/smm/img/bia.jpg" class="img-responsive" alt="Beauty I AM" width="570" height="234">
-						<div class="overlay text-center">
-							<h3>Beauty I AM</h3>
-							<div class="work-capacity">
-								Branding, Identity, Web
-							</div>
-						</div>
-					</a>
-				</div>
-			</div>
-			<div class="col-md-12 text-right">
+			<div class="clearfix"></div>
+			<div class="col-xs-12 text-right">
 				<a href="work" class="btn btn-lg btn-red btn-lg">See More &#8608;</a>
 			</div>
 		</div>

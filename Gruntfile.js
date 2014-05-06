@@ -62,7 +62,7 @@ module.exports = function(grunt) {
               cleancss: true
             },
             files: {
-              "themes/smm/css/bootstrap.css": "themes/bootstrap/less/bootstrap.less"
+              "themes/smm/css/bootstrap.css": "themes/smm/less/bootstrap.less"
             }
           }
         },

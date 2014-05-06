@@ -11,50 +11,26 @@ Description: This description will go in the meta description tag
 	<div class="row">
 
 		<div class="col-md-3 work-piece-thumb">
-			<a href="work/piece">
-				<img src="holder.js/263x263/auto" class="img-responsive" alt="Work Title">
+			<a href="work/beauty-i-am">
+				<img src="themes/smm/img/bia-sm.jpg" class="img-responsive" alt="Beauty I Am">
 			</a>
 		</div>
 		
 		<div class="col-md-3 work-piece-thumb">
 			<a href="work/piece">
-				<img src="holder.js/263x263/auto" class="img-responsive" alt="Work Title">
+				<img src="themes/smm/img/globacom-sm.jpg" class="img-responsive" alt="Globacom">
 			</a>
 		</div>
 
 		<div class="col-md-3 work-piece-thumb">
 			<a href="work/piece">
-				<img src="holder.js/263x263/auto" class="img-responsive" alt="Work Title">
+				<img src="themes/smm/img/otb-sm.jpg" class="img-responsive" alt="On The Beam">
 			</a>
 		</div>
 
 		<div class="col-md-3 work-piece-thumb">
 			<a href="work/piece">
-				<img src="holder.js/263x263/auto" class="img-responsive" alt="Work Title">
-			</a>
-		</div>
-
-		<div class="col-md-3 work-piece-thumb">
-			<a href="work/piece">
-				<img src="holder.js/263x263/auto" class="img-responsive" alt="Work Title">
-			</a>
-		</div>
-
-		<div class="col-md-3 work-piece-thumb">
-			<a href="work/piece">
-				<img src="holder.js/263x263/auto" class="img-responsive" alt="Work Title">
-			</a>
-		</div>
-
-		<div class="col-md-3 work-piece-thumb">
-			<a href="work/piece">
-				<img src="holder.js/263x263/auto" class="img-responsive" alt="Work Title">
-			</a>
-		</div>
-
-		<div class="col-md-3 work-piece-thumb">
-			<a href="work/piece">
-				<img src="holder.js/263x263/auto" class="img-responsive" alt="Work Title">
+				<img src="themes/smm/img/uh-sm.jpg" class="img-responsive" alt="Unlikely Heroes">
 			</a>
 		</div>
 

@@ -3,8 +3,51 @@ body {
   height: 100%;
 }
 
+html {
+  // background-color: @brand-black;
+}
+
 body {
   padding-top: 93px;
+  -webkit-animation: fadein 1s; /* Safari and Chrome */
+  -moz-animation: fadein 1s; /* Firefox */
+  -ms-animation: fadein 1s; /* Internet Explorer */
+  -o-animation: fadein 1s; /* Opera */
+  animation: fadein 1s;
+  // background-color: @brand-black;
+}
+
+@keyframes fadein {
+  from {
+    opacity:0;
+  }
+  to {
+    opacity:1;
+  }
+}
+@-moz-keyframes fadein { /* Firefox */
+  from {
+    opacity:0;
+  }
+  to {
+    opacity:1;
+  }
+}
+@-webkit-keyframes fadein { /* Safari and Chrome */
+  from {
+    opacity:0;
+  }
+  to {
+    opacity:1;
+  }
+}
+@-o-keyframes fadein { /* Opera */
+  from {
+    opacity:0;
+  }
+  to {
+    opacity: 1;
+  }
 }
 
 @footer-height: 463px;
@@ -41,6 +84,7 @@ body {
 .page-header {
   margin: 0 0 30px;
   padding: @padding-base-horizontal*3;
+  color: @brand-cream;
   background: url(../img/another.jpg) center center no-repeat;
   background-color: rgba(33, 29, 30, 0.5);
   background-blend-mode: multiply;
@@ -256,17 +300,17 @@ h1.featurette-heading {
   }
 }
 
-.work {
-  margin-bottom: 30px;
-  a {
-    display: block;
-    // height: 234px;
+// .work {
+//   margin-bottom: 30px;
+//   a {
+//     display: block;
+//     // height: 234px;
 
-    h2 {
-      margin: 0;
-    }
-  }
-}
+//     h2 {
+//       margin: 0;
+//     }
+//   }
+// }
 
 .img-thumbnail {
   padding: 2px;
@@ -274,20 +318,20 @@ h1.featurette-heading {
 }
 
 /*..................................the recent work section */
-.work {
-  .square(100%);
+// .work {
+//   .square(100%);
 
-  a {
-    .square(100%);
+//   a {
+//     .square(100%);
 
-    &:hover {
-      img {
-        position: relative;
-        top: -100px;
-      }
-    }
-  }
-}
+//     &:hover {
+//       img {
+//         position: relative;
+//         top: -100px;
+//       }
+//     }
+//   }
+// }
 
 .overlay {
   display: none;
@@ -310,6 +354,28 @@ h1.featurette-heading {
 /*..................................the recent work */
 #recent-work {
   margin-bottom: @padding-base-horizontal*3;
+
+
+}
+
+.work,
+.work-piece-thumb {
+  margin-bottom: 30px;
+  background-color: @brand-cream;
+
+  a {
+    img {
+      .opacity(0.6);
+      .transition(all ease 0.2s);
+    }
+
+    &:hover {
+      img {
+        .opacity(1);
+        .transition(all ease 0.2s);
+      }
+    }
+  }
 }
 
 /*..................................the belief well */
@@ -497,7 +563,7 @@ h1.featurette-heading {
 }
 
 /*..................................the work piece page */
-.work-piece {
+.long-format {
   // margin-bottom: 0;
   padding: @padding-base-horizontal*6 0;
   color: @brand-cream;
@@ -689,6 +755,12 @@ span.lowercase {
   }
 }
 
+.Services {
+  .page-header {
+    min-height: 221px;
+  }
+}
+
 /*..................................the about page */
 
 #bios {
@@ -745,21 +817,24 @@ span.lowercase {
   }
 }
 
-
-.person {
-  img {
-    display: block;
-    margin: 0 auto;
-    width: 265px;
-    height: 265px;
-  }
+.person,
+.intern {
   h2 {
     margin-bottom: 0;
     font-size: 32px;
   }
+}
 
-  .position {
-    .libre;
+.person {
+  // img {
+  //   display: block;
+  //   margin: 0 auto;
+  //   width: 265px;
+  //   height: 265px;
+  // }
+  h2 {
+    margin-bottom: 0;
+    font-size: 32px;
   }
 
   .bio {
@@ -779,6 +854,58 @@ span.lowercase {
       }
     }
   }
+}
+
+.person {
+  margin-bottom: 30px;
+  background-color: @brand-black;
+
+  img {
+      .opacity(0.6);
+      width: 100%;
+      // height: 100%;
+    }
+  
+  a {
+    display: block;
+
+    img {
+      .opacity(0.6);
+      width: 100%;
+      height: 100%;
+    }
+
+    &:hover {
+      text-decoration: none;
+
+      img {
+        .opacity(1);
+      }
+    }
+  }
+}
+
+.person-info {
+  position: absolute;
+  // top:0;
+  left: 0;
+  right: 0;
+  bottom: 55px;
+  color: @brand-cream;
+
+  h2 {
+    color: @brand-cream;
+  }
+
+  a {
+    color: @brand-red;
+    font-size: 18px;
+  }
+}
+
+.position {
+  .libre;
+  color: @brand-cream;
 }
 
 #faq {
