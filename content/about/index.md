@@ -21,13 +21,13 @@ Description: This description will go in the meta description tag
 	<h2 class="headline text-center">The Team</h2>
 	<div class="row text-center">
 
-		<div class="col-md-6">
+		<div class="col-sm-6">
 			<div class="person">
 				<img src="themes/smm/img/jesse/4.jpg" class="img-responsive" alt="Jesse Kade">
 				<div class="person-info">
 					<h2>Jesse Kade</h2>
 					<div class="position">Project Director</div>
-					<p class="hidden">
+					<p class="personal-contact">
 						<a href="http://www.twitter.com/sharpmachine"><i class="fa fa-twitter"></i></a>
 						<a href="https://plus.google.com/102192504961948191311" rel="publisher"><i class="fa fa-google-plus"></i></a>
 						<a href="http://www.dribbble.com/sharpmachine"><i class="fa fa-dribbble"></i></a>
@@ -36,13 +36,13 @@ Description: This description will go in the meta description tag
 			</div>
 		</div>
 
-		<div class="col-md-6">
+		<div class="col-sm-6">
 			<div class="person">
 				<img src="themes/smm/img/brad.jpg" class="img-responsive" alt="Jesse Kade">
 				<div class="person-info">
 					<h2>Brad Webster</h2>
 					<div class="position">Brand Strategist</div>
-					<p class="hidden">
+					<p class="personal-contact">
 						<a href="http://www.twitter.com/sharpmachine"><i class="fa fa-twitter"></i></a>
 						<a href="https://plus.google.com/102192504961948191311" rel="publisher"><i class="fa fa-google-plus"></i></a>
 						<a href="http://www.dribbble.com/sharpmachine"><i class="fa fa-dribbble"></i></a>
@@ -51,56 +51,37 @@ Description: This description will go in the meta description tag
 			</div>
 		</div>
 
-		<div class="col-md-4">
+		<div class="col-sm-4">
 			<div class="person">
-				<img src="themes/smm/img/jesse/4.jpg" class="img-responsive" alt="Jesse Kade">
+				<img src="themes/smm/img/jack.jpg" class="img-responsive" alt="Jesse Kade">
 				<div class="person-info">
 					<h2>Jack Vu</h2>
 					<div class="position">Code Intern</div>
-					<p class="hidden">
-						<a href="http://www.twitter.com/sharpmachine"><i class="fa fa-twitter"></i></a>
-						<a href="https://plus.google.com/102192504961948191311" rel="publisher"><i class="fa fa-google-plus"></i></a>
-						<a href="http://www.dribbble.com/sharpmachine"><i class="fa fa-dribbble"></i></a>
-					</p>
 				</div>
 			</div>
 		</div>
 
-		<div class="col-md-4">
+		<div class="col-sm-4">
 			<div class="person">
-				<img src="themes/smm/img/jesse/4.jpg" class="img-responsive" alt="Jesse Kade">
+				<img src="themes/smm/img/jake.jpg" class="img-responsive" alt="Jesse Kade">
 				<div class="person-info">
 					<h2>Jack Scanlan</h2>
 					<div class="position">Design Intern</div>
-					<p class="hidden">
-						<a href="http://www.twitter.com/sharpmachine"><i class="fa fa-twitter"></i></a>
-						<a href="https://plus.google.com/102192504961948191311" rel="publisher"><i class="fa fa-google-plus"></i></a>
-						<a href="http://www.dribbble.com/sharpmachine"><i class="fa fa-dribbble"></i></a>
-					</p>
 				</div>
 			</div>
 		</div>
 
-		<div class="col-md-4">
+		<div class="col-sm-4">
 			<div class="person">
-				<img src="themes/smm/img/jesse/4.jpg" class="img-responsive" alt="Jesse Kade">
+				<img src="themes/smm/img/ben.jpg" class="img-responsive" alt="Jesse Kade">
 				<div class="person-info">
-					<h2>Jack Scanlan</h2>
-					<div class="position">Design Intern</div>
-					<p class="hidden">
-						<a href="http://www.twitter.com/sharpmachine"><i class="fa fa-twitter"></i></a>
-						<a href="https://plus.google.com/102192504961948191311" rel="publisher"><i class="fa fa-google-plus"></i></a>
-						<a href="http://www.dribbble.com/sharpmachine"><i class="fa fa-dribbble"></i></a>
-					</p>
+					<h2>Ben Siekmeier</h2>
+					<div class="position">Brand Intern</div>
 				</div>
 			</div>
 		</div>
-
 	</div>
 </div>
-<br>
-<br>
-<br>
 
 <div class="well well-lg">
 	<div class="diamond">

@@ -10,7 +10,7 @@ Description: This description will go in the meta description tag
 			<div class="col-md-12">
 				<div class="row">
 					<div class="col-md-3">
-						<a href="#branding-id" class="btn btn-lg btn-block btn-cream brand-id-bg">Branding/ID</a>
+						<a href="#branding-id" class="btn btn-lg btn-block btn-cream brand-id-bg">Branding</a>
 					</div>
 					<div class="col-md-3">
 						<a href="#print" class="btn btn-lg btn-block btn-cream">Print <span>&#8609;</span></a>
@@ -123,17 +123,22 @@ Description: This description will go in the meta description tag
 </section>
 
 <section id="misc">
-	<!-- <h3 class="text-center">Other "Good-to-know" info</h1> -->
+	<h3 class="text-center">Good-to-know info</h1>
 	<div class="container">
 		<div class="row">
-			<div class="col-md-8 col-md-offset-2">
+			<div class="col-md-5 col-md-offset-1">
 				<div class="row">
-					<div class="col-md-5">
+				<div class="col-md-4"><img src="themes/smm/img/easy-billing.jpg" class="img-responsive img-circle" alt="" width="200" height="200"></div>
+					<div class="col-md-8">
 						<h4>Easy Billing</h4>
-						<p>Our billing structure makes it easier for you to start your project faster, with less money down.</p>
-						<p>We simply take the total cost of your project and bill you monthly for the duration of the project. To get started we only ask for 50% of the first months payment down.</p>
+						<p>We take the total cost of your project and bill you monthly for the duration of the project. To get started we ask for 50% of the first month's payment.</p>
 					</div>
-					<div class="col-md-5 col-md-offset-1">
+				</div>
+			</div>
+			<div class="col-md-5 col-md-offset-1">
+				<div class="row">
+				<div class="col-md-4"><img src="themes/smm/img/uh-giving.jpg" class="img-responsive img-circle" alt="" width="200" height="200"></div>
+					<div class="col-md-8">
 						<h4>Giving</h4>
 						<p>We proudly support the efforts of Unlikely Heroes to end human trafficking world-wide by donating 10% of project proceeds.</p>
 					</div>

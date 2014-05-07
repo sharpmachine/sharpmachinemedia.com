@@ -8,7 +8,7 @@ Description: This description will go in the meta description tag
 	<h1 class="title">Branding, Strategy <span class="ampersand">&amp;</span> Design</h1>
 	<h2>Discover your brand.  Grow your business.  Build it to last.</h2>
 	<p>
-		<a href="mailto:hello@sharpmachinemedia.com" class="btn btn-cream btn-lg" role="button">Let's talk</a>
+		<a href="mailto:hello@sharpmachinemedia.com" class="btn btn-cream btn-lg" role="button">How we can help</a>
 	</p>
 </div>
 
@@ -39,42 +39,42 @@ Description: This description will go in the meta description tag
 <div class="container">
 	<h2 class="headline text-center">What We Do</h2>
 	<div class="row">
-		<div class="col-sm-6 service">
+		<div class="col-sm-6 col-md-3 service">
 			<div class="service-inner service-branding-identity md-trigger" data-modal="modal-1">
 				<!-- <img src="themes/smm/img/brand-identity.png" alt=""> -->
 				<div class="service-content">
 					
-					<h3>Branding <br><span class="ampersand">&amp;</span> Identity</h3>
-					<p>We take your business identity from idea to <br>reality and communicate your brand <br>message with consistency.</p>
+					<h3>Branding</h3>
+					<p>Your business identity from idea to reality, and telling your story with consistency.</p>
 				</div>
 			</div>
 		</div>
-		<div class="col-sm-6 service">
+		<div class="col-sm-6 col-md-3 service">
 			<div class="service-inner service-print md-trigger" data-modal="modal-1">
 				<div class="service-content">
 					<h3>Print</h3>
-					<p>We design engaging print materials, <br>and take them from conception to delivery <br> for you.</p>
+					<p>Engaging print materials, and take them from conception to delivery for you.</p>
 				</div>
 			</div>
 		</div>
-		<div class="col-sm-6 service">
+		<div class="col-sm-6 col-md-3 service">
 			<div class="service-inner service-web md-trigger" data-modal="modal-1">
 				<div class="service-content">
 					<h3>Web</h3>
-					<p>We create compelling mobile, tablet, and <br>desktop experiences. Our code is as poetic <br>as our design.</p>
+					<p>Compelling mobile, tablet, and desktop experiences. Our code is as poetic as our design.</p>
 				</div>
 			</div>
 		</div>
-		<div class="col-sm-6 service">
+		<div class="col-sm-6 col-md-3 service">
 			<div class="service-inner service-messaging md-trigger" data-modal="modal-1">
 				<div class="service-content">
 					<h3>Messaging</h3>
-					<p>We create authentic content that <br>streamlines and conveys your brand message.</p>
+					<p>We create authentic content that streamlines and conveys your brand message.</p>
 				</div>
 			</div>
 		</div>
-		<div class="col-md-12 text-right">
-			<a href="services" class="btn btn-lg btn-red btn-lg">Learn More &#8608;</a>
+		<div class="col-sm-6 col-md-3 text-center pull-right">
+			<a href="services" class="btn btn-lg btn-red btn-lg btn-block">Learn More &#8608;</a>
 		</div>
 	</div>
 </div>

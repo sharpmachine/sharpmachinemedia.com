@@ -60,7 +60,9 @@ body {
 }
 
 .jumbotron {
-  height: 482px;
+  // height: 482px;
+  height: 800px;
+  // height: 100%;
   margin-bottom: 0;
   background: url(../img/another.jpg) center center no-repeat fixed;
   background-color: rgba(33, 29, 30, 0.5);
@@ -218,12 +220,31 @@ h1.featurette-heading {
 
   .service-inner {
     position: relative;
-    height: 234px;
-    padding: 15px 15px 30px 30px;
-    // background: url(../img/bg.jpg) top left no-repeat;
-    background-color: @brand-black;
+    // height: 234px;
+    height: 220px;
+    padding: 15px;
+    background: url(../img/brand-id-bg.png) 192px -24px no-repeat @brand-black;
+    // background-color: @brand-black;
+    // border: 2px solid @brand-black;
+
     cursor: pointer;
     color: @brand-cream;
+    .transition(all ease 0.2s);
+
+    h3 {
+      color: @brand-cream;
+    }
+
+    &:hover {
+      // background-color: @brand-red;
+      background: url(../img/brand-id-bg.png) 192px -24px no-repeat @brand-red;
+      color: @brand-cream;
+      .transition(all ease 0.2s);
+      h3 {
+        color: @brand-cream;
+        .transition(all ease 0.2s);
+      }
+    }
 
     img {
       float: right;
@@ -232,37 +253,38 @@ h1.featurette-heading {
     .service-content {
       padding-top: 30px;
       position: absolute;
-      bottom: 30px
+      bottom: 15px
     }
 
     h3 {
       bottom: 75px;
       margin: 0;
-      color: @brand-cream;
+      // color: @brand-black;
+      font-size: 32px;
     }
 
     p {
       margin-bottom: 0;
-      padding-right: 30px;
+      padding-right: 15px;
       font-family: @font-family-serif;
       font-style: italic;
-      color: @brand-cream;
+      // color: @brand-black
     }
 
     &.service-branding-identity {
-      background: url(../img/brand-identity.png) 400px 15px no-repeat @brand-black;
+      // background: url(../img/brand-identity.png) 400px 15px no-repeat @brand-black;
     }
 
     &.service-print {
-      background: url(../img/print.png) 400px 15px no-repeat @brand-black;
+      // background: url(../img/print.png) 400px 15px no-repeat @brand-black;
     }
 
     &.service-web {
-      background: url(../img/web.png) 400px 15px no-repeat @brand-black;
+      // background: url(../img/web.png) 400px 15px no-repeat @brand-black;
     }
 
     &.service-messaging {
-      background: url(../img/messaging.png) 400px 15px no-repeat @brand-black;
+      // background: url(../img/messaging.png) 400px 15px no-repeat @brand-black;
     }
   }
 }
@@ -412,6 +434,8 @@ h1.featurette-heading {
   color: @brand-cream;
   font-family: 'FG Compressed';
   background: url(../img/printing-press.jpg) bottom center no-repeat fixed;
+  -webkit-background-size: cover;
+  background-size: cover;
   text-transform: uppercase;
 
   h2 {
@@ -697,12 +721,13 @@ span.lowercase {
 // If copy is short, then first value will be negative
 // If image is short, then first value will be positive
 
-@even-steven: -16px;
+@even-steven: -10px;
 
 #branding-id {
   .short {
     // margin-top: @even-steven;
-    margin-top: @even-steven + (248px / 2);
+    margin-top: @even-steven + (155px / 2);
+    // margin-top: -10px;
   }
 }
 
@@ -726,9 +751,16 @@ span.lowercase {
 }
 
 #misc {
-  padding: @padding-base-horizontal*2 0;
+  padding: @padding-base-horizontal*4 0;
   background-color: @brand-red;
   color: @brand-cream;
+
+  h3 {
+    color: @brand-cream;
+    margin-top: 0;
+    margin-bottom: @padding-base-horizontal*3;
+    text-shadow: 1px 1px 0px @brand-black, 2px 2px 0px @brand-cream;
+  }
 
   h4 {
     .libre();
@@ -867,7 +899,7 @@ span.lowercase {
     }
   
   a {
-    display: block;
+    
 
     img {
       .opacity(0.6);
@@ -898,9 +930,18 @@ span.lowercase {
   }
 
   a {
-    color: @brand-red;
-    font-size: 18px;
+    color: @brand-cream;
+    font-size: 24px;
+    margin-right: 10px;
+
+    &:last-child {
+      margin-right: 0;
+    }
   }
+}
+
+.personal-contact {
+  margin-bottom: 0;
 }
 
 .position {
