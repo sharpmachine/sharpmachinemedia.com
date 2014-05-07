@@ -74,12 +74,21 @@ body {
   }
 
   h2 {
-    margin: 0 0 @padding-base-horizontal*2;
+    margin: 0 0 @padding-base-horizontal*4;
     color: @brand-cream;
     .libre();
     font-size: 23px;
     text-shadow: 1px 1px 1px @brand-black;
     text-transform: none;
+  }
+
+  .down-arrow {
+    color: @brand-cream;
+    font-size: 136px;
+    line-height: 1;
+    margin-top: -35px;
+    // .libre();
+    // .fg-book();
   }
 }
 
@@ -295,8 +304,14 @@ h1.featurette-heading {
   padding: @padding-base-horizontal;
 }
 
+#testimonies {
+  margin-bottom: -72px;
+  padding: 30px 0 30px;
+  background-color: @brand-red;
+}
+
 .client-testimonial {
-  margin-top: @padding-base-horizontal*2;
+  // margin-top: @padding-base-horizontal*2;
   p {
     margin-top: 30px;
     .libre();
@@ -311,14 +326,14 @@ h1.featurette-heading {
 }
 
 .carousel-indicators {
-  bottom: -10px;
+  bottom: 10px;
 
   li {
-    border-color: @brand-red;
+    border-color: @brand-blue;
   }
 
   .active {
-    background-color: @brand-red;
+    background-color: @brand-blue;
   }
 }
 
@@ -402,7 +417,7 @@ h1.featurette-heading {
 
 /*..................................the belief well */
 .well {
-  margin: @padding-base-horizontal*3 0 0;
+  margin: @padding-base-horizontal*6 0 0;
   color: @brand-cream;
   .libre();
   text-align: center;
@@ -462,7 +477,7 @@ h1.featurette-heading {
 
   &.right {
     float: right;
-    top: -12px;
+    // top: 0;
     right: 3px;
     margin-bottom: -12px;
   }
@@ -723,30 +738,47 @@ span.lowercase {
 
 @even-steven: -10px;
 
-#branding-id {
+.service-branding {
+  background: url(../img/branding-bottom-right.png) top left no-repeat;
   .short {
     // margin-top: @even-steven;
-    margin-top: @even-steven + (155px / 2);
+    margin-top: @even-steven + (183px / 2);
     // margin-top: -10px;
   }
 }
 
 
-#print {
+.service-print {
+  background: url(../img/branding-bottom-left.png) top right no-repeat #F1F1EB;
   .short {
-    margin-top: @even-steven + (357px / 2);
+    margin-top: @even-steven + (243px / 2);
+    // margin-top: @even-steven;
   }
 }
 
-#web {
+.service-web {
+  background: url(../img/branding-bottom-right.png) top left no-repeat;
   .short {
-    margin-top: @even-steven + (313px / 2);
+    margin-top: @even-steven + (90px / 2);
+    // margin-top: @even-steven;
   }
 }
 
-#messaging {
+.service-messaging {
+  background: url(../img/branding-bottom-left.png) top right no-repeat #F1F1EB;
   .short {
-    margin-top: @even-steven + (335px / 2);
+    margin-top: @even-steven + (158px / 2);
+    // margin-top: @even-steven;
+  }
+}
+
+.Services {
+  .page-header {
+    margin-bottom: 0;
+  }
+
+  p {
+    // .lead();
   }
 }
 
@@ -766,8 +798,11 @@ span.lowercase {
     .libre();
   }
 
-  p {
-    // .libre;
+  .btn {
+    margin-top: 20px;
+    &:hover {
+      background-color: @brand-black;
+    }
   }
 }
 
@@ -893,32 +928,32 @@ span.lowercase {
   background-color: @brand-black;
 
   img {
-      .opacity(0.6);
-      width: 100%;
+    .opacity(0.6);
+    width: 100%;
       // height: 100%;
     }
-  
-  a {
-    
 
-    img {
-      .opacity(0.6);
-      width: 100%;
-      height: 100%;
-    }
+    a {
 
-    &:hover {
-      text-decoration: none;
 
       img {
-        .opacity(1);
+        .opacity(0.6);
+        width: 100%;
+        height: 100%;
+      }
+
+      &:hover {
+        text-decoration: none;
+
+        img {
+          .opacity(1);
+        }
       }
     }
   }
-}
 
-.person-info {
-  position: absolute;
+  .person-info {
+    position: absolute;
   // top:0;
   left: 0;
   right: 0;
@@ -949,7 +984,7 @@ span.lowercase {
   color: @brand-cream;
 }
 
-#faq {
+.faq {
   margin-bottom: @padding-base-horizontal*3;
   h4 {
     .libre();
@@ -964,3 +999,63 @@ span.lowercase {
 
 
 
+/*..................................the modal */
+.md-content {
+  padding-top: 80px;
+  color: @brand-cream;
+  background-color: @brand-black;
+  // background: url(../img/brand-id-lg-cream.png) center center no-repeat;
+  h3 {
+    color: @brand-cream;
+  }
+
+  p {
+    font-size: 18px;
+  }
+
+  ul {
+    margin-left: 0;
+    padding-left: 15px;
+    list-style-type: circle;
+    li {
+      .libre();
+    }
+  }
+
+  .close-box {
+    height: 22px;
+    margin-top: -56px;
+    margin-bottom: 30px;
+
+    span {
+      font-size: 38px;
+      line-height: 1;
+      cursor: pointer;
+      color: @brand-red;
+      // .libre();
+      // .fg-book();
+    }
+  }
+}
+
+.md-show.md-effect-12 ~ .md-overlay {
+  // background: @brand-cream !important;
+  background: url(../img/brand-id-lg-cream.png) -250px 350px no-repeat @brand-black !important;
+   // background: url(../img/brand-id-lg-cream.png) -250px 400% no-repeat @brand-black !important;
+ }
+
+.anchor {
+  position: relative;
+  top: -93px;
+  visibility: hidden;
+}
+
+.services-anchor {
+  position: relative;
+  top: -93px + (134 / 2);
+  visibility: hidden;
+}
+
+// .the-team {
+//   margin-bottom: 60px;
+// }

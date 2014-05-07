@@ -17,7 +17,7 @@ Description: This description will go in the meta description tag
 	</div>
 </header>
 
-<div class="container">
+<div class="container the-team">
 	<h2 class="headline text-center">The Team</h2>
 	<div class="row text-center">
 
@@ -100,28 +100,28 @@ Description: This description will go in the meta description tag
 		<h2 class="headline text-center">The Studio</h2>
 		<div class="row">
 			<div class="col-md-12">
-				<img src="holder.js/100%x500" alt="">
+				<img src="themes/smm/img/about1.jpg" class="img-responsive" alt="" width="1140" height="500">
 			</div>
 			<div class="col-md-6">
 				<div class="row">
 					<div class="col-md-12">
-						<img src="holder.js/100%x556" alt="">
+						<img src="themes/smm/img/about2.jpg" class="img-responsive" alt="" width="555" height="555">
 					</div>
 				</div>
 			</div>
 			<div class="col-md-6">
 				<div class="row">
 					<div class="col-md-6">
-						<img src="holder.js/100%x100%" alt="">
+						<img src="themes/smm/img/about3.jpg" class="img-responsive" alt="" width="263" height="263">
 					</div>
 					<div class="col-md-6">
-						<img src="holder.js/100%x100%" alt="">
+						<img src="themes/smm/img/about4.jpg" class="img-responsive" alt="" width="263" height="263">
 					</div>
 					<div class="col-md-6">
-						<img src="holder.js/100%x100%" alt="">
+						<img src="themes/smm/img/about5.jpg" class="img-responsive" alt="" width="263" height="263">
 					</div>
 					<div class="col-md-6">
-						<img src="holder.js/100%x100%" alt="">
+						<img src="themes/smm/img/about6.jpg" class="img-responsive" alt="" width="263" height="263">
 					</div>
 				</div>
 			</div>
@@ -141,7 +141,8 @@ Description: This description will go in the meta description tag
 	</div>
 </div>
 
-<div id="faq" class="container">
+<div id="faq" class="anchor"></div>
+<div class="container faq">
 	<h2 class="headline text-center">FAQ</h2>
 	<div class="row">
 		<div class="col-md-6">

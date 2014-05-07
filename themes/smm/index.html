@@ -127,22 +127,24 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
-    <script src="{{ theme_url }}/js/bootstrap.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="{{ theme_url }}/js/plugins.min.js"></script>
     <script src="{{ theme_url }}/js/holder.js"></script>
-    <!--  <script src="{{ theme_url }}/js/classie.js"></script>-->
-    <!-- <script src="{{ theme_url }}/js/modalEffects.js"></script> -->
+      <script src="{{ theme_url }}/js/classie.js"></script>
+    <script src="{{ theme_url }}/js/modalEffects.js"></script>
     <!--<script src="{{ theme_url }}/js/squishy.js"></script>-->
 
     <!-- for the blur effect -->
     <!-- by @derSchepp https://github.com/Schepp/CSS-Filters-Polyfill -->
     <script>
       // this is important for IEs
-      //var polyfilter_scriptpath = '/js/';
+      var polyfilter_scriptpath = '/js/';
     </script>
-    <!--  <script src="{{ theme_url }}/js/cssParser.js"></script>-->
-    <!-- <script src="{{ theme_url }}/js/css-filters-polyfill.js"></script> -->
+      <script src="{{ theme_url }}/js/cssParser.js"></script>
+    <script src="{{ theme_url }}/js/css-filters-polyfill.js"></script>
 
-    <script>//(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'share.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}id=id+'_';if(!gi.call(d,id)){qs=ce.call(d,'link');qs.rel='stylesheet';qs.id=id;qs.href=b+'share-button.css';s=gt.call(d,'head')[0];s.appendChild(qs,s)}})()</script>
+     <script src="{{ theme_url }}/js/scripts.min.js"></script>
+
+    <script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'share.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}id=id+'_';if(!gi.call(d,id)){qs=ce.call(d,'link');qs.rel='stylesheet';qs.id=id;qs.href=b+'share-button.css';s=gt.call(d,'head')[0];s.appendChild(qs,s)}})()</script>
   </body>
 </html>

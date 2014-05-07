@@ -8,34 +8,44 @@ Description: This description will go in the meta description tag
 	<h1 class="title">Branding, Strategy <span class="ampersand">&amp;</span> Design</h1>
 	<h2>Discover your brand.  Grow your business.  Build it to last.</h2>
 	<p>
-		<a href="mailto:hello@sharpmachinemedia.com" class="btn btn-cream btn-lg" role="button">How we can help</a>
+		<a href="#what-we-do" class="btn btn-cream btn-lg" role="button">How we can help</a>
 	</p>
+	<!-- <div class="down-arrow">&#8609;</div> -->
+	<div class="down-arrow">&darr;</div>
 </div>
 
 <div class="md-modal md-effect-12" id="modal-1">
 	<div class="md-content">
-		<h3>Modal Dialog</h3>
+		<h3 class="text-left">Branding</h3>
+		<div class="close-box">
+			<span class="pull-right md-close">&#10005;</span>
+		</div>
+		
 		<div>
 			<div class="row">
 				<div class="col-md-6">
-					hello
+					<p class="">We believe in building purpose-driven brands. Your price and product will change as you grow, but your purpose should never change.</p>
+					<p class="">We've simplified the branding process to make it easier for our clients' to understand, appreciate and follow along, while still delivering maximum impact.</p>
 				</div>
 				<div class="col-md-6">
-					hello
+					<p>We can design out the visual and tonal manifestation of that strategy, such as the logo, typefaces, icons and tone-of-voice, as well as a style guide to help your team manage your brand well.</p>
+					<ul>
+						<li>Conceptualization</li>
+						<li>Naming</li>
+						<li>Brand Rollout Strategy</li>
+						<li>Logo Design</li>
+						<li>Marketing Collateral</li>
+						<li>Brand Style Guide</li>
+					</ul>
 				</div>
 			</div>
-			<p>This is a modal window. You can do the following things with it:</p>
-			<ul>
-				<li><strong>Read:</strong> modal windows will probably tell you something important so don't forget to read what they say.</li>
-				<li><strong>Look:</strong> a modal window enjoys a certain kind of attention; just look at it and appreciate its presence.</li>
-				<li><strong>Close:</strong> click on the button below to close the modal.</li>
-			</ul>
-			<button class="md-close">Close me!</button>
+			<!-- <button class="md-close">Close me!</button> -->
 		</div>
 	</div>
 </div>  
 
 <!-- What we do -->
+<div id="what-we-do" class="anchor"></div>
 <div class="container">
 	<h2 class="headline text-center">What We Do</h2>
 	<div class="row">
@@ -124,6 +134,9 @@ Description: This description will go in the meta description tag
 			</div>
 		</div>
 	</div>
+</section>
+
+<section id="testimonies">
 	<div class="container">
 		<div class="row client-testimonial">
 			<div class="col-md-8 col-md-offset-2">
@@ -132,7 +145,7 @@ Description: This description will go in the meta description tag
 						<img src="themes/smm/img/jonathan.jpg" class="img-responsive img-circle" alt="Generic placeholder image">
 					</div>
 					<div class="col-sm-9">
-						<p>"We loved the enthusiasm and the commitment to design consistency which Sharp Machine Media demonstrated throughout the process" <br> <cite>- <strong>Michael Van Tinteren, BJM</strong></cite></p>
+						<p>"We loved the enthusiasm and the commitment to design consistency which Sharp Machine demonstrated throughout the process" <br> <cite>- <strong>Michael Van Tinteren, BJM</strong></cite></p>
 					</div>
 					<ol class="carousel-indicators">
 						<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>

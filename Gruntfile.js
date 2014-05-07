@@ -39,13 +39,20 @@ module.exports = function(grunt) {
           dist: {
             files: {
               'themes/smm/js/plugins.min.js': [
-              'themes/smm/js/affix.js',
               'themes/smm/js/transition.js',
-              'themes/smm/js/tab.js',
+              'themes/smm/js/alert.js',
               'themes/smm/js/button.js',
+              'themes/smm/js/carousel.js',
               'themes/smm/js/collapse.js',
               'themes/smm/js/dropdown.js',
-              'themes/smm/js/vendor/ajax-form.js'
+              'themes/smm/js/modal.js',
+              'themes/smm/js/tooltip.js',
+              'themes/smm/js/popover.js',
+              'themes/smm/js/scrollspy.js',
+              'themes/smm/js/tab.js',
+              'themes/smm/js/affix.js',
+              'themes/smm/js/vendor/*.js',
+              'bower-components/jquery.scrollTo/jquery.scrollTo.js'
               ],
               'themes/smm/js/scripts.min.js': [
               'themes/smm/js/scripts.js'
@@ -162,4 +169,4 @@ module.exports = function(grunt) {
         'watch'
         ]);
 
-};
+  };

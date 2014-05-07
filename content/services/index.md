@@ -13,13 +13,13 @@ Description: This description will go in the meta description tag
 						<a href="#branding-id" class="btn btn-lg btn-block btn-cream brand-id-bg">Branding</a>
 					</div>
 					<div class="col-md-3">
-						<a href="#print" class="btn btn-lg btn-block btn-cream">Print <span>&#8609;</span></a>
+						<a href="#print" class="btn btn-lg btn-block btn-cream brand-id-bg">Print</a>
 					</div>
 					<div class="col-md-3">
-						<a href="#web" class="btn btn-lg btn-block btn-cream">Web <span>&#8609;</span></a>
+						<a href="#web" class="btn btn-lg btn-block btn-cream brand-id-bg">Web</a>
 					</div>
 					<div class="col-md-3">
-						<a href="#messaging" class="btn btn-lg btn-block btn-cream">Messaging <span>&#8609;</span></a>
+						<a href="#messaging" class="btn btn-lg btn-block btn-cream brand-id-bg">Messaging</a>
 					</div>
 				</div>
 			</div>
@@ -62,13 +62,16 @@ Description: This description will go in the meta description tag
 	</div>
 </div>
 
-<section id="branding-id" class="service-description cream">
+<div id="branding-id" class="services-anchor"></div>
+<section class="service-description service-branding cream">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-6 short">
-				<h1>Branding &amp; Identity</h1>
-				<p>We've discovered that audiences tend to do business with brands based on one of three levels; price, product or purpose. We believe in building purpose-driven brands. Your price and product will change as you grow, but your purpose should never change.</p>
-				<p>We've managed to simplify the branding process to make it easier for our clients' to understand, appreciate and follow along, while still delivering maximum impact. From the process, a strategy emerges that a brand can be built upon. From there we can design out the visual and tonal manifestation of that strategy, such as the logo, typefaces, icons and tone-of-voice, as well as a style guide to help your team manage your brand well.</p>
+			<div class="col-md-6 short text-right">
+				<h1>Branding</h1>
+				<p class="lead hidden">We've discovered that audiences tend to do business with brands based on one of three levels; price, product or purpose. We believe in building purpose-driven brands. Your price and product will change as you grow, but your purpose should never change.</p>
+				<p class="lead hidden">We've managed to simplify the branding process to make it easier for our clients' to understand, appreciate and follow along, while still delivering maximum impact. From the process, a strategy emerges that a brand can be built upon. From there we can design out the visual and tonal manifestation of that strategy, such as the logo, typefaces, icons and tone-of-voice, as well as a style guide to help your team manage your brand well.</p>
+				<p class="lead">We believe in building purpose-driven brands. Your price and product will change as you grow, but your purpose should never change.</p>
+				<p class="lead">We've simplified the branding process to make it easier for our clients' to understand, appreciate and follow along, while still delivering maximum impact. We can design out the visual and tonal manifestation of that strategy, such as the logo, typefaces, icons and tone-of-voice, as well as a style guide to help your team manage your brand well.</p>
 			</div>
 			<div class="col-md-6">
 				<img src="themes/smm/img/drawing.jpg" class="img-circle img-responsive" alt="">
@@ -77,7 +80,8 @@ Description: This description will go in the meta description tag
 	</div>
 </section>
 
-<section id="print" class="service-description cream-light">
+<div id="print" class="services-anchor"></div>
+<section class="service-description service-print cream-light">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6">
@@ -85,20 +89,21 @@ Description: This description will go in the meta description tag
 			</div>
 			<div class="col-md-6 short">
 				<h1>Print</h1>
-				<p>Because we live in a real world and your brand cannot exist in digital form alone.  Print is still very much alive and still offers great opportunities for your audience to connect with your brand.</p>
-				<p>We can design the big stuff, such as ads, packaging and signage, as well as the small things such as business cards and stationary.</p>
+				<p class="lead">Because we live in a real world and your brand cannot exist in digital form alone.  Print is still very much alive and still offers great opportunities for your audience to connect with your brand.</p>
+				<p class="lead">We can design the big stuff, such as ads, packaging and signage, as well as the small things such as business cards and stationary.</p>
 			</div>
 		</div>
 	</div>
 </section>
 
-<section id="web" class="service-description cream">
+<div id="web" class="services-anchor"></div>
+<section class="service-description service-web cream">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-6 short">
+			<div class="col-md-6 short text-right">
 				<h1>Web</h1>
-				<p>Your online presence is probably your biggest touch-point, and your brand emotion needs be reflected in the experience. Whether your audience is interacting with you online via desktop, laptop, tablet or mobile, their experience should be easy-to-use, positive and memorable.</p>
-				<p>Besides that, it also needs to meet your business goals.  We like to ask, "If your website was an employee, what would you want it to do for you?".  The answer to that question will give us a good idea of where to start.
+				<p class="lead">Your online presence is probably your biggest touch-point, and your brand emotion needs be reflected in the experience. Whether your audience is interacting with you online via desktop, laptop, tablet or mobile, their experience should be easy-to-use, positive and memorable.</p>
+				<p class="lead">Besides that, it also needs to meet your business goals.  We like to ask, "If your website was an employee, what would you want it to do for you?".  The answer to that question will give us a good idea of where to start.
 			</div>
 			<div class="col-md-6">
 				<img src="themes/smm/img/web.jpg" class="img-circle img-responsive" alt="">
@@ -107,7 +112,8 @@ Description: This description will go in the meta description tag
 	</div>
 </section>
 
-<section id="messaging" class="service-description cream-light">
+<div id="messaging" class="services-anchor"></div>
+<section class="service-description service-messaging cream-light">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6">
@@ -115,8 +121,8 @@ Description: This description will go in the meta description tag
 			</div>
 			<div class="col-md-6 short">
 				<h1>Messaging</h1>
-				<p>For a brand to be effective it's messaging has to be consistent and on-brand.  Today there are more ways for brands to connect with their audience then in the past.  Facebook, Twitter, email...the list goes on.  You commmunciation across channels needs to be consistent, and awesome!</p>
-				<p>We can help develop messaging that can be used on your website, your print touch-points, social media, or anywhere you connect with your audience.</p>
+				<p class="lead">For a brand to be effective it's messaging has to be consistent and on-brand.  Today there are more ways for brands to connect with their audience then in the past.  Facebook, Twitter, email...the list goes on.  You commmunciation across channels needs to be consistent, and awesome!</p>
+				<p class="lead">We can help develop messaging that can be used on your website, your print touch-points, social media, or anywhere you connect with your audience.</p>
 			</div>
 		</div>
 	</div>
@@ -144,6 +150,8 @@ Description: This description will go in the meta description tag
 					</div>
 				</div>
 			</div>
+			<div class="clearfix"></div>
+			<div class="col-xs-12 text-center"><a href="about#faq" class="btn btn-lg btn-black">See FAQ's</a></div>
 		</div>
 	</div>
 </section>
