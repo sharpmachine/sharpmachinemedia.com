@@ -5,56 +5,23 @@ Description: This description will go in the meta description tag
 
 <div class="page-header text-center">
 	<h1 class="title">Services</h1>
-	<div class="row services-options">
-		<div class="container">
-			<div class="col-md-12">
-				<div class="row">
-					<div class="col-md-3">
-						<a href="#branding-id" class="btn btn-lg btn-block btn-cream brand-id-bg">Branding</a>
-					</div>
-					<div class="col-md-3">
-						<a href="#print" class="btn btn-lg btn-block btn-cream brand-id-bg">Print</a>
-					</div>
-					<div class="col-md-3">
-						<a href="#web" class="btn btn-lg btn-block btn-cream brand-id-bg">Web</a>
-					</div>
-					<div class="col-md-3">
-						<a href="#messaging" class="btn btn-lg btn-block btn-cream brand-id-bg">Messaging</a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-
-<div class="bar services-nav text-center hidden">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-8 col-md-offset-2">
-				<div class="row">
-					<div class="col-md-3 service-nav-item">
-						<a href="#branding-id">
-							<img src="themes/smm/img/brand-identity.png" alt="Branding &amp; Identity">
-							<h3>Brand &amp; Identity</h3>
-						</a>
-					</div>
-					<div class="col-md-3 service-nav-item">
-						<a href="#print">
-							<img src="themes/smm/img/print.png" alt="Branding &amp; Identity">
-							<h3>Print</h3>
-						</a>
-					</div>
-					<div class="col-md-3 service-nav-item">
-						<a href="#web">
-							<img src="themes/smm/img/web.png" alt="Branding &amp; Identity">
-							<h3>Web</h3>
-						</a>
-					</div>
-					<div class="col-md-3 service-nav-item">
-						<a href="#messaging">
-							<img src="themes/smm/img/messaging.png" alt="Branding &amp; Identity">
-							<h3>Messaging</h3>
-						</a>
+			<div class="services-options">
+				<div class="col-md-12">
+					<div class="row">
+						<div class="col-md-3">
+							<a href="#branding" class="btn btn-lg btn-block btn-cream branding-bg">Branding</a>
+						</div>
+						<div class="col-md-3">
+							<a href="#print" class="btn btn-lg btn-block btn-cream print-bg">Print</a>
+						</div>
+						<div class="col-md-3">
+							<a href="#web" class="btn btn-lg btn-block btn-cream web-bg">Web</a>
+						</div>
+						<div class="col-md-3">
+							<a href="#messaging" class="btn btn-lg btn-block btn-cream messaging-bg">Messaging</a>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -62,14 +29,12 @@ Description: This description will go in the meta description tag
 	</div>
 </div>
 
-<div id="branding-id" class="services-anchor"></div>
-<section class="service-description service-branding cream">
+<div id="branding" class="services-anchor"></div>
+<section id="big-branding" class="service-description big-branding">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 short text-right">
 				<h1>Branding</h1>
-				<p class="lead hidden">We've discovered that audiences tend to do business with brands based on one of three levels; price, product or purpose. We believe in building purpose-driven brands. Your price and product will change as you grow, but your purpose should never change.</p>
-				<p class="lead hidden">We've managed to simplify the branding process to make it easier for our clients' to understand, appreciate and follow along, while still delivering maximum impact. From the process, a strategy emerges that a brand can be built upon. From there we can design out the visual and tonal manifestation of that strategy, such as the logo, typefaces, icons and tone-of-voice, as well as a style guide to help your team manage your brand well.</p>
 				<p class="lead">We believe in building purpose-driven brands. Your price and product will change as you grow, but your purpose should never change.</p>
 				<p class="lead">We've simplified the branding process to make it easier for our clients' to understand, appreciate and follow along, while still delivering maximum impact. We can design out the visual and tonal manifestation of that strategy, such as the logo, typefaces, icons and tone-of-voice, as well as a style guide to help your team manage your brand well.</p>
 			</div>
@@ -81,7 +46,7 @@ Description: This description will go in the meta description tag
 </section>
 
 <div id="print" class="services-anchor"></div>
-<section class="service-description service-print cream-light">
+<section class="service-description big-print bg-brand-white">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6">
@@ -97,23 +62,23 @@ Description: This description will go in the meta description tag
 </section>
 
 <div id="web" class="services-anchor"></div>
-<section class="service-description service-web cream">
+<section class="service-description big-web">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 short text-right">
 				<h1>Web</h1>
 				<p class="lead">Your online presence is probably your biggest touch-point, and your brand emotion needs be reflected in the experience. Whether your audience is interacting with you online via desktop, laptop, tablet or mobile, their experience should be easy-to-use, positive and memorable.</p>
 				<p class="lead">Besides that, it also needs to meet your business goals.  We like to ask, "If your website was an employee, what would you want it to do for you?".  The answer to that question will give us a good idea of where to start.
-			</div>
-			<div class="col-md-6">
-				<img src="themes/smm/img/web.jpg" class="img-circle img-responsive" alt="">
+				</div>
+				<div class="col-md-6">
+					<img src="themes/smm/img/web.jpg" class="img-circle img-responsive" alt="">
+				</div>
 			</div>
 		</div>
-	</div>
-</section>
+	</section>
 
 <div id="messaging" class="services-anchor"></div>
-<section class="service-description service-messaging cream-light">
+<section class="service-description big-messaging bg-brand-white">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6">
@@ -128,30 +93,30 @@ Description: This description will go in the meta description tag
 	</div>
 </section>
 
-<section id="misc">
-	<h3 class="text-center">Good-to-know info</h1>
-	<div class="container">
-		<div class="row">
-			<div class="col-md-5 col-md-offset-1">
-				<div class="row">
-				<div class="col-md-4"><img src="themes/smm/img/easy-billing.jpg" class="img-responsive img-circle" alt="" width="200" height="200"></div>
-					<div class="col-md-8">
-						<h4>Easy Billing</h4>
-						<p>We take the total cost of your project and bill you monthly for the duration of the project. To get started we ask for 50% of the first month's payment.</p>
+<section id="misc-info" class="bg-brand-red">
+	<h3 class="headline-inverse text-center">Good-to-know info</h1>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-5 col-md-offset-1">
+					<div class="row">
+						<div class="col-md-4"><img src="themes/smm/img/easy-billing.jpg" class="img-responsive img-circle" alt="" width="200" height="200"></div>
+						<div class="col-md-8">
+							<h4>Easy Billing</h4>
+							<p>We take the total cost of your project and bill you monthly for the duration of the project. To get started we ask for 50% of the first month's payment.</p>
+						</div>
 					</div>
 				</div>
-			</div>
-			<div class="col-md-5 col-md-offset-1">
-				<div class="row">
-				<div class="col-md-4"><img src="themes/smm/img/uh-giving.jpg" class="img-responsive img-circle" alt="" width="200" height="200"></div>
-					<div class="col-md-8">
-						<h4>Giving</h4>
-						<p>We proudly support the efforts of Unlikely Heroes to end human trafficking world-wide by donating 10% of project proceeds.</p>
+				<div class="col-md-5 col-md-offset-1">
+					<div class="row">
+						<div class="col-md-4"><img src="themes/smm/img/uh-giving.jpg" class="img-responsive img-circle" alt="" width="200" height="200"></div>
+						<div class="col-md-8">
+							<h4>Giving</h4>
+							<p>We proudly support the efforts of Unlikely Heroes to end human trafficking world-wide by donating 10% of project proceeds.</p>
+						</div>
 					</div>
 				</div>
+				<div class="clearfix"></div>
+				<div class="col-xs-12 text-center"><a href="about#faq" class="btn btn-lg btn-black">See FAQ's</a></div>
 			</div>
-			<div class="clearfix"></div>
-			<div class="col-xs-12 text-center"><a href="about#faq" class="btn btn-lg btn-black">See FAQ's</a></div>
 		</div>
-	</div>
-</section>
+	</section>

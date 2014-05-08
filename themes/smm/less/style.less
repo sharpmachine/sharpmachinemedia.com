@@ -1,62 +1,10 @@
-html,
-body {
-  height: 100%;
-}
-
-body {
-  padding-top: 93px;
-  .animation(fadein 1s);
-}
-
-// Page fade in
-@keyframes fadein {
-  from {
-    opacity:0;
-  }
-  to {
-    opacity:1;
-  }
-}
-@-moz-keyframes fadein { /* Firefox */
-  from {
-    opacity:0;
-  }
-  to {
-    opacity:1;
-  }
-}
-@-webkit-keyframes fadein { /* Safari and Chrome */
-  from {
-    opacity:0;
-  }
-  to {
-    opacity:1;
-  }
-}
-@-o-keyframes fadein { /* Opera */
-  from {
-    opacity:0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-
-// Sticky footer
-@footer-height: 463px;
-
-#wrap {
-  min-height: 100%;
-  height: auto;
-  margin: 0 auto -@footer-height;
-  padding: 0 0 @footer-height;
-}
-
-// Jumbotron
+/*..................................the home page */
+// JUMBOTRON
 .jumbotron {
   height: 800px;
   margin-bottom: 0;
   background: url(../img/another.jpg) center center no-repeat fixed;
+  -webkit-background-size: cover;
   background-size: cover;
 
   // Remove for prod
@@ -84,157 +32,103 @@ body {
   margin-top: -25px;
 }
 
-// Page Headers
-.page-header {
-  margin: 0 0 30px;
-  padding: @padding-base-horizontal*3;
-  color: @brand-cream;
-  background: url(../img/another.jpg) center center no-repeat;
-  -webkit-background-size: cover;
-  background-size: cover;
-  border: 0;
 
-  // Remove for prod
-  background-color: rgba(33, 29, 30, 0.5);
-  background-blend-mode: multiply;
+// WHAT WE DO SECTION
 
-  h1 {
-    line-height: 1;
+// modal
+.md-show {
+  &#modal-branding ~ .md-overlay {
+    background-image: url(../img/branding.svg);
   }
 
-  p {
-    .libre;
-    color: @brand-cream;
-    text-shadow: 1px 1px 1px @brand-black;
-    font-size: 18px;
+  &#modal-print ~ .md-overlay {
+    background-image: url(../img/print.svg);
+  }
 
-    &:last-child {
-      margin-bottom: 0;
-    }
+  &#modal-web ~ .md-overlay {
+    background-image: url(../img/web.svg);
+  }
+
+  &#modal-messaging ~ .md-overlay {
+    background-image: url(../img/messaging.svg);
   }
 }
 
-.diamond {
-  .square(70px);
-  position: relative;
-  top: -135px;
-  background-color: @brand-blue;
-  margin: 0 auto -100px;
-  .rotate(45deg);
-  text-align: center;
-
-  p {
-    position: relative;
-    top: -10px;
-    left: 18px;
-    color: @brand-cream;
-    .rotate(-45deg);
-    font-size: 100px !important;
-    text-transform: lowercase;
-    span {
-      display: block;
-      margin-top: -10px;
-      font-family: 'FG Compressed';
-      text-transform: uppercase;
-      font-style: normal !important;
-      text-align: center;
-      font-size: 46px !important;
-    }
-  }
-
-  .borderrr {
-    .square(62px);
-    position: relative;
-    top: 4px;
-    left: 4px;
-    border: 1px solid @brand-cream;
-  }
-}
-
+// service boxes
 .service {
   margin-bottom: 30px;
+}
 
-  .service-inner {
-    position: relative;
-    // height: 234px;
-    height: 220px;
-    padding: 15px;
-    // background: url(../img/brand-id-bg.png) 192px -24px no-repeat @brand-black;
-    // background: url(../img/branding-180.png) 158px -75px no-repeat @brand-black;
-    background: url(../img/branding.svg) 158px -75px no-repeat @brand-black;
-    background-size: 180px 180px;
-    // background-color: @brand-black;
-    // border: 2px solid @brand-black;
+.service-inner {
+  height: 220px;
+  padding: 15px;
+  color: @brand-cream;
+  background-position: 158px -75px;
+  background-color: @brand-black;
+  background-repeat: no-repeat;
+  -webkit-background-size: 180px 180px;
+  background-size: 180px 180px;
+  cursor: pointer;
+  .transition(all ease 0.2s);
 
-    cursor: pointer;
+  h3 {
+    bottom: 75px;
+    margin: 0;
     color: @brand-cream;
+    font-size: 32px;
+  }
+
+  &.service-branding {
+    background-image: url(../img/branding.svg);
+  }
+
+  &.service-print {
+    background-image: url(../img/print.svg);
+  }
+
+  &.service-web {
+    background-image: url(../img/web.svg);
+  }
+
+  &.service-messaging {
+    background-image: url(../img/messaging.svg);
+  }
+
+  &:hover {
+    color: @brand-cream;
+    background-position: 143px -60px;
+    background-color: @brand-red;
     .transition(all ease 0.2s);
 
     h3 {
       color: @brand-cream;
-    }
-
-    &:hover {
-      // background-color: @brand-red;
-      // background: url(../img/branding-180.png) 143px -60px no-repeat @brand-red;
-      background: url(../img/branding.svg) 143px -60px no-repeat @brand-black;
-      background-size: 180px 180px;
-      color: @brand-cream;
       .transition(all ease 0.2s);
-      h3 {
-        color: @brand-cream;
-        .transition(all ease 0.2s);
-      }
-    }
-
-    img {
-      float: right;
-    }
-
-    .service-content {
-      padding-top: 30px;
-      position: absolute;
-      bottom: 15px
-    }
-
-    h3 {
-      bottom: 75px;
-      margin: 0;
-      // color: @brand-black;
-      font-size: 32px;
-    }
-
-    p {
-      margin-bottom: 0;
-      padding-right: 15px;
-      font-family: @font-family-serif;
-      font-style: italic;
-      // color: @brand-black
-    }
-
-    &.service-branding-identity {
-      // background: url(../img/brand-identity.png) 400px 15px no-repeat @brand-black;
-    }
-
-    &.service-print {
-      // background: url(../img/print.png) 400px 15px no-repeat @brand-black;
-    }
-
-    &.service-web {
-      // background: url(../img/web.png) 400px 15px no-repeat @brand-black;
-    }
-
-    &.service-messaging {
-      // background: url(../img/messaging.png) 400px 15px no-repeat @brand-black;
     }
   }
 }
 
+.service-content {
+  padding-top: 30px;
+  position: absolute;
+  bottom: 15px;
+
+  p {
+    margin-bottom: 0;
+    padding-right: 15px;
+    .libre();
+  }
+}
+
+
+// SOME OF OUR CLIENTS SECTION
+
 .client-logo {
   margin-bottom: @padding-base-horizontal*4;
-  // background-color: lighten(@brand-cream, 10%);
   padding: @padding-base-horizontal;
 }
+
+
+// CLIENT TESTIMONIES
 
 #testimonies {
   margin-bottom: -72px;
@@ -243,11 +137,11 @@ body {
 }
 
 .client-testimonial {
-  // margin-top: @padding-base-horizontal*2;
   p {
     margin-top: 30px;
     .libre();
     font-size: 20px;
+
     cite {
       float: right;
       margin-top: @padding-base-horizontal;
@@ -274,235 +168,15 @@ body {
   background-color: @brand-red;
 }
 
-/*..................................the recent work */
+
+// RECENT WORK SECTION
+
 #recent-work {
-  margin-bottom: @padding-base-horizontal*3;
-
-
+  margin-bottom: @padding-base-horizontal*6;
 }
 
-.work,
-.work-piece-thumb {
-  margin-bottom: 30px;
-  background-color: @brand-cream;
-
-  a {
-    img {
-      .opacity(0.6);
-      .transition(all ease 0.2s);
-      .backface-visibility(hidden);
-    }
-
-    &:hover {
-      img {
-        .opacity(1);
-        .transition(all ease 0.2s);
-      }
-    }
-  }
-}
-
-/*..................................the belief well */
-.well {
-  margin: @padding-base-horizontal*6 0 0;
-  color: @brand-cream;
-  .libre();
-  text-align: center;
-  background: url(../img/another.jpg) center center fixed;
-  background-color: rgba(33, 29, 30, 0.5);
-  background-blend-mode: multiply;
-  border: 0;
-  border-radius: 0;
-
-  p {
-    margin-bottom: -15px;
-    font-size: 28px;
-  }
-
-  .accent {
-    height: 40px;
-    margin: 21px 0 -70px;
-    background: url(../img/accent-curl-left-cream.png) 20px center no-repeat;
-  }
-}
-
-.well-lg {
-  padding: 100px 0;
-}
-
-/*..................................the footer */
-.footer {
-  padding: 41px 0;
-  color: @brand-cream;
-  font-family: 'FG Compressed';
-  background: url(../img/printing-press.jpg) bottom center no-repeat fixed;
-  -webkit-background-size: cover;
-  background-size: cover;
-  text-transform: uppercase;
-
-  h2 {
-    margin: 0 0 -8px;
-    color: @brand-cream;
-    font-size: 56px;
-  }
-
-  a {
-    color: @brand-cream;
-
-    &:hover {
-      text-decoration: none;
-    }
-  }
-}
-
-.dividing-line {
-  position: relative;
-  top: 12px;
-  width: 85px;
-  padding-left: 3px;
-  border-top: 2px solid @brand-red;
-
-  &.right {
-    float: right;
-    // top: 0;
-    right: 3px;
-    margin-bottom: -12px;
-  }
-}
-
-.contact-deets {
-  width: 241px;
-  margin: 0 auto;
-  overflow: hidden;
-}
-
-.contact-method {
-  .libre();
-  font-size: 16px;
-  letter-spacing: 2px;
-  text-transform: lowercase;
-}
-
-.contact-detail {
-  letter-spacing: 1.5px;
-
-  &.phone {
-    margin: -10px 0 -15px;
-    font-size: 53px;
-  }
-
-  &.email {
-    margin: 1px 0 -6px;
-    font-size: 19px;
-  }
-
-  address {
-    margin: 2px 0 15px;
-    padding-bottom: 10px;
-    border-bottom: 2px solid @brand-red;
-
-    span {
-      display: block;
-      line-height: 1;
-    }
-
-    .mccormick-mansion {
-      font-size: 33px;
-    }
-
-    .street {
-      font-size: 33px;
-    }
-
-    .city-state-zip {
-      font-size: 37px;
-    }
-  }
-}
-
-.social-media.cream {
-  margin-top: 2px;
-  text-align: center;
-
-  a {
-    display: inline-block;
-    .square(50px);
-    margin-right: 10px;
-    color: @brand-cream;
-    font-size: 20px;
-    border: 2px solid @brand-cream;
-    border-radius: 50%;
-
-    &:last-child {
-      margin-right: 0;
-    }
-
-    &:hover {
-      color: @brand-red;
-      border-color: @brand-red;
-    }
-
-    i {
-      position: relative;
-      top: 11px;
-    }
-  }
-}
-
-.social-media.red {
-  margin-top: 25px;
-  
-
-  a {
-    display: inline-block;
-    .square(50px);
-    margin-right: 10px;
-    color: @brand-red;
-    font-size: 20px;
-    border: 2px solid @brand-red;
-    border-radius: 50%;
-    text-align: center;
-
-    &:last-child {
-      margin-right: 0;
-    }
-
-    &:hover {
-      color: @brand-black;
-      border-color: @brand-black;
-    }
-
-    i {
-      position: relative;
-      top: 11px;
-    }
-  }
-}
-
-/*..................................the bar */
-.bar {
-  margin-top: -30px;
-  margin-bottom: @padding-base-horizontal*2;
-  padding: @padding-base-horizontal*2 0;
-  // background: url(../img/bg.jpg) top left repeat-x;
-  background-color: @brand-black;
-}
 
 /*..................................the work piece page */
-.long-format {
-  // margin-bottom: 0;
-  padding: @padding-base-horizontal*6 0;
-  color: @brand-cream;
-
-  h1 {
-    margin-top: -5px;
-  }
-
-  .btn {
-    margin-top: @padding-base-horizontal;
-  }
-}
-
 .work-capacity {
   .fg-medium();
   font-size: 24px;
@@ -531,34 +205,56 @@ span.lowercase {
   text-transform: lowercase;
 }
 
-.slabtexted .slabtext
-{
-  display:-moz-inline-box;
-  display:inline-block;
-  white-space:nowrap;
-}
-.slabtextinactive .slabtext
-{
-  display:inline;
-  white-space:normal;
-  font-size:1em !important;
-  letter-spacing:inherit !important;
-  word-spacing:inherit !important;
-  *letter-spacing:0 !important;
-  *word-spacing:0 !important;
-}
-.slabtextdone .slabtext
-{
-  display:block;
+
+/*..................................the services page */
+.Services {
+  .page-header {
+    min-height: 221px;
+  }
 }
 
-/*..................................the services */
-.cream-light {
-  background-color: lighten(@brand-cream, 10%);
+.services-options {
+  margin-top: @padding-base-horizontal*2;
+
+  a.btn {
+    background-position: 198px 10px;
+    background-repeat: no-repeat;
+    -webkit-background-size: 100px;
+    background-size: 100px;
+
+    &:hover {
+      background-color: @brand-red;
+      background-position: 193px 5px;
+    }
+
+    &.branding-bg {
+      background-image: url(../img/branding.svg);
+    }
+
+    &.print-bg {
+      background-image: url(../img/print.svg);
+    }
+
+    &.web-bg {
+      background-image: url(../img/web.svg);
+    }
+
+    &.messaging-bg {
+      background-image: url(../img/messaging.svg);
+    }
+  }
 }
+
+@even-steven: -10px;
+@offset: 277.5px;
+@bgi-size: 555px;
 
 .service-description {
   padding: @padding-base-horizontal*8 0;
+  background-position: -@offset -@offset;
+  background-repeat: no-repeat;
+  -webkit-background-size: @bgi-size;
+  background-size: @bgi-size;
 
   h1 {
     margin-top: 0;
@@ -567,131 +263,50 @@ span.lowercase {
   }
 }
 
-.services-nav {
-  padding: 0;
-  background-color: @brand-red;
-
-  a {
-
-    display: block;
-    color: @brand-red;
-
-    &:hover {
-      // background-color: @brand-black;
-      text-decoration: none;
-    }
-  }
-
-  h3 {
-    margin-bottom: 0;
-    color: @brand-cream;
-    font-size: 22px;
-  }
-
-  // to determine size for images
-  img {
-    height: 75px;
-
-  }
-}
-
-.service-nav-item {
-  padding: @padding-base-horizontal*2 0;
-  .transition(all ease 0.2s);
-  &:hover {
-    background-color: @brand-black;
-    .transition(all ease 0.2s);
-  }
-}
-
-.service-description {
-  // position: relative;
-}
-
-// .short {
-//   position: absolute;
-//   top: 0;
-//   bottom: 0;
-//   left: 0;
-//   right: 0;
-//   width: 555px;
-//   height: 555px;
-//   margin: auto;
-
-// }
-
 // If copy is short, then first value will be negative
 // If image is short, then first value will be positive
 
-@even-steven: -10px;
-
-.service-branding {
-  // background: url(../img/branding-bottom-right.png) top left no-repeat;
-  background: url(../img/branding.svg) -277.5px -277.5px no-repeat;
-  -webkit-background-size: 555px 555px;
-  background-size: 555px 555px;
-
-  .st0,
-  .st1 {
-    stroke: #F6F6EC !important;
-  }
-
-  .st2 {
-    fill: #F6F6EC;
-  }
+.big-branding {
+  background-image: url(../img/branding-white.svg);
 
   .short {
-    // margin-top: @even-steven;
     margin-top: @even-steven + (183px / 2);
-    // margin-top: -10px;
   }
 }
 
+.big-print {
+  background-image: url(../img/print.svg);
+  background-position: top -@offset right -@offset;
 
-.service-print {
-  background: url(../img/branding-bottom-left.png) top right no-repeat #F1F1EB;
   .short {
     margin-top: @even-steven + (243px / 2);
-    // margin-top: @even-steven;
   }
 }
 
-.service-web {
-  background: url(../img/branding-bottom-right.png) top left no-repeat;
+.big-web {
+  background-image: url(../img/web-white.svg);
+
   .short {
     margin-top: @even-steven + (90px / 2);
-    // margin-top: @even-steven;
   }
 }
 
-.service-messaging {
-  background: url(../img/branding-bottom-left.png) top right no-repeat #F1F1EB;
+.big-messaging {
+  background-image: url(../img/messaging.svg);
+  background-position: top -@offset right -@offset;
+
   .short {
     margin-top: @even-steven + (158px / 2);
-    // margin-top: @even-steven;
   }
 }
 
-.Services {
-  .page-header {
-    margin-bottom: 0;
-  }
 
-  p {
-    // .lead();
-  }
-}
 
-#misc {
+#misc-info {
   padding: @padding-base-horizontal*4 0;
-  background-color: @brand-red;
-  color: @brand-cream;
 
   h3 {
-    color: @brand-cream;
-    margin-top: 0;
-    margin-bottom: @padding-base-horizontal*3;
-    text-shadow: 1px 1px 0px @brand-black, 2px 2px 0px @brand-cream;
+    margin: 0 0 @padding-base-horizontal*3;
   }
 
   h4 {
@@ -700,263 +315,7 @@ span.lowercase {
 
   .btn {
     margin-top: 20px;
-    &:hover {
-      background-color: @brand-black;
-    }
   }
-}
-
-.services-options {
-  margin-top: @padding-base-horizontal*2;
-
-  a span {
-    font-style: normal;
-  }
-
-  a.brand-id-bg {
-    // background: url(../img/brand-id-bg.png) 198px 2px no-repeat;
-    background: url(../img/branding.svg) 198px 10px no-repeat;
-    -webkit-background-size: 100px 100px;
-    background-size: 100px 100px;
-
-    &:hover {
-      background-color: @brand-red;
-      background: url(../img/branding.svg) 193px 5px no-repeat @brand-red;
-      -webkit-background-size: 100px 100px;
-    background-size: 100px 100px;
-    }
-  }
-}
-
-.Services {
-  .page-header {
-    min-height: 221px;
-  }
-}
-
-/*..................................the about page */
-
-#bios {
-  margin-top: -@padding-base-horizontal*2;
-}
-
-.jesse,
-.bio-photo {
-  // padding-right: 0px;
-  // margin-left: -15px;
-  // padding-top: 30px;
-  padding: 0;
-
-}
-
-.bio-photo {
-  // overflow: hidden;
-  // height: 600px;
-}
-
-.a-bio {
-  // margin-right: -15px;
-  // padding: 30px 30px 30px 15px;
-  // overflow: hidden;
-  padding: 30px;
-
-  .lead {
-    .libre;
-  }
-}
-
-.no-margin-right {
-  margin-right: 0;
-}
-
-.instagram {
-
-  .insta-photo {
-    float: left;
-    width: 33.3%;
-  }
-}
-
-
-
-
-.bar-black {
-  color: @brand-cream;
-
-  h3 {
-    color: @brand-cream;
-    .libre();
-    text-transform: none;
-  }
-}
-
-.person,
-.intern {
-  h2 {
-    margin-bottom: 0;
-    font-size: 32px;
-  }
-}
-
-.person {
-  // img {
-  //   display: block;
-  //   margin: 0 auto;
-  //   width: 265px;
-  //   height: 265px;
-  // }
-  h2 {
-    margin-bottom: 0;
-    font-size: 32px;
-  }
-
-  .bio {
-    margin-top: @padding-base-horizontal*2;
-
-    a {
-      margin-right: 10px;
-      color: @brand-blue;
-      font-size: 22px;
-
-      &:last-child {
-        margin-right: 0;
-      }
-
-      &:hover {
-        color: @brand-red;
-      }
-    }
-  }
-}
-
-.person {
-  margin-bottom: 30px;
-  background-color: @brand-black;
-
-  img {
-    .opacity(0.6);
-    width: 100%;
-      // height: 100%;
-    }
-
-    a {
-
-
-      img {
-        .opacity(0.6);
-        width: 100%;
-        height: 100%;
-      }
-
-      &:hover {
-        text-decoration: none;
-
-        img {
-          .opacity(1);
-        }
-      }
-    }
-  }
-
-  .person-info {
-    position: absolute;
-  // top:0;
-  left: 0;
-  right: 0;
-  bottom: 55px;
-  color: @brand-cream;
-
-  h2 {
-    color: @brand-cream;
-  }
-
-  a {
-    color: @brand-cream;
-    font-size: 24px;
-    margin-right: 10px;
-
-    &:last-child {
-      margin-right: 0;
-    }
-  }
-}
-
-.personal-contact {
-  margin-bottom: 0;
-}
-
-.position {
-  .libre;
-  color: @brand-cream;
-}
-
-.faq {
-  margin-bottom: @padding-base-horizontal*3;
-  h4 {
-    .libre();
-  }
-}
-
-#studio {
-  img {
-    margin-bottom: 30px;
-  }
-}
-
-
-
-/*..................................the modal */
-.md-content {
-  padding-top: 80px;
-  color: @brand-cream;
-  background-color: @brand-black;
-  // background: url(../img/brand-id-lg-cream.png) center center no-repeat;
-  h3 {
-    color: @brand-cream;
-  }
-
-  p {
-    font-size: 18px;
-  }
-
-  ul {
-    margin-left: 0;
-    padding-left: 15px;
-    list-style-type: circle;
-    li {
-      .libre();
-    }
-  }
-
-  .close-box {
-    height: 22px;
-    margin-top: -56px;
-    margin-bottom: 30px;
-
-    span {
-      font-size: 38px;
-      line-height: 1;
-      cursor: pointer;
-      color: @brand-red;
-      // .libre();
-      // .fg-book();
-    }
-  }
-}
-
-.md-show.md-effect-12 ~ .md-overlay {
-  // background: @brand-cream !important;
-  // background: url(../img/brand-id-lg-cream.png) -250px 350px no-repeat @brand-black !important;
-  background: url(../img/branding.svg) -250px 350px no-repeat @brand-black !important;
-  -webkit-background-size: 555px 555px !important;
-  background-size: 555px 555px !important;
-   // background: url(../img/brand-id-lg-cream.png) -250px 400% no-repeat @brand-black !important;
- }
-
-.anchor {
-  position: relative;
-  top: -93px;
-  visibility: hidden;
 }
 
 .services-anchor {
@@ -965,6 +324,79 @@ span.lowercase {
   visibility: hidden;
 }
 
-// .the-team {
-//   margin-bottom: 60px;
-// }
+/*..................................the work page */
+#work {
+  margin-top: 30px;
+}
+
+/*..................................the about page */
+
+// THE TEAM
+
+.person {
+  margin-bottom: 30px;
+  color: @brand-cream;
+  background-color: @brand-black;
+
+  h2 {
+    margin-bottom: 0;
+    color: @brand-cream;
+    font-size: 32px;
+  }
+
+  img {
+    .opacity(0.6);
+    width: 100%;
+  }
+}
+
+.person-info {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 55px;
+}
+
+.position {
+  .libre();
+}
+
+.personal-contact {
+  a {
+    padding-right: 10px;
+    color: @brand-cream;
+    font-size: 22px;
+
+    &:last-child {
+      padding-right: 0;
+    }
+
+    &:hover {
+      color: @brand-red;
+    }
+  }
+}
+
+
+// THE STUDIO
+
+#studio {
+  img {
+    margin-bottom: 30px;
+  }
+}
+
+
+// FAQ
+
+#faq {
+  margin-bottom: @padding-base-horizontal*4;
+
+  .headline {
+    margin-top: 0;
+  }
+
+  h4 {
+    .libre();
+  }
+}

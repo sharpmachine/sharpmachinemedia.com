@@ -57,7 +57,6 @@ perspective effects (not including the modals and the overlay).
   left: 0;
   z-index: 1000;
   opacity: 0;
-  /*background: rgba(85,85,85,0.8);*/
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
   transition: all 0.3s;
@@ -412,7 +411,7 @@ perspective effects (not including the modals and the overlay).
 
 .md-show.md-effect-12 ~ .md-overlay {
   /*background: #e74c3c;*/
-  background: #231F20;
+  /*background: #231F20;*/
 }
 
 .md-effect-12 .md-content h3,

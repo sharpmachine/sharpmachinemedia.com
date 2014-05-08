@@ -6,6 +6,61 @@
 @import "variables.less";
 @import "mixins.less";
 
+/*..................................the usual */
+html,
+body {
+  height: 100%;
+}
+
+body {
+  padding-top: 93px;
+  .animation(fadein 1s);
+}
+
+// Page fade in
+@keyframes fadein {
+  from {
+    opacity:0;
+  }
+  to {
+    opacity:1;
+  }
+}
+@-moz-keyframes fadein { /* Firefox */
+  from {
+    opacity:0;
+  }
+  to {
+    opacity:1;
+  }
+}
+@-webkit-keyframes fadein { /* Safari and Chrome */
+  from {
+    opacity:0;
+  }
+  to {
+    opacity:1;
+  }
+}
+@-o-keyframes fadein { /* Opera */
+  from {
+    opacity:0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+// Sticky footer
+@footer-height: 463px;
+
+#wrap {
+  min-height: 100%;
+  height: auto;
+  margin: 0 auto -@footer-height;
+  padding: 0 0 @footer-height;
+}
+
 /*..................................the buttons */
 @btn-border-width: 2px;
 
@@ -39,6 +94,12 @@
   &:hover {
     background-color: @brand-red;
     border-color: @brand-red;
+  }
+}
+
+.btn-black {
+  &:hover {
+    background-color: @brand-black;
   }
 }
 
@@ -120,9 +181,332 @@
 }
 
 /*..................................the page headers */
+.page-header {
+  margin: 0;
+  padding: @padding-base-horizontal*3;
+  color: @brand-cream;
+  background: url(../img/another.jpg) center center no-repeat;
+  -webkit-background-size: cover;
+  background-size: cover;
+  border: 0;
+
+  // Remove for prod
+  background-color: rgba(33, 29, 30, 0.5);
+  background-blend-mode: multiply;
+
+  h1 {
+    line-height: 1;
+  }
+
+  p {
+    color: @brand-cream;
+    .libre;
+    text-shadow: 1px 1px 1px @brand-black;
+    font-size: 18px;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  .btn {
+    margin-top: @padding-base-horizontal;
+  }
+}
 
 
-/*..................................blockquotes */
+/*..................................the belief blockquotes */
+.diamond {
+  .square(70px);
+  position: relative;
+  top: -135px;
+  margin: 0 auto -100px;
+  background-color: @brand-blue;
+  text-align: center;
+  .rotate(45deg);
 
+  p {
+    position: relative;
+    top: -10px;
+    left: 18px;
+    color: @brand-cream;
+    font-size: 100px !important;
+    text-transform: lowercase;
+    .rotate(-45deg);
+  }
+}
 
+.diamond-border {
+  .square(62px);
+  position: relative;
+  top: 4px;
+  left: 4px;
+  border: 1px solid @brand-cream;
+}
 
+.well {
+  margin: @padding-base-horizontal*6 0 0;
+  color: @brand-cream;
+  .libre();
+  text-align: center;
+  background: url(../img/another.jpg) center center fixed;
+  border: 0;
+  border-radius: 0;
+
+  // remove for prod
+  background-color: rgba(33, 29, 30, 0.5);
+  background-blend-mode: multiply;
+
+  p {
+    margin-bottom: -15px;
+    font-size: 28px;
+  }
+
+  .accent {
+    height: 40px;
+    margin: 21px 0 -70px;
+    background: url(../img/accent-curl-left-cream.png) 20px center no-repeat;
+  }
+}
+
+.well-lg {
+  padding: 100px 0;
+}
+
+/*..................................the work piece */
+.work-piece {
+  margin-bottom: 30px;
+  background-color: @brand-cream;
+
+  a {
+    img {
+      .opacity(0.6);
+      .transition(all ease 0.2s);
+      .backface-visibility(hidden);
+    }
+
+    &:hover {
+      img {
+        .opacity(1);
+        .transition(all ease 0.2s);
+      }
+    }
+  }
+}
+
+/*..................................the modal */
+.md-content {
+  padding-top: 80px;
+  color: @brand-cream;
+  background-color: @brand-black;
+
+  h3 {
+    color: @brand-cream;
+  }
+
+  p {
+    font-size: 18px;
+  }
+
+  ul {
+    padding-left: 15px;
+    list-style-type: circle;
+    li {
+      .libre();
+    }
+  }
+
+  .close-box {
+    height: 22px;
+    margin: -56px 0 30px;
+
+    span {
+      color: @brand-red;
+      font-size: 38px;
+      line-height: 1;
+      cursor: pointer;
+    }
+  }
+}
+
+.md-overlay {
+  background-color: @brand-black;
+  background-repeat: no-repeat;
+  -webkit-background-size: 555px 555px;
+  background-size: 555px 555px;
+}
+
+.md-show ~ .md-overlay {
+  background-position: -250px 350px;
+}
+
+/*..................................the footer */
+.footer {
+  padding: 41px 0;
+  color: @brand-cream;
+  font-family: 'FG Compressed';
+  background: url(../img/printing-press.jpg) bottom center no-repeat fixed;
+  -webkit-background-size: cover;
+  background-size: cover;
+  text-transform: uppercase;
+
+  h2 {
+    margin: 0 0 -8px;
+    color: @brand-cream;
+    font-size: 56px;
+  }
+
+  a {
+    color: @brand-cream;
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+}
+
+.dividing-line {
+  position: relative;
+  top: 12px;
+  width: 85px;
+  padding-left: 3px;
+  border-top: 2px solid @brand-red;
+
+  &.right {
+    float: right;
+    // top: 0;
+    right: 3px;
+    margin-bottom: -12px;
+  }
+}
+
+.contact-deets {
+  width: 241px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.contact-method {
+  .libre();
+  font-size: 16px;
+  letter-spacing: 2px;
+  text-transform: lowercase;
+}
+
+.contact-detail {
+  letter-spacing: 1.5px;
+
+  &.phone {
+    margin: -10px 0 -15px;
+    font-size: 53px;
+  }
+
+  &.email {
+    margin: 1px 0 -6px;
+    font-size: 19px;
+  }
+
+  address {
+    margin: 2px 0 15px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid @brand-red;
+
+    span {
+      display: block;
+      line-height: 1;
+    }
+
+    .mccormick-mansion {
+      font-size: 33px;
+    }
+
+    .street {
+      font-size: 33px;
+    }
+
+    .city-state-zip {
+      font-size: 37px;
+    }
+  }
+}
+
+.social-media.cream {
+  margin-top: 2px;
+  text-align: center;
+
+  a {
+    display: inline-block;
+    .square(50px);
+    margin-right: 10px;
+    color: @brand-cream;
+    font-size: 20px;
+    border: 2px solid @brand-cream;
+    border-radius: 50%;
+
+    &:last-child {
+      margin-right: 0;
+    }
+
+    &:hover {
+      color: @brand-red;
+      border-color: @brand-red;
+    }
+
+    i {
+      position: relative;
+      top: 11px;
+    }
+  }
+}
+
+.social-media.red {
+  margin-top: 25px;
+  
+
+  a {
+    display: inline-block;
+    .square(50px);
+    margin-right: 10px;
+    color: @brand-red;
+    font-size: 20px;
+    border: 2px solid @brand-red;
+    border-radius: 50%;
+    text-align: center;
+
+    &:last-child {
+      margin-right: 0;
+    }
+
+    &:hover {
+      color: @brand-black;
+      border-color: @brand-black;
+    }
+
+    i {
+      position: relative;
+      top: 11px;
+    }
+  }
+}
+
+/*..................................the global utilities */
+.anchor {
+  position: relative;
+  top: -93px;
+  visibility: hidden;
+}
+
+// BACKGOUNDS
+.bg-brand-red {
+  color: @brand-cream;
+  background-color: @brand-red;
+}
+
+.bg-brand-black {
+  color: @brand-cream;
+  background-color: @brand-black;
+}
+
+.bg-brand-white {
+  background-color: @brand-white;
+}
