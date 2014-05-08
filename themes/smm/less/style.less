@@ -232,7 +232,10 @@ h1.featurette-heading {
     // height: 234px;
     height: 220px;
     padding: 15px;
-    background: url(../img/brand-id-bg.png) 192px -24px no-repeat @brand-black;
+    // background: url(../img/brand-id-bg.png) 192px -24px no-repeat @brand-black;
+    // background: url(../img/branding-180.png) 158px -75px no-repeat @brand-black;
+    background: url(../img/branding.svg) 158px -75px no-repeat @brand-black;
+    background-size: 180px 180px;
     // background-color: @brand-black;
     // border: 2px solid @brand-black;
 
@@ -246,7 +249,9 @@ h1.featurette-heading {
 
     &:hover {
       // background-color: @brand-red;
-      background: url(../img/brand-id-bg.png) 192px -24px no-repeat @brand-red;
+      // background: url(../img/branding-180.png) 143px -60px no-repeat @brand-red;
+      background: url(../img/branding.svg) 143px -60px no-repeat @brand-black;
+      background-size: 180px 180px;
       color: @brand-cream;
       .transition(all ease 0.2s);
       h3 {
@@ -739,7 +744,20 @@ span.lowercase {
 @even-steven: -10px;
 
 .service-branding {
-  background: url(../img/branding-bottom-right.png) top left no-repeat;
+  // background: url(../img/branding-bottom-right.png) top left no-repeat;
+  background: url(../img/branding.svg) -277.5px -277.5px no-repeat;
+  -webkit-background-size: 555px 555px;
+  background-size: 555px 555px;
+
+  .st0,
+  .st1 {
+    stroke: #F6F6EC !important;
+  }
+
+  .st2 {
+    fill: #F6F6EC;
+  }
+
   .short {
     // margin-top: @even-steven;
     margin-top: @even-steven + (183px / 2);
@@ -814,10 +832,16 @@ span.lowercase {
   }
 
   a.brand-id-bg {
-    background: url(../img/brand-id-bg.png) 198px 2px no-repeat;
+    // background: url(../img/brand-id-bg.png) 198px 2px no-repeat;
+    background: url(../img/branding.svg) 198px 10px no-repeat;
+    -webkit-background-size: 100px 100px;
+    background-size: 100px 100px;
 
     &:hover {
       background-color: @brand-red;
+      background: url(../img/branding.svg) 193px 5px no-repeat @brand-red;
+      -webkit-background-size: 100px 100px;
+    background-size: 100px 100px;
     }
   }
 }
@@ -1040,7 +1064,10 @@ span.lowercase {
 
 .md-show.md-effect-12 ~ .md-overlay {
   // background: @brand-cream !important;
-  background: url(../img/brand-id-lg-cream.png) -250px 350px no-repeat @brand-black !important;
+  // background: url(../img/brand-id-lg-cream.png) -250px 350px no-repeat @brand-black !important;
+  background: url(../img/branding.svg) -250px 350px no-repeat @brand-black !important;
+  -webkit-background-size: 555px 555px !important;
+  background-size: 555px 555px !important;
    // background: url(../img/brand-id-lg-cream.png) -250px 400% no-repeat @brand-black !important;
  }
 
