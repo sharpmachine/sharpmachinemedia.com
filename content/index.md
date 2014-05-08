@@ -7,10 +7,9 @@ Description: This description will go in the meta description tag
 	<img src="themes/smm/img/logo.png" class="logo" alt="Sharp Machine Logo" width="160px" height="187px">
 	<h1 class="title">Branding, Strategy <span class="ampersand">&amp;</span> Design</h1>
 	<h2>Discover your brand.  Grow your business.  Build it to last.</h2>
-	<p>
+	<div class="jumbo-call">
 		<a href="#what-we-do" class="btn btn-cream btn-lg" role="button">How we can help</a>
-	</p>
-	<!-- <div class="down-arrow">&#8609;</div> -->
+	</div>
 	<div class="down-arrow">&darr;</div>
 </div>
 

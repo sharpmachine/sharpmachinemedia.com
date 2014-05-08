@@ -3,20 +3,12 @@ body {
   height: 100%;
 }
 
-html {
-  // background-color: @brand-black;
-}
-
 body {
   padding-top: 93px;
-  -webkit-animation: fadein 1s; /* Safari and Chrome */
-  -moz-animation: fadein 1s; /* Firefox */
-  -ms-animation: fadein 1s; /* Internet Explorer */
-  -o-animation: fadein 1s; /* Opera */
-  animation: fadein 1s;
-  // background-color: @brand-black;
+  .animation(fadein 1s);
 }
 
+// Page fade in
 @keyframes fadein {
   from {
     opacity:0;
@@ -50,6 +42,7 @@ body {
   }
 }
 
+// Sticky footer
 @footer-height: 463px;
 
 #wrap {
@@ -59,15 +52,16 @@ body {
   padding: 0 0 @footer-height;
 }
 
+// Jumbotron
 .jumbotron {
-  // height: 482px;
   height: 800px;
-  // height: 100%;
   margin-bottom: 0;
   background: url(../img/another.jpg) center center no-repeat fixed;
+  background-size: cover;
+
+  // Remove for prod
   background-color: rgba(33, 29, 30, 0.5);
   background-blend-mode: multiply;
-  background-size: cover;
 
   .logo {
     margin-bottom: 18px;
@@ -81,67 +75,42 @@ body {
     text-shadow: 1px 1px 1px @brand-black;
     text-transform: none;
   }
-
-  .down-arrow {
-    color: @brand-cream;
-    font-size: 136px;
-    line-height: 1;
-    margin-top: -35px;
-    // .libre();
-    // .fg-book();
-  }
 }
 
+.down-arrow {
+  color: @brand-cream;
+  font-size: 136px;
+  line-height: 1;
+  margin-top: -25px;
+}
+
+// Page Headers
 .page-header {
   margin: 0 0 30px;
   padding: @padding-base-horizontal*3;
   color: @brand-cream;
   background: url(../img/another.jpg) center center no-repeat;
-  background-color: rgba(33, 29, 30, 0.5);
-  background-blend-mode: multiply;
+  -webkit-background-size: cover;
   background-size: cover;
   border: 0;
+
+  // Remove for prod
+  background-color: rgba(33, 29, 30, 0.5);
+  background-blend-mode: multiply;
 
   h1 {
     line-height: 1;
   }
 
-  .lead,
   p {
     .libre;
     color: @brand-cream;
     text-shadow: 1px 1px 1px @brand-black;
     font-size: 18px;
-  }
-}
 
-.circle {
-  .square(150px);
-  position: relative;
-  top: -175px;
-  background-color: @brand-red;
-  margin: 0 auto -150px;
-  border-radius: 50%;
-  // border-radius: 10px;
-  // .rotate(45deg);
-  text-align: center;
-
-  p {
-    position: relative;
-    top: 50px;
-    color: @brand-black;
-    // .rotate(-45deg);
-  }
-
-  .borderrr {
-    .square(142px);
-    // margin: 0 auto;
-    position: relative;
-    top: 4px;
-    left: 4px;
-    border-radius: 50%;
-    // border-radius: 10px;
-    border: 2px solid @brand-black;
+    &:last-child {
+      margin-bottom: 0;
+    }
   }
 }
 
@@ -151,8 +120,6 @@ body {
   top: -135px;
   background-color: @brand-blue;
   margin: 0 auto -100px;
-  // border-radius: 50%;
-  // border-radius: 10px;
   .rotate(45deg);
   text-align: center;
 
@@ -177,51 +144,11 @@ body {
 
   .borderrr {
     .square(62px);
-    // margin: 0 auto;
     position: relative;
     top: 4px;
     left: 4px;
-    // border-radius: 50%;
-    // border-radius: 10px;
     border: 1px solid @brand-cream;
   }
-}
-
-
-
-
-.heading {
-  position: relative;
-  height: 100px;
-  // margin-top: -30px;
-  margin-bottom: 70px;
-  text-align: center;
-  h1 {
-    position: absolute;
-    top: 0;
-    color: @brand-black;
-    left: 0;
-    right: 0;
-  }
-
-  h1.fhw {
-    top: 0.5px;
-    left: 1px;
-    color: @brand-cream;
-  }
-
-  h1.fhr {
-    top: 1.5px;
-    left: 2px;
-    color: @brand-red;
-  }
-}
-
-h1.featurette-heading {
-  margin: 30px 0;
-  text-transform: uppercase;
-  text-align: center;
-  // font-family: 'FG Compressed';
 }
 
 .service {
@@ -342,55 +269,9 @@ h1.featurette-heading {
   }
 }
 
-// .work {
-//   margin-bottom: 30px;
-//   a {
-//     display: block;
-//     // height: 234px;
-
-//     h2 {
-//       margin: 0;
-//     }
-//   }
-// }
-
 .img-thumbnail {
   padding: 2px;
   background-color: @brand-red;
-}
-
-/*..................................the recent work section */
-// .work {
-//   .square(100%);
-
-//   a {
-//     .square(100%);
-
-//     &:hover {
-//       img {
-//         position: relative;
-//         top: -100px;
-//       }
-//     }
-//   }
-// }
-
-.overlay {
-  display: none;
-  position: absolute;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  // background-color: @brand-red;
-  background-color: rgba(159, 57, 43, 0.5);
-
-  h3 {
-    color: @brand-cream;
-  }
-
-  .work-capacity {
-    color: @brand-black;
-  }
 }
 
 /*..................................the recent work */
@@ -409,6 +290,7 @@ h1.featurette-heading {
     img {
       .opacity(0.6);
       .transition(all ease 0.2s);
+      .backface-visibility(hidden);
     }
 
     &:hover {
