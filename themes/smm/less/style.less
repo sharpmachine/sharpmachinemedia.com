@@ -63,7 +63,7 @@
   height: 220px;
   padding: 15px;
   color: @brand-cream;
-  background-position: 158px -75px;
+  background-position: top -75px right -75px;
   background-color: @brand-black;
   background-repeat: no-repeat;
   -webkit-background-size: 180px 180px;
@@ -96,7 +96,8 @@
 
   &:hover {
     color: @brand-cream;
-    background-position: 143px -60px;
+    // background-position: 143px -60px;
+    background-position: top -60px right -60px;
     background-color: @brand-red;
     .transition(all ease 0.2s);
 
@@ -109,6 +110,7 @@
 
 .service-content {
   padding-top: 30px;
+  padding-right: 15px;
   position: absolute;
   bottom: 15px;
 
@@ -217,14 +219,14 @@ span.lowercase {
   margin-top: @padding-base-horizontal*2;
 
   a.btn {
-    background-position: 198px 10px;
+    background-position: bottom -50px right -50px;
     background-repeat: no-repeat;
     -webkit-background-size: 100px;
     background-size: 100px;
 
     &:hover {
       background-color: @brand-red;
-      background-position: 193px 5px;
+      background-position: bottom -25px right -40px;
     }
 
     &.branding-bg {
@@ -398,5 +400,12 @@ span.lowercase {
 
   h4 {
     .libre();
+  }
+}
+
+/*..................................the responsive stuff */
+@media (max-width: @screen-xs-max) {
+  #work {
+    margin-top: 15px;
   }
 }

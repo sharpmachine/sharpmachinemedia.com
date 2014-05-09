@@ -145,11 +145,11 @@ Description: This description will go in the meta description tag
 		<div class="row">
 			<div class="col-md-6">
 				<h4>What do you charge?</h4>
-				<p>Our pricing is based on the amount of hours your project will take. In order to determine that, we will need to have a brief discussion about your project, the level of detail involved, technical requirements, etc. The best way to get the ball rolling on that process is to send an email to hello@sharpmachinemedia.com, and we’ll ask you some questions.</p>
+				<p>Our pricing is based on the amount of hours your project will take. In order to determine that, we will need to have a brief discussion about your project, the level of detail involved, technical requirements, etc. The best way to get the ball rolling on that process is to send an email to <a href="mailto:hello@sharpmachinemedia.com">hello@sharpmachinemedia.com</a>, and we’ll ask you some questions.</p>
 			</div>
 			<div class="col-md-6">
 				<h4>How long will it take you to complete my project?</h4>
-				<p>Each timeline is different, and is determined by the amount of deliverables and the level of intricacy your project requires. Once we get more information about your project, we’ll be able to give you an estimated timeframe. The best way to get the ball rolling on that process is to send an email to hello@sharpmachinemedia.com, and we’ll ask you some questions.</p>
+				<p>Each timeline is different, and is determined by the amount of deliverables and the level of intricacy your project requires. Once we get more information about your project, we’ll be able to give you an estimated timeframe. The best way to get the ball rolling on that process is to send an email to <a href="mailto:hello@sharpmachinemedia.com">hello@sharpmachinemedia.com</a>, and we’ll ask you some questions.</p>
 			</div>
 			<div class="col-md-6">
 				<h4>Do you do websites?</h4>

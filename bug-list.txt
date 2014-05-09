@@ -1,0 +1,21 @@
+GLOBAL
+
+...Header
+- Menu drawer on mobile/table open/close not smooth
+
+...Footer
+- "Get in touch" on two lines in Safari and iOS
+
+
+HOME PAGE
+- "How we can help" button acts funny on hover
+
+...Modals
+- Doesn't scroll
+
+...Page scrollTo
+- Doesn't always work
+
+SERVICES PAGE
+- Branding button/scrollTo doesn't always work
+

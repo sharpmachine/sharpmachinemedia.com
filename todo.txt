@@ -1,0 +1,24 @@
+GLOBAL
+- Finish SVG icons
+- Finalize copy
+- Responsiveness
+- Change start a project button text to "Let's Talk"
+- Clean up code for header/footer/theme.less
+
+HOME PAGE
+- create variation(swap clients and recent work section, move client testimonies to work page)
+
+SERVICES PAGE
+- Add blief blockquote about "Good-To-Know Info" section
+
+ABOUT PAGE
+- Create variation (move intro wording under "The Team" heading)
+
+WORK PAGE
+- create variation
+
+WORK PIECE PAGE
+- Finish
+
+-Clean up headlines css
+- clean up sections css

@@ -6,23 +6,19 @@ Description: This description will go in the meta description tag
 <div class="page-header text-center">
 	<h1 class="title">Services</h1>
 	<div class="container">
-		<div class="row">
-			<div class="services-options">
-				<div class="col-md-12">
-					<div class="row">
-						<div class="col-md-3">
-							<a href="#branding" class="btn btn-lg btn-block btn-cream branding-bg">Branding</a>
-						</div>
-						<div class="col-md-3">
-							<a href="#print" class="btn btn-lg btn-block btn-cream print-bg">Print</a>
-						</div>
-						<div class="col-md-3">
-							<a href="#web" class="btn btn-lg btn-block btn-cream web-bg">Web</a>
-						</div>
-						<div class="col-md-3">
-							<a href="#messaging" class="btn btn-lg btn-block btn-cream messaging-bg">Messaging</a>
-						</div>
-					</div>
+		<div class="services-options">
+			<div class="row">
+				<div class="col-sm-6 col-md-3">
+					<a href="#branding" class="btn btn-lg btn-block btn-cream branding-bg">Branding</a>
+				</div>
+				<div class="col-sm-6 col-md-3">
+					<a href="#print" class="btn btn-lg btn-block btn-cream print-bg">Print</a>
+				</div>
+				<div class="col-sm-6 col-md-3">
+					<a href="#web" class="btn btn-lg btn-block btn-cream web-bg">Web</a>
+				</div>
+				<div class="col-sm-6 col-md-3">
+					<a href="#messaging" class="btn btn-lg btn-block btn-cream messaging-bg">Messaging</a>
 				</div>
 			</div>
 		</div>

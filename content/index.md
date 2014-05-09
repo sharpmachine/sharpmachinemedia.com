@@ -165,7 +165,7 @@ Description: This description will go in the meta description tag
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-6 col-md-3 pull-right">
+			<div class="col-xs-12 col-sm-6 col-md-3 pull-right">
 				<a href="services" class="btn btn-lg btn-red btn-lg btn-block">Learn More &#8608;</a>
 			</div>
 		</div>

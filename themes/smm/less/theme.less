@@ -183,7 +183,7 @@ body {
 /*..................................the page headers */
 .page-header {
   margin: 0;
-  padding: @padding-base-horizontal*3;
+  padding: @padding-base-horizontal*3 0;
   color: @brand-cream;
   background: url(../img/another.jpg) center center no-repeat;
   -webkit-background-size: cover;
@@ -353,7 +353,7 @@ body {
   h2 {
     margin: 0 0 -8px;
     color: @brand-cream;
-    font-size: 56px;
+    font-size: 55.5px;
   }
 
   a {
@@ -509,4 +509,18 @@ body {
 
 .bg-brand-white {
   background-color: @brand-white;
+}
+
+/*..................................the responsive stuff */
+@media (max-width: @screen-xs-max) {
+
+  .btn {
+    .btn-block();
+  }
+
+  .work-piece {
+    margin-bottom: 15px;
+  }
+
+
 }
