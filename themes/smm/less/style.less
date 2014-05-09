@@ -25,11 +25,19 @@
   }
 }
 
+.jumbo-call {
+  position: relative;
+  z-index: 2;
+}
+
 .down-arrow {
+  position: relative;
+  top: -25px;
+  z-index: 1;
   color: @brand-cream;
   font-size: 136px;
   line-height: 1;
-  margin-top: -25px;
+  // margin-top: -25px;
 }
 
 
@@ -56,7 +64,12 @@
 
 // service boxes
 .service {
+  max-width: 375px;
   margin-bottom: 30px;
+
+  @media (max-width: @screen-xs-max) {
+    margin: 0 auto 15px;
+  }
 }
 
 .service-inner {
@@ -70,6 +83,12 @@
   background-size: 180px 180px;
   cursor: pointer;
   .transition(all ease 0.2s);
+
+  @media (min-width: @screen-md-min) and (max-width: @screen-md-max) {
+    background-position: top -60px right -60px;
+    -webkit-background-size: 150px 150px;
+    background-size: 150px 150px;
+  }
 
   h3 {
     bottom: 75px;
@@ -96,7 +115,6 @@
 
   &:hover {
     color: @brand-cream;
-    // background-position: 143px -60px;
     background-position: top -60px right -60px;
     background-color: @brand-red;
     .transition(all ease 0.2s);
@@ -105,6 +123,10 @@
       color: @brand-cream;
       .transition(all ease 0.2s);
     }
+
+     @media (min-width: @screen-md-min) and (max-width: @screen-md-max) {
+      background-position: top -50px right -50px;
+     }
   }
 }
 
@@ -175,6 +197,10 @@
 
 #recent-work {
   margin-bottom: @padding-base-horizontal*6;
+
+  @media (max-width: @screen-xs-max) {
+    margin-bottom: 15px;
+  }
 }
 
 
@@ -302,8 +328,6 @@ span.lowercase {
   }
 }
 
-
-
 #misc-info {
   padding: @padding-base-horizontal*4 0;
 
@@ -329,6 +353,13 @@ span.lowercase {
 /*..................................the work page */
 #work {
   margin-top: 30px;
+
+  // @media (max-width: @screen-xs-max) {
+  //   img {
+  //     display: block;
+  //     margin: 0 auto;
+  //   }
+  // }
 }
 
 /*..................................the about page */

@@ -260,6 +260,10 @@ body {
   p {
     margin-bottom: -15px;
     font-size: 28px;
+
+    @media (max-width: @screen-xs-max) {
+      font-size: 20px;
+    }
   }
 
   .accent {
@@ -283,6 +287,11 @@ body {
       .opacity(0.6);
       .transition(all ease 0.2s);
       .backface-visibility(hidden);
+
+      @media (max-width: @screen-xs-max) {
+        display: block;
+        margin: 0 auto;
+      }
     }
 
     &:hover {
@@ -292,11 +301,16 @@ body {
       }
     }
   }
+
+  @media (max-width: @screen-xs-max) {
+    margin-bottom: 15px;
+  }
 }
 
 /*..................................the modal */
 .md-content {
-  padding-top: 80px;
+  // padding-bottom: 80px;
+  // min-height: 450px !important;
   color: @brand-cream;
   background-color: @brand-black;
 
@@ -337,7 +351,7 @@ body {
 }
 
 .md-show ~ .md-overlay {
-  background-position: -250px 350px;
+  background-position: bottom -200px left -200px;
 }
 
 /*..................................the footer */
@@ -516,6 +530,8 @@ body {
 
   .btn {
     .btn-block();
+    max-width: 345px;
+    margin: 0 auto;
   }
 
   .work-piece {

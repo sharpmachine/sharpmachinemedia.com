@@ -27,13 +27,25 @@ perspective effects (not including the modals and the overlay).
 
 .md-modal {
   position: fixed;
-  top: 50%;
-  left: 50%;
+  /*top: 50%;
+  left: 50%;*/
   /*width: 50%;*/
   /*max-width: 630px;
   min-width: 320px;*/
   height: auto;
   z-index: 2000;
+  
+  top: 50%;
+  /*top: 40%;*/
+    bottom:0;
+    right: 0;
+    left: 50%;
+    width: 100%;
+    /*position:fixed;*/
+    overflow-y:scroll;
+    overflow-x:hidden;
+
+
   visibility: hidden;
   -webkit-backface-visibility: hidden;
   -moz-backface-visibility: hidden;
@@ -731,6 +743,6 @@ perspective effects (not including the modals and the overlay).
   transition: all 0.5s 0.1s;
 }
 
-@media screen and (max-width: 32em) {
+/*@media screen and (max-width: 32em) {
   body { font-size: 75%; }
-}
+}*/

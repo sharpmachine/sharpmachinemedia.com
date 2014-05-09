@@ -6,17 +6,19 @@ Description: This description will go in the meta description tag
 <!-- modals -->
 <div class="md-modal md-effect-12" id="modal-branding">
 	<div class="md-content">
-		<h3 class="text-left">Branding</h3>
-		<div class="close-box">
-			<span class="pull-right md-close">&#10005;</span>
-		</div>
-		<div>
+		<div class="container">
 			<div class="row">
-				<div class="col-md-6">
-					<p class="">We believe in building purpose-driven brands. Your price and product will change as you grow, but your purpose should never change.</p>
-					<p class="">We've simplified the branding process to make it easier for our clients' to understand, appreciate and follow along, while still delivering maximum impact.</p>
+				<div class="col-md-8 col-md-offset-2">
+					<h3 class="text-left">Branding</h3>
+					<div class="close-box">
+						<span class="pull-right md-close">&#10005;</span>
+					</div>
 				</div>
-				<div class="col-md-6">
+				<div class="col-sm-6 col-md-4 col-md-offset-2">
+					<p>We believe in building purpose-driven brands. Your price and product will change as you grow, but your purpose should never change.</p>
+					<p>We've simplified the branding process to make it easier for our clients' to understand, appreciate and follow along, while still delivering maximum impact.</p>
+				</div>
+				<div class="col-sm-6 col-md-4">
 					<p>We can design out the visual and tonal manifestation of that strategy, such as the logo, typefaces, icons and tone-of-voice, as well as a style guide to help your team manage your brand well.</p>
 					<ul>
 						<li>Conceptualization</li>
@@ -34,17 +36,19 @@ Description: This description will go in the meta description tag
 
 <div class="md-modal md-effect-12" id="modal-print">
 	<div class="md-content">
-		<h3 class="text-left">Print</h3>
-		<div class="close-box">
-			<span class="pull-right md-close">&#10005;</span>
-		</div>
-		<div>
+		<div class="container">
 			<div class="row">
-				<div class="col-md-6">
-					<p class="">We believe in building purpose-driven brands. Your price and product will change as you grow, but your purpose should never change.</p>
-					<p class="">We've simplified the branding process to make it easier for our clients' to understand, appreciate and follow along, while still delivering maximum impact.</p>
+				<div class="col-md-8 col-md-offset-2">
+					<h3 class="text-left">Print</h3>
+					<div class="close-box">
+						<span class="pull-right md-close">&#10005;</span>
+					</div>
 				</div>
-				<div class="col-md-6">
+				<div class="col-sm-6 col-md-4 col-md-offset-2">
+					<p>We believe in building purpose-driven brands. Your price and product will change as you grow, but your purpose should never change.</p>
+					<p>We've simplified the branding process to make it easier for our clients' to understand, appreciate and follow along, while still delivering maximum impact.</p>
+				</div>
+				<div class="col-sm-6 col-md-4">
 					<p>We can design out the visual and tonal manifestation of that strategy, such as the logo, typefaces, icons and tone-of-voice, as well as a style guide to help your team manage your brand well.</p>
 					<ul>
 						<li>Conceptualization</li>
@@ -62,17 +66,19 @@ Description: This description will go in the meta description tag
 
 <div class="md-modal md-effect-12" id="modal-web">
 	<div class="md-content">
-		<h3 class="text-left">Web</h3>
-		<div class="close-box">
-			<span class="pull-right md-close">&#10005;</span>
-		</div>
-		<div>
+		<div class="container">
 			<div class="row">
-				<div class="col-md-6">
-					<p class="">We believe in building purpose-driven brands. Your price and product will change as you grow, but your purpose should never change.</p>
-					<p class="">We've simplified the branding process to make it easier for our clients' to understand, appreciate and follow along, while still delivering maximum impact.</p>
+				<div class="col-md-8 col-md-offset-2">
+					<h3 class="text-left">Web</h3>
+					<div class="close-box">
+						<span class="pull-right md-close">&#10005;</span>
+					</div>
 				</div>
-				<div class="col-md-6">
+				<div class="col-sm-6 col-md-4 col-md-offset-2">
+					<p>We believe in building purpose-driven brands. Your price and product will change as you grow, but your purpose should never change.</p>
+					<p>We've simplified the branding process to make it easier for our clients' to understand, appreciate and follow along, while still delivering maximum impact.</p>
+				</div>
+				<div class="col-sm-6 col-md-4">
 					<p>We can design out the visual and tonal manifestation of that strategy, such as the logo, typefaces, icons and tone-of-voice, as well as a style guide to help your team manage your brand well.</p>
 					<ul>
 						<li>Conceptualization</li>
@@ -90,17 +96,19 @@ Description: This description will go in the meta description tag
 
 <div class="md-modal md-effect-12" id="modal-messaging">
 	<div class="md-content">
-		<h3 class="text-left">Messaging</h3>
-		<div class="close-box">
-			<span class="pull-right md-close">&#10005;</span>
-		</div>
-		<div>
+		<div class="container">
 			<div class="row">
-				<div class="col-md-6">
-					<p class="">We believe in building purpose-driven brands. Your price and product will change as you grow, but your purpose should never change.</p>
-					<p class="">We've simplified the branding process to make it easier for our clients' to understand, appreciate and follow along, while still delivering maximum impact.</p>
+				<div class="col-md-8 col-md-offset-2">
+					<h3 class="text-left">Messaging</h3>
+					<div class="close-box">
+						<span class="pull-right md-close">&#10005;</span>
+					</div>
 				</div>
-				<div class="col-md-6">
+				<div class="col-sm-6 col-md-4 col-md-offset-2">
+					<p>We believe in building purpose-driven brands. Your price and product will change as you grow, but your purpose should never change.</p>
+					<p>We've simplified the branding process to make it easier for our clients' to understand, appreciate and follow along, while still delivering maximum impact.</p>
+				</div>
+				<div class="col-sm-6 col-md-4">
 					<p>We can design out the visual and tonal manifestation of that strategy, such as the logo, typefaces, icons and tone-of-voice, as well as a style guide to help your team manage your brand well.</p>
 					<ul>
 						<li>Conceptualization</li>
@@ -190,27 +198,32 @@ Description: This description will go in the meta description tag
 	<div class="container">
 		<h2 class="headline text-center">A few of our clients</h2>
 		<div class="row">
-			<div class="col-md-2 col-md-offset-1">
+			<div class="col-xs-6 col-sm-4 col-md-2">
 				<div class="client-logo">
 					<img src="themes/smm/img/bia.png" class="img-responsive" alt="Beauty I AM logo">
 				</div>
 			</div>
-			<div class="col-md-2">
+			<div class="col-xs-6 col-sm-4 col-md-2">
 				<div class="client-logo">
 					<img src="themes/smm/img/fth.png" class="img-responsive" alt="From the Hearth logo">
 				</div>
 			</div>
-			<div class="col-md-2">
+			<div class="col-xs-6 col-sm-4 col-md-2">
 				<div class="client-logo">
 					<img src="themes/smm/img/was.png" class="img-responsive" alt="White Antelope Studio logo">
 				</div>
 			</div>
-			<div class="col-md-2">
+			<div class="col-xs-6 col-sm-4 col-md-2">
 				<div class="client-logo">
 					<img src="themes/smm/img/bjm.png" class="img-responsive" alt="BJM logo">
 				</div>
 			</div>
-			<div class="col-md-2">
+			<div class="col-xs-6 col-sm-4 col-md-2">
+				<div class="client-logo">
+					<img src="themes/smm/img/otb.png" class="img-responsive" alt="On the Beam logo">
+				</div>
+			</div>
+			<div class="col-xs-6 col-sm-4 col-md-2">
 				<div class="client-logo">
 					<img src="themes/smm/img/otb.png" class="img-responsive" alt="On the Beam logo">
 				</div>
@@ -286,8 +299,8 @@ Description: This description will go in the meta description tag
 				</div>
 			</div>
 			<div class="clearfix"></div>
-			<div class="col-xs-12 text-right">
-				<a href="work" class="btn btn-lg btn-red btn-lg">See More &#8608;</a>
+			<div class="col-xs-12 col-sm-6 col-md-3 pull-right">
+				<a href="services" class="btn btn-lg btn-red btn-lg btn-block">See More &#8608;</a>
 			</div>
 		</div>
 	</div>
