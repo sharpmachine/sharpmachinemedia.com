@@ -18,55 +18,43 @@ Description: This description will go in the meta description tag
 	</div>
 </header>
 
-<div class="work-awards bar text-center">
-	<div class="container">
-		<img src="holder.js/50x50" class="img-circle" alt="">
-		<img src="holder.js/50x50" class="img-circle" alt="">
-		<img src="holder.js/50x50" class="img-circle" alt="">
-	</div>
-</div>
-
-<!-- <section class="work-piece-screenshots text-center">
-	<div class="row">
-		<div class="col-md-12 piece-screenshot">
-			<img src="holder.js/500x500" alt="">
-		</div>
-	</div>
-	<div class="row">
-		<div class="col-md-12 piece-screenshot">
-			<img src="holder.js/500x500" alt="">
-		</div>
-	</div>
-	<div class="row">
-		<div class="col-md-12 piece-screenshot">
-			<img src="holder.js/500x500" alt="">
-		</div>
-	</div>
-	<div class="row">
-		<div class="col-md-12 piece-screenshot">
-			<img src="holder.js/500x500" alt="">
-		</div>
-	</div>
-</section> -->
-
-
-<footer class="other-work">
-	<h3 class="text-center">Other Work</h3>
+<section class="work-piece-screenshots">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-3">
-				<img src="holder.js/300x300/auto" class="img-responsive" alt="">
+			<div class="col-md-6 piece-screenshot">
+			<!-- <img src="../themes/smm/img/otb-logo.svg" class="center-block" width="250px" alt="On the Beam logo"> -->
+			<img src="../themes/smm/img/OTB-Carved.jpg" class="img-responsive" alt="On the Beam logo">
 			</div>
-			<div class="col-md-3">
-				<img src="holder.js/300x300/auto" class="img-responsive" alt="">
+			<div class="col-md-6">
+				<h3>The Brand</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates dolor aliquid repellendus aperiam nesciunt amet hic soluta rem maxime vitae!</p>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, quos distinctio vel id fugiat accusamus consequuntur quisquam illum soluta iure asperiores labore eaque nulla non fugit. Non maxime quas ex!</p>
 			</div>
-			<div class="col-md-3">
-				<img src="holder.js/300x300/auto" class="img-responsive" alt="">
+		</div>
+		<div class="row">
+			<div class="col-md-6 pull-right">
+				<img src="../themes/smm/img/Futura_Specimen.svg" width="100%" alt="" class="img-responsive">
 			</div>
-			<div class="col-md-3">
-				<img src="holder.js/300x300/auto" class="img-responsive" alt="">
+		</div>
+		<div class="row">
+			<div class="col-md-12 piece-screenshot">
+				<img src="../themes/smm/img/otb-layout.jpg" alt="" class="img-responsive">
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-4 piece-screenshot">
+				<img src="../themes/smm/img/iphone.png" alt="" class="img-responsive">
+				<img src="../themes/smm/img/nexus5.png" alt="" class="img-responsive">
+			</div>
+			<div class="col-md-8 piece-screenshot">
+				<img src="../themes/smm/img/iMac.png" alt="" class="img-responsive">
+			</div>
+			<div class="col-md-6 piece-screenshot">
+				<img src="../themes/smm/img/macbook.png" alt="" class="img-responsive">
+			</div>
+			<div class="col-md-12 piece-screenshot">
+				<img src="../themes/smm/img/ipad.png" alt="" class="img-responsive">
 			</div>
 		</div>
 	</div>
-
-</footer>
+</section>

@@ -96,28 +96,28 @@ Description: This description will go in the meta description tag
 	<div class="container">
 		<h2 class="headline text-center">The Studio</h2>
 		<div class="row">
-			<div class="col-md-12">
+			<div class="col-xs-12">
 				<img src="themes/smm/img/about1.jpg" class="img-responsive" alt="" width="1140" height="500">
 			</div>
-			<div class="col-md-6">
+			<div class="col-sm-6">
 				<div class="row">
-					<div class="col-md-12">
+					<div class="col-xs-12">
 						<img src="themes/smm/img/about2.jpg" class="img-responsive" alt="" width="555" height="555">
 					</div>
 				</div>
 			</div>
-			<div class="col-md-6">
+			<div class="col-sm-6">
 				<div class="row">
-					<div class="col-md-6">
+					<div class="col-sm-6">
 						<img src="themes/smm/img/about3.jpg" class="img-responsive" alt="" width="263" height="263">
 					</div>
-					<div class="col-md-6">
+					<div class="col-sm-6">
 						<img src="themes/smm/img/about4.jpg" class="img-responsive" alt="" width="263" height="263">
 					</div>
-					<div class="col-md-6">
+					<div class="col-sm-6">
 						<img src="themes/smm/img/about5.jpg" class="img-responsive" alt="" width="263" height="263">
 					</div>
-					<div class="col-md-6">
+					<div class="col-sm-6">
 						<img src="themes/smm/img/about6.jpg" class="img-responsive" alt="" width="263" height="263">
 					</div>
 				</div>
