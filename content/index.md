@@ -279,28 +279,28 @@ Description: This description will go in the meta description tag
 			</div>
 			<div class="col-sm-6">
 				<div class="work-piece">
-					<a href="#">
+					<a href="work/piece">
 						<img src="themes/smm/img/globacom-lg.jpg" class="img-responsive" alt="Beauty I AM" width="570" height="234">
 					</a>
 				</div>
 			</div>
 			<div class="col-sm-6">
 				<div class="work-piece">
-					<a href="#">
+					<a href="work/piece">
 						<img src="themes/smm/img/otb-lg.jpg" class="img-responsive" alt="Beauty I AM" width="570" height="234">
 					</a>
 				</div>
 			</div>
 			<div class="col-sm-6">
 				<div class="work-piece">
-					<a href="#">
+					<a href="work/piece">
 						<img src="themes/smm/img/uh-lg.jpg" class="img-responsive" alt="Beauty I AM" width="570" height="234">
 					</a>
 				</div>
 			</div>
 			<div class="clearfix"></div>
 			<div class="col-xs-12 col-sm-6 col-md-3 pull-right">
-				<a href="services" class="btn btn-lg btn-red btn-lg btn-block">See More &#8608;</a>
+				<a href="work" class="btn btn-lg btn-red btn-lg btn-block">See More &#8608;</a>
 			</div>
 		</div>
 	</div>

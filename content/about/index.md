@@ -3,15 +3,12 @@ Title: About
 Description: This description will go in the meta description tag
 */
 
-<header class="page-header">
+<header class="page-header text-center">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-5">
+			<div class="col-xs-12">
 				<h1 class="title">About</h1>
 				<div class="work-capacity">Sharp Machine</div>
-			</div>
-			<div class="col-md-7">
-				<p class="lead">We are a small team of forward-thinking creatives and strategists brought together to make you happen.  Redding, CA is home, and we love it here.  Our dream is that our city's businesses would be prosperous and self-sustaining, exporting innovation and creativity to the rest of the world.</p>
 			</div>
 		</div>
 	</div>
@@ -20,6 +17,13 @@ Description: This description will go in the meta description tag
 <section id="the-team" class="text-center">
 	<div class="container">
 		<h2 class="headline">The Team</h2>
+		<div class="row">
+			<div class="col-md-8 col-md-offset-2">
+				<p class="text-center lead libre">We are a small team of forward-thinking creatives and strategists brought together to make you happen.  Redding, CA is home, and we love it here.  Our dream is that our city's businesses would be prosperous and self-sustaining, exporting innovation and creativity to the rest of the world.</p>
+				<br>
+				<br>
+			</div>
+		</div>
 		<div class="row">
 			<div class="col-sm-6">
 				<div class="person">
