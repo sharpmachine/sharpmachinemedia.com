@@ -27,7 +27,7 @@ Description: This description will go in the meta description tag
 		<div class="row">
 			<div class="col-sm-6">
 				<div class="person">
-					<img src="themes/smm/img/jesse.jpg" class="img-responsive" alt="Jesse Kade">
+					<img src="themes/smm/img/jesse.jpg" class="img-responsive" alt="Jesse Kade" width="1110" height="1110">
 					<div class="person-info">
 						<h2>Jesse Kade</h2>
 						<div class="position">Project Director</div>
@@ -41,7 +41,7 @@ Description: This description will go in the meta description tag
 			</div>
 			<div class="col-sm-6">
 				<div class="person">
-					<img src="themes/smm/img/brad.jpg" class="img-responsive" alt="Jesse Kade">
+					<img src="themes/smm/img/brad.jpg" class="img-responsive" alt="Brad Webster" width="1110" height="1110">
 					<div class="person-info">
 						<h2>Brad Webster</h2>
 						<div class="position">Brand Strategist</div>
