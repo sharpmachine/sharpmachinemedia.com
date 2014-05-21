@@ -180,59 +180,7 @@ Description: This description will go in the meta description tag
 	</div>
 </section>
 
-<!-- Belief #1 -->
-<div class="well well-lg">
-	<div class="diamond">
-		<div class="diamond-border">
-			<p>&#8220;</p>
-		</div>
-	</div>
-	<div class="container">
-		<p class="lead">&#8220;If a brand is worth building, it's worth building it to last.&#8221;</p>
-		<div class="accent"></div>
-	</div>
-</div>
-
-<!-- A few of our clients -->
-<section id="clients">
-	<div class="container">
-		<h2 class="headline text-center">A few of our clients</h2>
-		<div class="row">
-			<div class="col-xs-6 col-sm-4 col-md-2">
-				<div class="client-logo">
-					<img src="themes/smm/img/bia.png" class="img-responsive" alt="Beauty I AM logo">
-				</div>
-			</div>
-			<div class="col-xs-6 col-sm-4 col-md-2">
-				<div class="client-logo">
-					<img src="themes/smm/img/fth.png" class="img-responsive" alt="From the Hearth logo">
-				</div>
-			</div>
-			<div class="col-xs-6 col-sm-4 col-md-2">
-				<div class="client-logo">
-					<img src="themes/smm/img/was.png" class="img-responsive" alt="White Antelope Studio logo">
-				</div>
-			</div>
-			<div class="col-xs-6 col-sm-4 col-md-2">
-				<div class="client-logo">
-					<img src="themes/smm/img/bjm.png" class="img-responsive" alt="BJM logo">
-				</div>
-			</div>
-			<div class="col-xs-6 col-sm-4 col-md-2">
-				<div class="client-logo">
-					<img src="themes/smm/img/otb.png" class="img-responsive" alt="On the Beam logo">
-				</div>
-			</div>
-			<div class="col-xs-6 col-sm-4 col-md-2">
-				<div class="client-logo">
-					<img src="themes/smm/img/otb.png" class="img-responsive" alt="On the Beam logo">
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-
-<section id="testimonies">
+<section id="testimonies" class="hidden">
 	<div class="container">
 		<div class="row client-testimonial">
 			<div class="col-md-8 col-md-offset-2">
@@ -306,18 +254,57 @@ Description: This description will go in the meta description tag
 	</div>
 </section>
 
-<!-- Belief #3 -->
-<div class="well well-lg hidden">
+<!-- Belief #1 -->
+<div class="well well-lg">
 	<div class="diamond">
 		<div class="diamond-border">
 			<p>&#8220;</p>
 		</div>
 	</div>
 	<div class="container">
-		<p class="lead">&#8220;Good is the enemy of great.&#8221;</p>
+		<p class="lead">&#8220;If a brand is worth building, it's worth building it to last.&#8221;</p>
 		<div class="accent"></div>
 	</div>
 </div>
+
+<!-- A few of our clients -->
+<section id="clients">
+	<div class="container">
+		<h2 class="headline text-center">A few of our clients</h2>
+		<div class="row">
+			<div class="col-xs-6 col-sm-4 col-md-2">
+				<div class="client-logo">
+					<img src="themes/smm/img/bia.png" class="img-responsive" alt="Beauty I AM logo">
+				</div>
+			</div>
+			<div class="col-xs-6 col-sm-4 col-md-2">
+				<div class="client-logo">
+					<img src="themes/smm/img/fth.png" class="img-responsive" alt="From the Hearth logo">
+				</div>
+			</div>
+			<div class="col-xs-6 col-sm-4 col-md-2">
+				<div class="client-logo">
+					<img src="themes/smm/img/was.png" class="img-responsive" alt="White Antelope Studio logo">
+				</div>
+			</div>
+			<div class="col-xs-6 col-sm-4 col-md-2">
+				<div class="client-logo">
+					<img src="themes/smm/img/bjm.png" class="img-responsive" alt="BJM logo">
+				</div>
+			</div>
+			<div class="col-xs-6 col-sm-4 col-md-2">
+				<div class="client-logo">
+					<img src="themes/smm/img/otb.png" class="img-responsive" alt="On the Beam logo">
+				</div>
+			</div>
+			<div class="col-xs-6 col-sm-4 col-md-2">
+				<div class="client-logo">
+					<img src="themes/smm/img/otb.png" class="img-responsive" alt="On the Beam logo">
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
 
 <!-- the overlay element -->
 <div class="md-overlay"></div>
