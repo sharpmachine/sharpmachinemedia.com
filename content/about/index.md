@@ -32,9 +32,9 @@ Description: This description will go in the meta description tag
 						<h2>Jesse Kade</h2>
 						<div class="position">Project Director</div>
 						<div class="personal-contact">
-							<a href="http://www.twitter.com/sharpmachine"><i class="fa fa-twitter"></i></a>
-							<a href="https://plus.google.com/102192504961948191311" rel="publisher"><i class="fa fa-google-plus"></i></a>
-							<a href="http://www.dribbble.com/sharpmachine"><i class="fa fa-dribbble"></i></a>
+							<a href="http://www.facebook.com/jessekadegettinpaid"><i class="fa fa-facebook"></i></a>
+							<a href="https://www.instagram.com/jessekade" rel="publisher"><i class="fa fa-instagram"></i></a>
+							<a href="mailto:jesse@sharpmachinemedia.com"><i class="fa fa-envelope"></i></a>
 						</div>
 					</div>
 				</div>
@@ -46,9 +46,7 @@ Description: This description will go in the meta description tag
 						<h2>Brad Webster</h2>
 						<div class="position">Brand Strategist</div>
 						<div class="personal-contact">
-							<a href="http://www.twitter.com/sharpmachine"><i class="fa fa-twitter"></i></a>
-							<a href="https://plus.google.com/102192504961948191311" rel="publisher"><i class="fa fa-google-plus"></i></a>
-							<a href="http://www.dribbble.com/sharpmachine"><i class="fa fa-dribbble"></i></a>
+							<a href="mailto:brad@sharpmachinemedia.com"><i class="fa fa-envelope"></i></a>
 						</div>
 					</div>
 				</div>

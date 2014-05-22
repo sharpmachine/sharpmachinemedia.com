@@ -272,34 +272,24 @@ Description: This description will go in the meta description tag
 	<div class="container">
 		<h2 class="headline text-center">A few of our clients</h2>
 		<div class="row">
-			<div class="col-xs-6 col-sm-4 col-md-2">
+			<div class="col-xs-6 col-sm-4 col-md-3">
 				<div class="client-logo">
-					<img src="themes/smm/img/bia.png" class="img-responsive" alt="Beauty I AM logo">
+					<img src="themes/smm/img/harris-logo.svg" class="img-responsive center-block" alt="Harris Studios logo">
 				</div>
 			</div>
-			<div class="col-xs-6 col-sm-4 col-md-2">
+			<div class="col-xs-6 col-sm-4 col-md-3">
 				<div class="client-logo">
-					<img src="themes/smm/img/fth.png" class="img-responsive" alt="From the Hearth logo">
+					<img src="themes/smm/img/compass-logo.svg" class="img-responsive center-block" alt="Compass logo">
 				</div>
 			</div>
-			<div class="col-xs-6 col-sm-4 col-md-2">
+			<div class="col-xs-6 col-sm-4 col-md-3">
 				<div class="client-logo">
-					<img src="themes/smm/img/was.png" class="img-responsive" alt="White Antelope Studio logo">
+					<img src="themes/smm/img/was-logo.svg" class="img-responsive center-block" alt="White Antelope Studio logo">
 				</div>
 			</div>
-			<div class="col-xs-6 col-sm-4 col-md-2">
+			<div class="col-xs-6 col-sm-4 col-md-3">
 				<div class="client-logo">
-					<img src="themes/smm/img/bjm.png" class="img-responsive" alt="BJM logo">
-				</div>
-			</div>
-			<div class="col-xs-6 col-sm-4 col-md-2">
-				<div class="client-logo">
-					<img src="themes/smm/img/otb.png" class="img-responsive" alt="On the Beam logo">
-				</div>
-			</div>
-			<div class="col-xs-6 col-sm-4 col-md-2">
-				<div class="client-logo">
-					<img src="themes/smm/img/otb.png" class="img-responsive" alt="On the Beam logo">
+					<img src="themes/smm/img/bjm-logo.svg" class="img-responsive center-block" alt="BJM logo">
 				</div>
 			</div>
 		</div>
