@@ -272,6 +272,28 @@ Description: This description will go in the meta description tag
 	</div>
 </section>
 
+<section id="testimonies" class="">
+	<div class="container">
+		<div class="row client-testimonial">
+			<div class="col-md-8 col-md-offset-2">
+				<div class="row">
+					<div class="col-sm-3">
+						<img src="../themes/smm/img/jonathan.jpg" class="img-responsive img-circle" alt="Generic placeholder image">
+					</div>
+					<div class="col-sm-9">
+						<p>"We loved the enthusiasm and the commitment to design consistency which Sharp Machine demonstrated throughout the process" <br> <cite>- <strong>Michael Van Tinteren, BJM</strong></cite></p>
+					</div>
+					<ol class="carousel-indicators">
+						<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+						<li data-target="#carousel-example-generic" data-slide-to="1"></li>
+						<li data-target="#carousel-example-generic" data-slide-to="2"></li>
+					</ol>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
 <section class="work-pager bg-brand-red">
 	<div class="container">
 		<div class="row">

@@ -89,6 +89,19 @@ Description: This description will go in the meta description tag
 	</div>
 </section>
 
+<!-- Belief #2 -->
+<div class="well well-lg">
+	<div class="diamond">
+		<div class="diamond-border">
+			<p>&#8220;</p>
+		</div>
+	</div>
+	<div class="container">
+		<p class="lead">&#8220;Brands are successful when they’re consistent with their message, they know what they represent, and have a story that connects with people.&#8221;</p>
+		<div class="accent"></div>
+	</div>
+</div>
+
 <section id="misc-info" class="bg-brand-red">
 	<h3 class="headline-inverse text-center">Good-to-know info</h1>
 		<div class="container">

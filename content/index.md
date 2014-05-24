@@ -9,7 +9,7 @@ Description: This description will go in the meta description tag
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h3 class="text-left">Branding</h3>
+					<h3 class="text-left">Branding </h3>
 					<div class="close-box">
 						<span class="pull-right md-close">&#10005;</span>
 					</div>
