@@ -35,11 +35,17 @@
   // top: -25px;
   // z-index: 1;
   // margin-top: -25px;
-  color: @brand-cream;
-  font-size: 136px;
+  height: 120px;
+  
   // line-height: 1;
-  line-height: 0.65;
+  // line-height: 0.65;
   // margin-top: -25px;
+
+  span {
+    line-height: 0.65;
+    color: @brand-cream;
+    font-size: 136px;
+  }
 }
 
 
@@ -126,9 +132,9 @@
       .transition(all ease 0.2s);
     }
 
-     @media (min-width: @screen-md-min) and (max-width: @screen-md-max) {
+    @media (min-width: @screen-md-min) and (max-width: @screen-md-max) {
       background-position: top -50px right -50px;
-     }
+    }
   }
 }
 

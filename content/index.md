@@ -132,7 +132,7 @@ Description: This description will go in the meta description tag
 	<div class="jumbo-call">
 		<a href="#what-we-do" class="btn btn-cream btn-lg" role="button">How we can help</a>
 	</div>
-	<div class="down-arrow">&darr;</div>
+	<div class="down-arrow clearfix"><span>&darr;</span></div>
 </section>
 
 <!-- What we do -->
