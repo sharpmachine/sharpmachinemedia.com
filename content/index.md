@@ -128,7 +128,7 @@ Description: This description will go in the meta description tag
 <section class="jumbotron text-center">
 	<img src="themes/smm/img/logo.png" class="logo" alt="Sharp Machine Logo" width="160px" height="187px">
 	<h1 class="title">Branding, Strategy <span class="ampersand">&amp;</span> Design</h1>
-	<h2>Discover your brand.  Grow your business.  Build it to last.</h2>
+	<h2 class="hidden-xs">Discover your brand.  Grow your business.  Build it to last.</h2>
 	<div class="jumbo-call">
 		<a href="#what-we-do" class="btn btn-cream btn-lg" role="button">How we can help</a>
 	</div>
@@ -174,7 +174,7 @@ Description: This description will go in the meta description tag
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-6 col-md-3 pull-right">
-				<a href="services" class="btn btn-lg btn-red btn-lg btn-block">Learn More &#8608;</a>
+				<a href="services" class="btn btn-lg btn-red btn-lg btn-block">Learn More <span class="right-arrow">&#8608;</span></a>
 			</div>
 		</div>
 	</div>
@@ -248,7 +248,7 @@ Description: This description will go in the meta description tag
 			</div>
 			<div class="clearfix"></div>
 			<div class="col-xs-12 col-sm-6 col-md-3 pull-right">
-				<a href="work" class="btn btn-lg btn-red btn-lg btn-block">See More &#8608;</a>
+				<a href="work" class="btn btn-lg btn-red btn-lg btn-block">See More <span class="right-arrow">&#8608;</span></a>
 			</div>
 		</div>
 	</div>
@@ -272,22 +272,22 @@ Description: This description will go in the meta description tag
 	<div class="container">
 		<h2 class="headline text-center">A few of our clients</h2>
 		<div class="row">
-			<div class="col-xs-6 col-sm-4 col-md-3">
+			<div class="col-sm-3">
 				<div class="client-logo">
 					<img src="themes/smm/img/harris-logo.svg" class="img-responsive center-block" alt="Harris Studios logo">
 				</div>
 			</div>
-			<div class="col-xs-6 col-sm-4 col-md-3">
+			<div class="col-sm-3">
 				<div class="client-logo">
 					<img src="themes/smm/img/compass-logo.svg" class="img-responsive center-block" alt="Compass logo">
 				</div>
 			</div>
-			<div class="col-xs-6 col-sm-4 col-md-3">
+			<div class="col-sm-3">
 				<div class="client-logo">
 					<img src="themes/smm/img/was-logo.svg" class="img-responsive center-block" alt="White Antelope Studio logo">
 				</div>
 			</div>
-			<div class="col-xs-6 col-sm-4 col-md-3">
+			<div class="col-sm-3">
 				<div class="client-logo">
 					<img src="themes/smm/img/bjm-logo.svg" class="img-responsive center-block" alt="BJM logo">
 				</div>

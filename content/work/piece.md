@@ -8,7 +8,7 @@ Description: This description will go in the meta description tag
 		<div class="row">
 			<div class="col-xs-12">
 				<h1 class="title">Client Name</h1>
-				<div class="work-capacity">Branding, Print, Web, Messaging</div>
+				<div class="page-header-subtitle">Branding, Print, Web, Messaging</div>
 			</div>
 		</div>
 	</div>
@@ -236,14 +236,14 @@ Description: This description will go in the meta description tag
 </section>
 
 <!-- Web -->
-<section class="otb-bg">
+<section class="piece-bg">
 	<h2 class="headline-inverse text-center">Web</h2>
 </section>
 
 <section class="piece-website">
 	<div class="container">
 		<div class="row">
-			<aside class="col-sm-3 col-lg-2">
+			<aside class="col-sm-3 col-lg-2 hidden-xs">
 				<h3 class="libre h4">On the Experience:</h3>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde, dolorum, ex aliquid culpa aut tempora illo distinctio assumenda harum facere.</p>
 			</aside>
@@ -253,6 +253,10 @@ Description: This description will go in the meta description tag
 					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.0.0 - Homepage</figcaption>
 				</figure>
 			</div>
+			<aside class="col-sm-3 col-lg-2 visible-xs">
+				<h3 class="libre h4">On the Experience:</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde, dolorum, ex aliquid culpa aut tempora illo distinctio assumenda harum facere.</p>
+			</aside>
 		</div>
 	</div>
 </section>
@@ -272,7 +276,7 @@ Description: This description will go in the meta description tag
 	</div>
 </section>
 
-<section id="testimonies" class="">
+<section id="testimonies">
 	<div class="container">
 		<div class="row client-testimonial">
 			<div class="col-md-8 col-md-offset-2">
@@ -289,7 +293,29 @@ Description: This description will go in the meta description tag
 	</div>
 </section>
 
-<section class="work-pager bg-brand-red">
+<section id="testimonies" class="bg-brand-white">
+	<div class="container">
+		<div class="row client-testimonial text-center">
+			<div class="col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
+				<div class="row">
+					<div class="col-sm-12">
+						<p>&#8220;We loved the enthusiasm and the commitment to design consistency which Sharp Machine demonstrated throughout the process&#8221;</p>
+					</div>
+					<div class="col-sm-12">
+						<div class="row">
+							<div class="col-sm-2 col-sm-offset-5">
+								<img src="../themes/smm/img/jonathan.jpg" class="img-responsive img-circle" alt="Generic placeholder image">
+							</div>
+						</div>
+						<cite>Michael Van Tinteren <span class="cite-position">Bill Johnson Ministries</span></cite>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section id="work-pager" class="bg-brand-red">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2">
@@ -301,7 +327,7 @@ Description: This description will go in the meta description tag
 						<a href="../work" class="btn btn-lg btn-black btn-block">All Work</a>
 					</div>
 					<div class="col-sm-4">
-						<a href="piece" class="btn btn-lg btn-black btn-block">Next &#8608;</a>
+						<a href="piece" class="btn btn-lg btn-black btn-block">Next <span class="right-arrow">&#8608;</span></a>
 					</div>
 				</div>
 			</div>

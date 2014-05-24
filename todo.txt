@@ -1,10 +1,12 @@
 GLOBAL
-- Finalize copy
-- Responsiveness
+- Finalize copy (with Brad)
 - Clean up code for header/footer/theme.less
-- Add photos
+- Add photos (Brad/Jack)
 - style testimonies component
-- vectorize blockquote accent
+- vectorize blockquote accent (Jake)
 
 HOME PAGE
-- finalize "A few of our clients" logos
+- finalize "A few of our clients" logos (Brad)
+
+SERVICES PAGE
+- Replace UH with EL (need logo from Brad)

@@ -76,18 +76,19 @@ h1.title {
 		top: -4px;
 		font-size: 50px;
 	}
+
+	@media (min-width: @screen-sm-min) {
+		font-size: 69px;
+	}
 }
 
 .headline {
 	margin: 0 0 @padding-base-horizontal*4;
 	text-shadow: 1px 1px 0px @brand-cream, 2px 2px 0px @brand-red;
-
-	@media (max-width: @screen-xs-max) {
-		margin: 24px 0;
-	}
 }
 
 .headline-inverse {
+	margin: 0 0 @padding-base-horizontal*4;
 	color: @brand-cream;
   text-shadow: 1px 1px 0px @brand-black, 2px 2px 0px @brand-cream;
 }

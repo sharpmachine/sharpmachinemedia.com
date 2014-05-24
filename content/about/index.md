@@ -8,7 +8,7 @@ Description: This description will go in the meta description tag
 		<div class="row">
 			<div class="col-xs-12">
 				<h1 class="title">About</h1>
-				<div class="work-capacity">Sharp Machine</div>
+				<div class="page-header-subtitle">Sharp Machine</div>
 			</div>
 		</div>
 	</div>
@@ -144,19 +144,19 @@ Description: This description will go in the meta description tag
 	<div class="container">
 		<h2 class="headline text-center">FAQ</h2>
 		<div class="row">
-			<div class="col-md-6">
+			<div class="col-sm-6">
 				<h4>What do you charge?</h4>
 				<p>Our pricing is based on the amount of hours your project will take. In order to determine that, we will need to have a brief discussion about your project, the level of detail involved, technical requirements, etc. The best way to get the ball rolling on that process is to send an email to <a href="mailto:hello@sharpmachinemedia.com">hello@sharpmachinemedia.com</a>, and we’ll ask you some questions.</p>
 			</div>
-			<div class="col-md-6">
+			<div class="col-sm-6">
 				<h4>How long will it take you to complete my project?</h4>
 				<p>Each timeline is different, and is determined by the amount of deliverables and the level of intricacy your project requires. Once we get more information about your project, we’ll be able to give you an estimated timeframe. The best way to get the ball rolling on that process is to send an email to <a href="mailto:hello@sharpmachinemedia.com">hello@sharpmachinemedia.com</a>, and we’ll ask you some questions.</p>
 			</div>
-			<div class="col-md-6">
+			<div class="col-sm-6">
 				<h4>Do you do websites?</h4>
 				<p>Technically, yes.  But what we really do is build brands.  A website is a touchpoint for a brand...etc.</p>
 			</div>
-			<div class="col-md-6">
+			<div class="col-sm-6">
 				<h4>What is your perfect client?</h4>
 				<p>Our perfect client is someone who loves great design, likes collaboration, and appreciates our creative input. We enjoy working with clients who understand the value of what we do and want to use design to make their businesses more successful.</p>
 			</div>

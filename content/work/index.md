@@ -49,33 +49,49 @@ Description: This description will go in the meta description tag
 
 <section id="testimonies" class="bg-brand-red">
 	<div class="container">
-		<div id="client-testimonies" class="carousel slide" data-interval="false">
+		<div id="client-testimonies" class="carousel slide" data-ride="carousel">
 			<div class="row">
-				<div class="col-md-8 col-md-offset-2">
+				<div class="col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
 					<!-- Indicators -->
 					<ol class="carousel-indicators">
 						<li data-target="#client-testimonies" data-slide-to="0" class="active"></li>
 						<li data-target="#client-testimonies" data-slide-to="1"></li>
+						<a class="carousel-control left" href="#client-testimonies" data-slide="next">
+							<span>&#8606;</span>
+						</a>
+						<a class="carousel-control right" href="#client-testimonies" data-slide="next">
+							<span>&#8608;</span>
+						</a>
 					</ol>
 					<!-- Wrapper for slides -->
-					<div class="carousel-inner">
+					<div class="carousel-inner text-center">
 						<div class="item active">
 							<div class="row">
-								<div class="col-sm-3">
-									<img src="themes/smm/img/jonathan.jpg" class="img-responsive img-circle" alt="Generic placeholder image">
+								<div class="col-sm-12">
+									<p>&#8220;We loved the enthusiasm and the commitment to design consistency which Sharp Machine demonstrated throughout the process&#8221;</p>
 								</div>
-								<div class="col-sm-9">
-									<p>"We loved the enthusiasm and the commitment to design consistency which Sharp Machine demonstrated throughout the process" <br> <cite>- <strong>Michael Van Tinteren, BJM</strong></cite></p>
+								<div class="col-sm-12">
+									<div class="row">
+										<div class="col-sm-2 col-sm-offset-5">
+											<img src="../themes/smm/img/jonathan.jpg" class="img-responsive img-circle" alt="Generic placeholder image">
+										</div>
+									</div>
+									<cite>Michael Van Tinteren <span class="cite-position">Bill Johnson Ministries</span></cite>
 								</div>
 							</div>
 						</div>
 						<div class="item">
 							<div class="row">
-								<div class="col-sm-3">
-									<img src="themes/smm/img/jonathan.jpg" class="img-responsive img-circle" alt="Generic placeholder image">
+								<div class="col-sm-12">
+									<p>&#8220;We loved the enthusiasm and the commitment to design consistency which Sharp Machine demonstrated throughout the process.&#8221;</p>
 								</div>
-								<div class="col-sm-9">
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, maxime, minima tempore vero fugiat harum vel consequuntur fuga dignissimos enim? <br> <cite>- <strong>Jesse, BJM</strong></cite></p>
+								<div class="col-sm-12">
+									<div class="row">
+										<div class="col-sm-2 col-sm-offset-5">
+											<img src="../themes/smm/img/jonathan.jpg" class="img-responsive img-circle" alt="Generic placeholder image">
+										</div>
+									</div>
+									<cite>Jesse Kade <span class="cite-position">Bill Johnson Ministries</span></cite>
 								</div>
 							</div>
 						</div>
@@ -83,7 +99,7 @@ Description: This description will go in the meta description tag
 				</div>
 			</div>
 			<!-- Controls -->
-			<a class="carousel-control right" href="#client-testimonies" data-slide="next">
+			<a class="carousel-control right hidden" href="#client-testimonies" data-slide="next">
 				<span>&#8608;</span>
 			</a>
 		</div>
