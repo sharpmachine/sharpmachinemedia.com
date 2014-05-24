@@ -139,7 +139,7 @@ Description: This description will go in the meta description tag
 		<div class="accent"></div>
 	</div>
 </div>
-p
+
 <section id="faq">
 	<div class="container">
 		<h2 class="headline text-center">FAQ</h2>

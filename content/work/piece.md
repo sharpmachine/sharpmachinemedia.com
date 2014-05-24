@@ -283,11 +283,6 @@ Description: This description will go in the meta description tag
 					<div class="col-sm-9">
 						<p>"We loved the enthusiasm and the commitment to design consistency which Sharp Machine demonstrated throughout the process" <br> <cite>- <strong>Michael Van Tinteren, BJM</strong></cite></p>
 					</div>
-					<ol class="carousel-indicators">
-						<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-						<li data-target="#carousel-example-generic" data-slide-to="1"></li>
-						<li data-target="#carousel-example-generic" data-slide-to="2"></li>
-					</ol>
 				</div>
 			</div>
 		</div>
