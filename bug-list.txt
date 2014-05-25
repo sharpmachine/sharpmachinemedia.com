@@ -11,9 +11,7 @@ HOME PAGE
 
 ...Page scrollTo
 - Doesn't always work
-- buttons load late
 
 SERVICES PAGE
 - Branding button/scrollTo doesn't always work
-- buttons load late
 
