@@ -1,17 +1,6 @@
-GLOBAL
-
-...Header
-- Menu drawer on mobile/table open/close not smooth
-
 
 HOME PAGE
 
 ...Modals
 - Doesn't scroll
-
-...Page scrollTo
-- Doesn't always work
-
-SERVICES PAGE
-- Branding button/scrollTo doesn't always work
 

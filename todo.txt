@@ -1,9 +1,9 @@
 GLOBAL
 - Finalize copy (with Brad)
-- Clean up code for header/footer/theme.less
 - Add photos (Brad/Jack)
-- style testimonies component
+- style testimonies component (check with brad and jack)
 - vectorize blockquote accent (Jake)
+- Clean up code
 
 HOME PAGE
 - finalize "A few of our clients" logos (Brad)
