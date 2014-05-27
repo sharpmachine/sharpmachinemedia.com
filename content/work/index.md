@@ -11,7 +11,7 @@ Description: This description will go in the meta description tag
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-6 col-md-3 work-piece">
-				<a href="work/piece">
+				<a href="work/bia">
 					<img src="themes/smm/img/bia-sm.jpg" class="img-responsive" alt="Beauty I Am">
 				</a>
 			</div>
