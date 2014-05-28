@@ -21,7 +21,7 @@ Description: This description will go in the meta description tag
 				</a>
 			</div>
 			<div class="col-sm-6 col-md-3 work-piece">
-				<a href="work/piece">
+				<a href="work/otb">
 					<img src="themes/smm/img/otb-sm.jpg" class="img-responsive" alt="On The Beam">
 				</a>
 			</div>

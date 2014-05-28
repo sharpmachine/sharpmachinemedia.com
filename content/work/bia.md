@@ -1,6 +1,6 @@
 /*
 Title: Beauty I AM
-Description: This description will go in the meta description tag
+Description: Beauty I AM Project Page
 */
 
 <header class="page-header text-center">
@@ -62,7 +62,7 @@ Description: This description will go in the meta description tag
 					<div class="col-sm-6">
 						<figure>
 							<div class="logo-bg bg-brand-white">
-								<img src="../themes/smm/img/otb-logo.svg" class="center-block img-responsive" alt="On the Beam logo">
+								<img src="../../content/work/project-assets/bia-logo-d-vert.svg" class="center-block img-responsive" alt="Beauty I AM logo">
 							</div>
 							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.0 - Full lockup on light background</figcaption>
 						</figure>
@@ -70,7 +70,7 @@ Description: This description will go in the meta description tag
 					<div class="col-sm-6">
 						<figure>
 							<div class="logo-bg bg-brand-black">
-								<img src="../themes/smm/img/otb-logo-inverse.svg" class="center-block img-responsive" alt="On the Beam logo">
+								<img src="../../content/work/project-assets/bia-logo-l-vert.svg" class="center-block img-responsive" alt="Beauty I AM logo">
 							</div>
 							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.1 - Full lockup on dark background</figcaption>
 						</figure>
@@ -85,7 +85,7 @@ Description: This description will go in the meta description tag
 					<div class="col-sm-6">
 						<figure>
 							<div class="logo-bg bg-brand-white">
-								<img src="../themes/smm/img/otb-horizontal-light.svg" alt="" class="center-block img-responsive">
+								<img src="../../content/work/project-assets/bia-logo-d-hor.svg" alt="" class="center-block img-responsive">
 							</div>
 							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.2 - Horizontal lockup on light background</figcaption>
 						</figure>
@@ -93,57 +93,10 @@ Description: This description will go in the meta description tag
 					<div class="col-sm-6">
 						<figure>
 							<div class="logo-bg bg-brand-black">
-								<img src="../themes/smm/img/otb-horizontal-dark.svg" alt="" class="center-block img-responsive">
+								<img src="../../content/work/project-assets/bia-logo-l-hor.svg" alt="" class="center-block img-responsive">
 							</div>
 							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.3 - Horizontal lockup on light background</figcaption>
 						</figure>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- Icons -->
-		<div class="row">
-			<div class="col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2">
-				<div class="row">
-					<div class="col-sm-6">
-						<div class="row">
-							<div class="col-sm-6">
-								<figure>
-									<div class="logo-bg bg-brand-white">
-										<img src="../themes/smm/img/otb-no-frame-light.svg" alt="" class="center-block img-responsive">
-									</div>
-									<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.4 - Icon w/o frame on light background</figcaption>
-								</figure>
-							</div>
-							<div class="col-sm-6">
-								<figure>
-									<div class="logo-bg bg-brand-black">
-										<img src="../themes/smm/img/otb-no-frame-dark.svg" alt="" class="center-block img-responsive">
-									</div>
-									<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.5 - Icon w/o frame on dark background</figcaption>
-								</figure>
-							</div>
-						</div>
-					</div>
-					<div class="col-sm-6">
-						<div class="row">
-							<div class="col-sm-6">
-								<figure>
-									<div class="logo-bg bg-brand-white">
-										<img src="../themes/smm/img/otb-outline-light.svg" alt="" class="center-block img-responsive">
-									</div>
-									<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.6 - Icon w/ outline on light background</figcaption>
-								</figure>
-							</div>
-							<div class="col-sm-6">
-								<figure>
-									<div class="logo-bg bg-brand-black">
-										<img src="../themes/smm/img/otb-outline-dark.svg" alt="" class="center-block img-responsive">
-									</div>
-									<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.7 - Icon w/ outline on dark background</figcaption>
-								</figure>
-							</div>
-						</div>
 					</div>
 				</div>
 			</div>
