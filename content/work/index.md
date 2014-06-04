@@ -16,7 +16,7 @@ Description: This description will go in the meta description tag
 				</a>
 			</div>
 			<div class="col-sm-6 col-md-3 work-piece">
-				<a href="work/piece">
+				<a href="work/globacom">
 					<img src="themes/smm/img/globacom-sm.jpg" class="img-responsive" alt="Globacom">
 				</a>
 			</div>

@@ -1,13 +1,13 @@
 /*
-Title: Beauty I AM
-Description: Beauty I AM Project Page
+Title: Globacom
+Description: Globacom Page
 */
 
 <header class="page-header text-center">
 	<div class="container">
 		<div class="row">
 			<div class="col-xs-12">
-				<h1 class="title">Beauty I AM</h1>
+				<h1 class="title">Globacom</h1>
 				<div class="page-header-subtitle">Branding, Print, Web, Messaging</div>
 			</div>
 		</div>
@@ -62,47 +62,95 @@ Description: Beauty I AM Project Page
 					<div class="col-sm-6">
 						<figure>
 							<div class="logo-bg bg-brand-white">
-								<img src="../../content/work/project-assets/bia-logo-d-vert.svg" class="center-block img-responsive" alt="Beauty I AM logo">
+								<img src="../../content/work/project-assets/Globacom_Logo_Final_Color.svg" class="center-block img-responsive" alt="On the Beam logo">
 							</div>
-							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.0 - Full lockup on light background</figcaption>
+							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.0 - Full Color lockup on light background</figcaption>
+						</figure>
+					</div>
+					<div class="col-sm-6">
+						<figure>
+							<div class="logo-bg bg-brand-white">
+								<img src="../../content/work/project-assets/Globacom_One_Color_Light.svg" class="center-block img-responsive" alt="On the Beam logo">
+							</div>
+							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.0 - One Color lockup on light background</figcaption>
 						</figure>
 					</div>
 					<div class="col-sm-6">
 						<figure>
 							<div class="logo-bg bg-brand-black">
-								<img src="../../content/work/project-assets/bia-logo-l-vert.svg" class="center-block img-responsive" alt="Beauty I AM logo">
+								<img src="../../content/work/project-assets/Globacom_Dark_1.svg" class="center-block img-responsive" alt="On the Beam logo">
 							</div>
-							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.1 - Full lockup on dark background</figcaption>
+							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.1 - Full lockup on dark background 1</figcaption>
+						</figure>
+					</div>
+					<div class="col-sm-6">
+						<figure>
+							<div class="logo-bg bg-brand-black">
+								<img src="../../content/work/project-assets/Globacom_Dark_2.svg" class="center-block img-responsive" alt="On the Beam logo">
+							</div>
+							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.1 - Full lockup on dark background 2</figcaption>
 						</figure>
 					</div>
 				</div>
 			</div>
 		</div>
-		<!-- Horizontal -->
+		<!-- Icons -->
 		<div class="row">
 			<div class="col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2">
 				<div class="row">
 					<div class="col-sm-6">
-						<figure>
-							<div class="logo-bg bg-brand-white">
-								<img src="../../content/work/project-assets/bia-logo-d-hor.svg" alt="" class="center-block img-responsive">
+						<div class="row">
+							<div class="col-sm-6">
+								<figure>
+									<div class="logo-bg bg-brand-white">
+										<img src="../themes/smm/img/otb-no-frame-light.svg" alt="" class="center-block img-responsive">
+									</div>
+									<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.4 - Icon w/o frame on light background</figcaption>
+								</figure>
 							</div>
-							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.2 - Horizontal lockup on light background</figcaption>
-						</figure>
+							<div class="col-sm-6">
+								<figure>
+									<div class="logo-bg bg-brand-black">
+										<img src="../themes/smm/img/otb-no-frame-dark.svg" alt="" class="center-block img-responsive">
+									</div>
+									<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.5 - Icon w/o frame on dark background</figcaption>
+								</figure>
+							</div>
+						</div>
 					</div>
 					<div class="col-sm-6">
-						<figure>
-							<div class="logo-bg bg-brand-black">
-								<img src="../../content/work/project-assets/bia-logo-l-hor.svg" alt="" class="center-block img-responsive">
+						<div class="row">
+							<div class="col-sm-6">
+								<figure>
+									<div class="logo-bg bg-brand-white">
+										<img src="../themes/smm/img/otb-outline-light.svg" alt="" class="center-block img-responsive">
+									</div>
+									<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.6 - Icon w/ outline on light background</figcaption>
+								</figure>
 							</div>
-							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.3 - Horizontal lockup on light background</figcaption>
-						</figure>
+							<div class="col-sm-6">
+								<figure>
+									<div class="logo-bg bg-brand-black">
+										<img src="../themes/smm/img/otb-outline-dark.svg" alt="" class="center-block img-responsive">
+									</div>
+									<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.7 - Icon w/ outline on dark background</figcaption>
+								</figure>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 		<!-- Stylized -->
-		
+		<div class="row">
+			<div class="col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2">
+				<figure>
+					<figcaption class="libre"><span class="up-triangle">&#9660;</span> Figure 1.1.8 - Stylized in wood</figcaption>
+					<img src="../themes/smm/img/OTB-Carved.jpg" class="img-responsive" alt="On the Beam logo">
+				</figure>
+			</div>
+		</div>
+	</div>	
 </section>
 
 <!-- Typefaces -->
@@ -134,7 +182,27 @@ Description: Beauty I AM Project Page
 			<div class="col-md-9 col-lg-10">
 				<div class="row">
 					<div class="col-xs-12">
-						<img src="../../content/work/project-assets/color_palett.svg" width="100%" alt="" class="img-responsive">
+						<figure>
+							<div class="col-xs-4 color-block" style="background-color: #451c13"></div>
+							<div class="col-xs-4 color-block" style="background-color: #212221"></div>
+							<div class="col-xs-4 color-block" style="background-color: #345769"></div>
+							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.3.0 - Base colors: Redwood, Carbon &amp; Noble Blue (left to right)</figcaption>
+						</figure>
+					</div>
+					<div class="col-xs-12">
+						<figure>
+							<div class="col-xs-4 color-block" style="background-color: #60BA66"></div>
+							<div class="col-xs-4 color-block" style="background-color: #368EC7"></div>
+							<div class="col-xs-4 color-block" style="background-color: #DE834D"></div>
+							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.3.1 - Accent/Action colors: Green, True Blue &amp; Orange (left to right)</figcaption>
+						</figure>
+					</div>
+					<div class="col-xs-12">
+						<figure>
+							<div class="col-xs-6 color-block" style="background-color: #ffffff"></div>
+							<div class="col-xs-6 color-block" style="background-color: #F6F7F8"></div>
+							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.3.2 - Background colors: White &amp; Silver (left to right)</figcaption>
+						</figure>
 					</div>
 				</div>
 			</div>
@@ -153,9 +221,7 @@ Description: Beauty I AM Project Page
 			<div class="col-sm-9 col-lg-10">
 				<figure>
 					<figcaption class="libre"><span class="up-triangle">&#9660;</span> Figure 1.4.0 - Mockup Concepts</figcaption>
-					<img src="../../content/work/project-assets/Branding Identity Mock-Up BeautyIam.jpg" alt="" class="img-responsive">
-					<figcaption class="libre"><span class="up-triangle">&#9660;</span> Figure 1.4.1 - Business Card Mockup Concepts</figcaption>
-					<img src="../../content/work/project-assets/Business-card-mock-up-BeautyIam.jpg" class="img-responsive" alt="BIA Business Card Mock up">
+					<img src="../themes/smm/img/otb-layout.jpg" alt="" class="img-responsive">
 				</figure>
 			</div>
 		</div>
@@ -176,20 +242,8 @@ Description: Beauty I AM Project Page
 			</aside>
 			<div class="col-sm-6 col-lg-8 piece-screenshot">
 				<figure>
-					<img src="../../content/work/project-assets/00-arrive_landing.jpg" alt="" class="img-responsive">
+					<img src="../themes/smm/img/interface-desktop-otb.png" alt="" class="img-responsive">
 					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.0.0 - Homepage</figcaption>
-				</figure>
-				<figure>
-					<img src="../../content/work/project-assets/01-about.jpg" alt="" class="img-responsive">
-					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.1.0 - About 1</figcaption>
-				</figure>
-				<figure>
-					<img src="../../content/work/project-assets/02-about-blue.jpeg" alt="" class="img-responsive">
-					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.2.0 - About 2</figcaption>
-				</figure>
-				<figure>
-					<img src="../../content/work/project-assets/05-about.jpeg" alt="" class="img-responsive">
-					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.3.0 - About 3</figcaption>
 				</figure>
 			</div>
 			<aside class="col-sm-3 col-lg-2 visible-xs">
