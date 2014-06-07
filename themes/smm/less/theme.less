@@ -295,13 +295,18 @@ body {
   color: @brand-cream;
   .libre();
   text-align: center;
-  background: url(../img/another.jpg) center center fixed;
+  // background: url(../img/another.jpg) center center fixed;
+  // background: url(../img/lion.jpg) center top fixed;
+  background: url(../img/lamp.jpg) center center fixed;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
   border: 0;
   border-radius: 0;
 
   // remove for prod
-  background-color: rgba(33, 29, 30, 0.5);
-  background-blend-mode: multiply;
+  // background-color: rgba(33, 29, 30, 0.7);
+  // background-blend-mode: multiply;
 
   p {
     margin-bottom: -15px;
@@ -315,7 +320,7 @@ body {
   .accent {
     height: 40px;
     margin: 21px 0 -70px;
-    background: url(../img/accent-curl-left-cream.png) 20px center no-repeat;
+    background: url(../img/well-accent.svg) 20px center no-repeat;
   }
 }
 

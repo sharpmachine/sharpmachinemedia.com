@@ -19,7 +19,7 @@ Description: This description will go in the meta description tag
 		<h2 class="headline">The Team</h2>
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2">
-				<p class="text-center lead libre">We are a small team of forward-thinking creatives and strategists brought together to make you happen.  Redding, CA is home, and we love it here.  Our dream is that our city's businesses would be prosperous and self-sustaining, exporting innovation and creativity to the rest of the world.</p>
+				<p class="text-center lead libre">We are a small team of forward-thinking creatives and strategists brought together to make you happen.  Northern California is home, and we love it here.  Our dream is that our region's businesses would be prosperous and self-sustaining, exporting innovation and creativity to the rest of the world.</p>
 				<br>
 				<br>
 			</div>
@@ -82,7 +82,7 @@ Description: This description will go in the meta description tag
 	</div>
 </section>
 
-<div class="well well-lg">
+<div class="well well-lg hidden">
 	<div class="diamond">
 		<div class="diamond-border">
 			<p>&#8220;</p>
@@ -94,7 +94,7 @@ Description: This description will go in the meta description tag
 	</div>
 </div>
 
-<section id="studio">
+<section id="studio" class="hidden">
 	<div class="container">
 		<h2 class="headline text-center">The Studio</h2>
 		<div class="row">

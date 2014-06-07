@@ -76,16 +76,16 @@ module.exports = function(grunt) {
 
         // watch our project for changes
         watch: {
-          grunt: {
-            files: ['Gruntfile.js']
-          },
+          // grunt: {
+          //   files: ['Gruntfile.js']
+          // },
           less: {
             files: ["themes/smm/less/*"],
             tasks: ["less"],
           },
-          css: {
-            files: ['themes/smm/css/bootstrap.css']
-          },
+          // css: {
+          //   files: ['themes/smm/css/bootstrap.css']
+          // },
           js: {
             files: [
             'themes/smm/js/scripts.js',
@@ -93,9 +93,9 @@ module.exports = function(grunt) {
             ],
             tasks: ['uglify']
           },
-          php: {
-            files: ['*.php']
-          },
+          // php: {
+          //   files: ['*.php']
+          // },
           livereload: {
             files: [
             'themes/smm/css/*.css',

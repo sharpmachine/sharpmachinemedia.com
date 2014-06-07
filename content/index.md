@@ -122,7 +122,19 @@ Description: This description will go in the meta description tag
 			</div>
 		</div>
 	</div>
-</div>  
+</div>
+
+<div class="md-modal md-effect-12" id="modal-four-steps">
+	<div class="md-content">
+		<!-- <div class="container">
+			<div class="row"> -->
+				<div class="col-xs-12">
+					<img src="themes/smm/img/four-steps.svg" class="img-responsive" alt="Four Steps">
+				</div>
+			<!-- </div>
+		</div> -->
+	</div>
+</div> 
 
 <!-- jumbotron -->
 <section class="jumbotron text-center">
@@ -145,7 +157,7 @@ Description: This description will go in the meta description tag
 				<div class="service-inner service-branding md-trigger" data-modal="modal-branding">
 					<div class="service-content">
 						<h3>Branding</h3>
-						<p>Your business identity from idea to reality, and telling your story with consistency.</p>
+						<p>We take your business identity from idea to reality, telling your story with consistency.</p>
 					</div>
 				</div>
 			</div>
@@ -153,7 +165,7 @@ Description: This description will go in the meta description tag
 				<div class="service-inner service-print md-trigger" data-modal="modal-print">
 					<div class="service-content">
 						<h3>Print</h3>
-						<p>Engaging print materials, and take them from conception to delivery for you.</p>
+						<p>We create engaging print materials, and take them from concept to delivery for you.</p>
 					</div>
 				</div>
 			</div>
@@ -161,7 +173,7 @@ Description: This description will go in the meta description tag
 				<div class="service-inner service-web md-trigger" data-modal="modal-web">
 					<div class="service-content">
 						<h3>Web</h3>
-						<p>Compelling mobile, tablet, and desktop experiences. Our code is as poetic as our design.</p>
+						<p>We build compelling mobile, tablet, and desktop experiences with our poetic code.</p>
 					</div>
 				</div>
 			</div>
@@ -169,7 +181,7 @@ Description: This description will go in the meta description tag
 				<div class="service-inner service-messaging md-trigger" data-modal="modal-messaging">
 					<div class="service-content">
 						<h3>Messaging</h3>
-						<p>We create authentic content that streamlines and conveys your brand message.</p>
+						<p>We create authentic content that streamlines and shares your brand message.</p>
 					</div>
 				</div>
 			</div>
@@ -180,23 +192,28 @@ Description: This description will go in the meta description tag
 	</div>
 </section>
 
-<section id="testimonies" class="hidden">
+<!-- Belief #2 -->
+<div class="well well-lg">
+	<div class="diamond">
+		<div class="diamond-border">
+			<p>&#8220;</p>
+		</div>
+	</div>
 	<div class="container">
-		<div class="row client-testimonial">
-			<div class="col-md-8 col-md-offset-2">
-				<div class="row">
-					<div class="col-sm-3">
-						<img src="themes/smm/img/jonathan.jpg" class="img-responsive img-circle" alt="Generic placeholder image">
-					</div>
-					<div class="col-sm-9">
-						<p>"We loved the enthusiasm and the commitment to design consistency which Sharp Machine demonstrated throughout the process" <br> <cite>- <strong>Michael Van Tinteren, BJM</strong></cite></p>
-					</div>
-					<ol class="carousel-indicators">
-						<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-						<li data-target="#carousel-example-generic" data-slide-to="1"></li>
-						<li data-target="#carousel-example-generic" data-slide-to="2"></li>
-					</ol>
-				</div>
+		<p class="lead">&#8220;Brands are successful when they’re consistent with their message, they know what they represent, and have a story that connects with people.&#8221;</p>
+		<div class="accent"></div>
+	</div>
+</div>
+
+<section id="four-steps">
+	<div class="container">
+		<h2 class="headline text-center">The Power of Simple</h2>
+		<div class="row">
+			<div class="col-md-12 four-steps-image md-trigger" data-modal="modal-four-steps">
+				<img src="themes/smm/img/four-steps.svg" class="img-responsive" alt="Four Steps">
+			</div>
+			<div class="col-xs-12 col-sm-6 col-md-3 pull-right">
+				<a href="mailto:hello@sharpmachinemedia.com?subject=Book Strategy Session" class="btn btn-lg btn-red btn-lg btn-block">Book a Strategy Session <span class="right-arrow">&#8608;</span></a>
 			</div>
 		</div>
 	</div>
