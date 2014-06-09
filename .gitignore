@@ -19,4 +19,6 @@ Icon?
 Thumbs.db
 *.swp
 
+/Featured_Project_Assets/
+
 /img\ alias/
