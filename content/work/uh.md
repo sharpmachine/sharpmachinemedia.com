@@ -1,13 +1,13 @@
 /*
-Title: Beauty I AM
-Description: Beauty I AM Project Page
+Title: Unlikley Heroes
+Description: Unlikley Heroes Project Page
 */
 
 <header class="page-header text-center">
 	<div class="container">
 		<div class="row">
 			<div class="col-xs-12">
-				<h1 class="title">Beauty I AM</h1>
+				<h1 class="title">Unlikely Heroes</h1>
 				<div class="page-header-subtitle">Branding, Print, Web, Messaging</div>
 			</div>
 		</div>
@@ -15,7 +15,7 @@ Description: Beauty I AM Project Page
 </header>
 
 <!-- Project Intro -->
-<section class="piece-intro bg-brand-white" style="background-image: url(../../content/work/project-assets/bia-logo-vert-cream.svg); background-size: 555px 555px; background-position: top -250px right -250px; background-repeat: no-repeat;">
+<section class="piece-intro bg-brand-white" style="background-image: url(../../content/work/project-assets/uh_hand_cream.svg); background-size: 555px 555px; background-position: top -250px right -250px; background-repeat: no-repeat;">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2">
@@ -62,7 +62,7 @@ Description: Beauty I AM Project Page
 					<div class="col-sm-6">
 						<figure>
 							<div class="logo-bg bg-brand-white">
-								<img src="../../content/work/project-assets/bia-logo-d-vert.svg" class="center-block img-responsive" alt="Beauty I AM logo">
+								<img src="../../content/work/project-assets/uh_logo_light.svg" class="center-block img-responsive" alt="Beauty I AM logo">
 							</div>
 							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.0 - Full lockup on light background</figcaption>
 						</figure>
@@ -70,39 +70,80 @@ Description: Beauty I AM Project Page
 					<div class="col-sm-6">
 						<figure>
 							<div class="logo-bg bg-brand-black">
-								<img src="../../content/work/project-assets/bia-logo-l-vert.svg" class="center-block img-responsive" alt="Beauty I AM logo">
+								<img src="../../content/work/project-assets/uh_logo_dark.svg" class="center-block img-responsive" alt="Beauty I AM logo">
 							</div>
 							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.1 - Full lockup on dark background</figcaption>
 						</figure>
 					</div>
-				</div>
-			</div>
-		</div>
-		<!-- Horizontal -->
-		<div class="row">
-			<div class="col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2">
-				<div class="row">
 					<div class="col-sm-6">
 						<figure>
 							<div class="logo-bg bg-brand-white">
-								<img src="../../content/work/project-assets/bia-logo-d-hor.svg" alt="" class="center-block img-responsive">
+								<img src="../../content/work/project-assets/uh_logo_1_color_light.svg" alt="" class="center-block img-responsive">
 							</div>
-							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.2 - Horizontal lockup on light background</figcaption>
+							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.2 - One color lockup on light background one</figcaption>
 						</figure>
 					</div>
 					<div class="col-sm-6">
 						<figure>
 							<div class="logo-bg bg-brand-black">
-								<img src="../../content/work/project-assets/bia-logo-l-hor.svg" alt="" class="center-block img-responsive">
+								<img src="../../content/work/project-assets/uh_logo_1_color_dark.svg" alt="" class="center-block img-responsive">
 							</div>
-							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.3 - Horizontal lockup on light background</figcaption>
+							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.3 - One color lockup on dark background two</figcaption>
 						</figure>
 					</div>
 				</div>
 			</div>
 		</div>
-		<!-- Stylized -->
-		
+		<!-- Icons -->
+		<div class="row">
+			<div class="col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2">
+				<div class="row">
+					<div class="col-sm-6">
+						<div class="row">
+							<div class="col-sm-6">
+								<figure>
+									<div class="logo-bg bg-brand-white">
+										<img src="../../content/work/project-assets/uh_hand_black.svg" alt="" class="center-block img-responsive">
+									</div>
+									<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.4 - Black icon on light background</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-6">
+								<figure>
+									<div class="logo-bg bg-brand-white">
+										<img src="../../content/work/project-assets/uh_hand_teal.svg" alt="" class="center-block img-responsive">
+									</div>
+									<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.5 - Teal icon on light background</figcaption>
+								</figure>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-6">
+						<div class="row">
+							<div class="col-sm-6">
+								<figure>
+									<div class="logo-bg bg-brand-white">
+										<img src="../../content/work/project-assets/uh_hand_red.svg" alt="" class="center-block img-responsive">
+									</div>
+									<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.6 - Red icon on light light background</figcaption>
+								</figure>
+							</div>
+							<div class="col-sm-6">
+								<figure>
+									<div class="logo-bg bg-brand-white">
+										<img src="../../content/work/project-assets/uh_hand_grey.svg" alt="" class="center-block img-responsive">
+									</div>
+									<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.7 - Grey icon on light background</figcaption>
+								</figure>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Stylized -->
+
 </section>
 
 <!-- Typefaces -->
@@ -117,14 +158,28 @@ Description: Beauty I AM Project Page
 				<div class="row">
 					<div class="col-sm-6">
 						<figure>
-							<figcaption class="libre"><span class="up-triangle">&#9660;</span> Figure 1.2.0 - Source Sans Pro</figcaption>
-							<img src="../../content/work/project-assets/source_sans_pro.svg" width="100%" alt="" class="img-responsive">
+							<figcaption class="libre"><span class="up-triangle">&#9660;</span> Figure 1.2.0 - Primary font.</figcaption>
+							<img src="../../content/work/project-assets/roboto.svg" width="100%" alt="" class="img-responsive">
 						</figure>
 					</div>
 					<div class="col-sm-6">
 						<figure>
-							<figcaption class="libre"><span class="up-triangle">&#9660;</span> Figure 1.2.1 - Linden Hill</figcaption>
-							<img src="../../content/work/project-assets/linden_hill.svg" width="100%" alt="" class="img-responsive">
+							<figcaption class="libre"><span class="up-triangle">&#9660;</span> Figure 1.2.1 - Secondary font.</figcaption>
+							<img src="../../content/work/project-assets/roboto_condensed.svg" width="100%" alt="" class="img-responsive">
+						</figure>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-sm-6">
+						<figure>
+							<figcaption class="libre"><span class="up-triangle">&#9660;</span> Figure 1.2.2 - Tertairy font.</figcaption>
+							<img src="../../content/work/project-assets/roboto_slab.svg" width="100%" alt="" class="img-responsive">
+						</figure>
+					</div>
+					<div class="col-sm-6">
+						<figure>
+							<figcaption class="libre"><span class="up-triangle">&#9660;</span> Figure 1.2.3 - Highlight font.</figcaption>
+							<img src="../../content/work/project-assets/perminate_marker.svg" width="100%" alt="" class="img-responsive">
 						</figure>
 					</div>
 				</div>
@@ -144,7 +199,7 @@ Description: Beauty I AM Project Page
 			<div class="col-md-9 col-lg-10">
 				<div class="row">
 					<div class="col-xs-12">
-						<img src="../../content/work/project-assets/color_palett.svg" width="100%" alt="" class="img-responsive">
+						<img src="../../content/work/project-assets/uh_color_palett.svg" width="100%" alt="" class="img-responsive">
 					</div>
 				</div>
 			</div>
@@ -163,9 +218,9 @@ Description: Beauty I AM Project Page
 			<div class="col-sm-9 col-lg-10">
 				<figure>
 					<figcaption class="libre"><span class="up-triangle">&#9660;</span> Figure 1.3.0 - Mockup Concepts</figcaption>
-					<img src="../../content/work/project-assets/Branding Identity Mock-Up BeautyIam.jpg" alt="" class="img-responsive">
+					<img src="../../content/work/project-assets/BrandLayout_UH.jpg" alt="" class="img-responsive">
 					<figcaption class="libre"><span class="up-triangle">&#9660;</span> Figure 1.3.1 - Business Card Mockup Concepts</figcaption>
-					<img src="../../content/work/project-assets/Business-card-mock-up-BeautyIam.jpg" class="img-responsive" alt="BIA Business Card Mock up">
+					<img src="../../content/work/project-assets/BusinessCard_UnlikelyHeroes.jpg" class="img-responsive" alt="BIA Business Card Mock up">
 				</figure>
 			</div>
 		</div>
@@ -173,7 +228,7 @@ Description: Beauty I AM Project Page
 </section>
 
 <!-- Web -->
-<section class="piece-bg" style="background-image:url(../../content/work/project-assets/bia_bg_img.svg);">
+<section class="piece-bg" style="background-image:url(../../content/work/project-assets/theproblemgrey.jpg);">
 	<h2 class="headline-inverse text-center">Web</h2>
 </section>
 
@@ -186,20 +241,8 @@ Description: Beauty I AM Project Page
 			</aside>
 			<div class="col-sm-6 col-lg-8 piece-screenshot">
 				<figure>
-					<img src="../../content/work/project-assets/00-arrive_landing.jpg" alt="" class="img-responsive">
+					<img src="../../content/work/project-assets/uh_homepage.png" alt="" class="img-responsive">
 					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.0.0 - Homepage</figcaption>
-				</figure>
-				<figure>
-					<img src="../../content/work/project-assets/01-about.jpg" alt="" class="img-responsive">
-					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.1.0 - About 1</figcaption>
-				</figure>
-				<figure>
-					<img src="../../content/work/project-assets/02-about-blue.jpeg" alt="" class="img-responsive">
-					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.2.0 - About 2</figcaption>
-				</figure>
-				<figure>
-					<img src="../../content/work/project-assets/05-about.jpeg" alt="" class="img-responsive">
-					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.3.0 - About 3</figcaption>
 				</figure>
 			</div>
 			<aside class="col-sm-3 col-lg-2 visible-xs">

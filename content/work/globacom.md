@@ -15,7 +15,7 @@ Description: Globacom Project
 </header>
 
 <!-- Project Intro -->
-<section class="piece-intro bg-brand-white" style="background-image: url(../themes/smm/img/otb-outline-cream.svg); background-size: 555px 555px; background-position: top -250px right -250px; background-repeat: no-repeat;">
+<section class="piece-intro bg-brand-white" style="background-image: url(../../content/work/project-assets/Globacom_Logo_Cream.svg); background-size: 555px 555px; background-position: top -250px right -250px; background-repeat: no-repeat;">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2">
@@ -144,10 +144,20 @@ Description: Globacom Project
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum enim deleniti ducimus nostrum voluptas nesciunt earum iure illum itaque commodi?</p>
 			</aside>
 			<div class="col-sm-9 col-lg-10">
-				<figure>
-					<figcaption class="libre"><span class="up-triangle">&#9660;</span> Figure 1.2.0 - Futura specimen</figcaption>
-					<img src="../themes/smm/img/Futura_Specimen.svg" width="100%" alt="" class="img-responsive">
-				</figure>
+				<div class="row">
+					<div class="col-sm-6">
+						<figure>
+							<figcaption class="libre"><span class="up-triangle">&#9660;</span> Figure 1.2.0 - Oxygen</figcaption>
+							<img src="../../content/work/project-assets/oxygen.svg" width="100%" alt="" class="img-responsive">
+						</figure>
+					</div>
+					<div class="col-sm-6">
+						<figure>
+							<figcaption class="libre"><span class="up-triangle">&#9660;</span> Figure 1.2.1 - Libre Baskervill Italic</figcaption>
+							<img src="../../content/work/project-assets/libre_baskerville_italic.svg" width="100%" alt="" class="img-responsive">
+						</figure>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>	
@@ -171,27 +181,8 @@ Description: Globacom Project
 		</div>
 	</div>	
 </section>
-
-<!-- Collateral -->
-<section class="piece-collateral bg-brand-white">
-	<div class="container">
-		<div class="row">
-			<aside class="col-sm-3 col-lg-2">
-				<h3 class="libre h4">On the Collateral:</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum enim deleniti ducimus nostrum voluptas nesciunt earum iure illum itaque commodi?</p>
-			</aside>
-			<div class="col-sm-9 col-lg-10">
-				<figure>
-					<figcaption class="libre"><span class="up-triangle">&#9660;</span> Figure 1.4.0 - Mockup Concepts</figcaption>
-					<img src="../themes/smm/img/otb-layout.jpg" alt="" class="img-responsive">
-				</figure>
-			</div>
-		</div>
-	</div>
-</section>
-
 <!-- Web -->
-<section class="piece-bg">
+<section class="piece-bg" style="background-image:url(../../content/work/project-assets/DSC_5804_NR_2.jpg);">
 	<h2 class="headline-inverse text-center">Web</h2>
 </section>
 

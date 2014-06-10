@@ -26,7 +26,7 @@ Description: This description will go in the meta description tag
 				</a>
 			</div>
 			<div class="col-sm-6 col-md-3 work-piece">
-				<a href="work/piece">
+				<a href="work/uh">
 					<img src="themes/smm/img/uh-sm.jpg" class="img-responsive" alt="Unlikely Heroes">
 				</a>
 			</div>
