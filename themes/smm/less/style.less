@@ -3,20 +3,17 @@
 .jumbotron {
   height: 800px;
   margin-bottom: 0;
-  background: url(../img/jumbotron.jpg) center center no-repeat fixed;
-  -webkit-background-size: cover;
+  background: url(../img/jumbotron.jpg) center -150px no-repeat fixed;
   background-size: cover;
-
-  // Remove for prod
-  // background-color: rgba(33, 29, 30, 0.5);
-  // background-blend-mode: multiply;
 
   @media (max-width: @screen-xs-max) {
     height: 697px;
+    background-position: right -150px;
   }
 
   @media (min-width: @screen-sm-min) {
     height: 647px;
+    background-position: right -150px;
   }
 
   .logo {

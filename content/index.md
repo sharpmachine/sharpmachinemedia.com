@@ -129,7 +129,7 @@ Description: This description will go in the meta description tag
 		<!-- <div class="container">
 			<div class="row"> -->
 				<div class="col-xs-12">
-					<img src="themes/smm/img/four-steps.svg" class="img-responsive" alt="Four Steps">
+					<img src="themes/smm/img/four-steps2.svg" class="img-responsive" alt="Four Steps">
 				</div>
 			<!-- </div>
 		</div> -->
@@ -210,7 +210,7 @@ Description: This description will go in the meta description tag
 		<h2 class="headline text-center">The Power of Simple</h2>
 		<div class="row">
 			<div class="col-md-12 four-steps-image md-trigger" data-modal="modal-four-steps">
-				<img src="themes/smm/img/four-steps.svg" class="img-responsive" alt="Four Steps">
+				<img src="themes/smm/img/four-steps2.svg" class="img-responsive" alt="Four Steps">
 			</div>
 			<div class="col-xs-12 col-sm-6 col-md-3 pull-right">
 				<a href="mailto:hello@sharpmachinemedia.com?subject=Book Strategy Session" class="btn btn-lg btn-red btn-lg btn-block">Book a Strategy Session <span class="right-arrow">&#8608;</span></a>
@@ -291,7 +291,8 @@ Description: This description will go in the meta description tag
 		<div class="row">
 			<div class="col-sm-3">
 				<div class="client-logo">
-					<img src="themes/smm/img/harris-logo.svg" class="img-responsive center-block" alt="Harris Studios logo">
+					<!-- <img src="themes/smm/img/harris-logo.svg" class="img-responsive center-block" alt="Harris Studios logo"> -->
+					<img src="themes/smm/img/red-arrow-logo.svg" class="img-responsive center-block" alt="Red Arrow logo">
 				</div>
 			</div>
 			<div class="col-sm-3">

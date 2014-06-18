@@ -82,7 +82,7 @@ Description: This description will go in the meta description tag
 	</div>
 </section>
 
-<div class="well well-lg hidden">
+<div class="well well-lg">
 	<div class="diamond">
 		<div class="diamond-border">
 			<p>&#8220;</p>
@@ -94,7 +94,7 @@ Description: This description will go in the meta description tag
 	</div>
 </div>
 
-<section id="studio" class="hidden">
+<section id="studio" class="">
 	<div class="container">
 		<h2 class="headline text-center">The Studio</h2>
 		<div class="row">

@@ -30,7 +30,7 @@ Description: This description will go in the meta description tag
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-8 col-sm-offset-2 visible-xs visible-sm">
-				<img src="themes/smm/img/drawing.jpg" class="img-circle img-responsive" alt="">
+				<img src="themes/smm/img/branding-photo.jpg" class="img-circle img-responsive" alt="Branding">
 			</div>
 			<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0 short text-right">
 				<h1>Branding</h1>
@@ -38,7 +38,7 @@ Description: This description will go in the meta description tag
 				<p class="lead">We've simplified the branding process to make it easier for our clients' to understand, appreciate and follow along, while still delivering maximum impact. We can design out the visual and tonal manifestation of that strategy, such as the logo, typefaces, icons and tone-of-voice, as well as a style guide to help your team manage your brand well.</p>
 			</div>
 			<div class="col-md-6 hidden-xs hidden-sm">
-				<img src="themes/smm/img/drawing.jpg" class="img-circle img-responsive" alt="">
+				<img src="themes/smm/img/branding-photo.jpg" class="img-circle img-responsive" alt="Branding">
 			</div>
 		</div>
 	</div>
@@ -49,7 +49,7 @@ Description: This description will go in the meta description tag
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-0">
-				<img src="themes/smm/img/graphic-designer.jpg" class="img-circle img-responsive" alt="">
+				<img src="themes/smm/img/print-photo.jpg" class="img-circle img-responsive" alt="Print">
 			</div>
 			<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0 short">
 				<h1>Print</h1>
@@ -65,7 +65,7 @@ Description: This description will go in the meta description tag
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-8 col-sm-offset-2 visible-xs visible-sm">
-				<img src="themes/smm/img/web.jpg" class="img-circle img-responsive" alt="">
+				<img src="themes/smm/img/web-photo.jpg" class="img-circle img-responsive" alt="Web">
 			</div>
 			<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0 short text-right">
 				<h1>Web</h1>
@@ -73,7 +73,7 @@ Description: This description will go in the meta description tag
 				<p class="lead">Besides that, it also needs to meet your business goals.  We like to ask, "If your website was an employee, what would you want it to do for you?".  The answer to that question will give us a good idea of where to start.
 				</div>
 				<div class="col-md-6 hidden-xs hidden-sm">
-					<img src="themes/smm/img/web.jpg" class="img-circle img-responsive" alt="">
+					<img src="themes/smm/img/web-photo.jpg" class="img-circle img-responsive" alt="Web">
 				</div>
 			</div>
 		</div>
@@ -84,7 +84,7 @@ Description: This description will go in the meta description tag
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-0">
-				<img src="themes/smm/img/web.jpg" class="img-circle img-responsive" alt="">
+				<img src="themes/smm/img/messaging-photo.jpg" class="img-circle img-responsive" alt="Messaging">
 			</div>
 			<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0 short">
 				<h1>Messaging</h1>
@@ -103,7 +103,7 @@ Description: This description will go in the meta description tag
 		</div>
 	</div>
 	<div class="container">
-		<p class="lead">&#8220;Brands are successful when they’re consistent with their message, they know what they represent, and have a story that connects with people.&#8221;</p>
+		<p class="lead">&#8220;Good brands have customers.  Great brands have fans.&#8221;</p>
 		<div class="accent"></div>
 	</div>
 </div>
@@ -115,7 +115,7 @@ Description: This description will go in the meta description tag
 		<div class="row">
 			<div class="col-sm-6 col-md-5 col-md-offset-1 easy-billing">
 				<div class="row">
-					<div class="col-sm-4"><img src="themes/smm/img/easy-billing.jpg" class="img-responsive img-circle" alt="" width="200" height="200"></div>
+					<div class="col-sm-4"><img src="themes/smm/img/ez-billing.jpg" class="img-responsive img-circle" alt="Easy Billing" width="264" height="264"></div>
 					<div class="col-sm-8">
 						<h4 class="libre">Easy Billing</h4>
 						<p>We take the total cost of your project and bill you monthly for the duration of the project. To get started we ask for 50% of the first month's payment.</p>
@@ -124,10 +124,10 @@ Description: This description will go in the meta description tag
 			</div>
 			<div class="col-sm-6 col-md-5 col-md-offset-1 sponsor">
 				<div class="row">
-					<div class="col-sm-4"><img src="themes/smm/img/uh-giving.jpg" class="img-responsive img-circle" alt="" width="200" height="200"></div>
+					<div class="col-sm-4"><img src="themes/smm/img/extreme-love.jpg" class="img-responsive img-circle" alt="Extreme Love" width="264" height="264"></div>
 					<div class="col-sm-8">
 						<h4 class="libre">Giving</h4>
-						<p>We proudly support the efforts of Unlikely Heroes to end human trafficking world-wide by donating 10% of project proceeds.</p>
+						<p>We proudly support the efforts of Extreme Love to bring medical care, adoptions and foster care advocacy to orphans world-wide by donating 10% of project proceeds.</p>
 					</div>
 				</div>
 			</div>
