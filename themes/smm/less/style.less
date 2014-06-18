@@ -372,7 +372,10 @@ span.lowercase {
 .piece-bg {
   height: 450px;
   padding-top: 90px;
-  background: url(../img/otb-bg.jpg) center center no-repeat fixed;
+  // background: url(../img/otb-bg.jpg) center center no-repeat fixed;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   -webkit-background-size: cover;
   background-size: cover;
 
@@ -408,6 +411,9 @@ span.lowercase {
 
 .logo-bg {
   padding: 30px;
+    img {
+    width: 100%;
+  }
 }
 
 .up-triangle {

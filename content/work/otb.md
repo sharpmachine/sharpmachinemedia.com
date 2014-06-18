@@ -236,7 +236,7 @@ Description: This description will go in the meta description tag
 </section>
 
 <!-- Web -->
-<section class="piece-bg">
+<section class="piece-bg" style="background-image:url(../themes/smm/img/otb-bg.jpg);">
 	<h2 class="headline-inverse text-center">Web</h2>
 </section>
 

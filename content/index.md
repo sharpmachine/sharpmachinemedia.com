@@ -239,7 +239,7 @@ Description: This description will go in the meta description tag
 		<div class="row">
 			<div class="col-sm-6">
 				<div class="work-piece">
-					<a href="work/piece"><img src="themes/smm/img/bia-lg.jpg" class="img-responsive" alt="Beauty I AM" width="570" height="234"></a>
+					<a href="work/bia"><img src="themes/smm/img/bia-lg.jpg" class="img-responsive" alt="Beauty I AM" width="570" height="234"></a>
 				</div>
 			</div>
 			<div class="col-sm-6">
@@ -251,15 +251,15 @@ Description: This description will go in the meta description tag
 			</div>
 			<div class="col-sm-6">
 				<div class="work-piece">
-					<a href="work/piece">
-						<img src="themes/smm/img/otb-lg.jpg" class="img-responsive" alt="Beauty I AM" width="570" height="234">
+					<a href="work/otb">
+						<img src="themes/smm/img/otb-lg.jpg" class="img-responsive" alt="On The Beam" width="570" height="234">
 					</a>
 				</div>
 			</div>
 			<div class="col-sm-6">
 				<div class="work-piece">
-					<a href="work/piece">
-						<img src="themes/smm/img/uh-lg.jpg" class="img-responsive" alt="Beauty I AM" width="570" height="234">
+					<a href="work/uh">
+						<img src="themes/smm/img/uh-lg.jpg" class="img-responsive" alt="Unlikely Heroes" width="570" height="234">
 					</a>
 				</div>
 			</div>
