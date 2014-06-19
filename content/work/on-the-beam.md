@@ -7,7 +7,7 @@ Description: This description will go in the meta description tag
 	<div class="container">
 		<div class="row">
 			<div class="col-xs-12">
-				<h1 class="title">Client Name</h1>
+				<h1 class="title">On the Beam</h1>
 				<div class="page-header-subtitle">Branding, Print, Web, Messaging</div>
 			</div>
 		</div>
