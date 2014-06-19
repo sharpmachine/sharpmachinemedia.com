@@ -242,28 +242,6 @@ Description: Beauty I AM Project Page
 	</div>
 </section>
 
-<section id="testimonies" class="bg-brand-white">
-	<div class="container">
-		<div class="row client-testimonial text-center">
-			<div class="col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
-				<div class="row">
-					<div class="col-sm-12">
-						<p>&#8220;We loved the enthusiasm and the commitment to design consistency which Sharp Machine demonstrated throughout the process&#8221;</p>
-					</div>
-					<div class="col-sm-12">
-						<div class="row">
-							<div class="col-sm-2 col-sm-offset-5">
-								<img src="../themes/smm/img/jonathan.jpg" class="img-responsive img-circle" alt="Generic placeholder image">
-							</div>
-						</div>
-						<cite>Michael Van Tinteren <span class="cite-position">Bill Johnson Ministries</span></cite>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-
 <section id="work-pager" class="bg-brand-red">
 	<div class="container">
 		<div class="row">
