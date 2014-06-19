@@ -8,7 +8,7 @@ Description: Globacom Project
 		<div class="row">
 			<div class="col-xs-12">
 				<h1 class="title">Globacom</h1>
-				<div class="page-header-subtitle">Branding, Print, Web, Messaging</div>
+				<div class="page-header-subtitle">Branding, Web, Messaging</div>
 			</div>
 		</div>
 	</div>
@@ -20,7 +20,7 @@ Description: Globacom Project
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2">
 				<h2 class="headline text-center">The Brand</h2>
-				<p class="text-center lead libre">Leadership, Quiet confidence, Knowledge, Expertise.</p>
+				<p class="text-center lead libre">Globacom is a telecommunications company based in Switzerland. They are pioneering some of the safest phone connections available in the world. The challenge was to convey the element of safety and security without using a typical fear based approach.  Another component was to acknowledge the Swiss origins (or “Swissness”), along with the clean look of Swiss inspired typography. </p>
 			</div>
 			<div class="col-sm-3">
 				<h3 class="libre h4">1. Purpose</h3>
@@ -36,7 +36,7 @@ Description: Globacom Project
 			</div>
 			<div class="col-sm-3">
 				<h3 class="libre h4">4. Personality</h3>
-				<p>Authority. Authoritative</p>
+				<p>Authority (emotional space).</p>
 			</div>
 		</div>
 		<hr>
@@ -55,7 +55,9 @@ Description: Globacom Project
 		<div class="row">
 			<aside class="col-sm-3 col-lg-2">
 				<h3 class="libre h4">On the Logo</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum enim deleniti ducimus nostrum voluptas nesciunt earum iure illum itaque commodi?</p>
+				<p>Products that celebrate a Swiss feel, often use the red from the national flag. We chose to deviate and used a dark blue to convey trust and confidence. In the two color version we used a bright blue inspired by the clear mountain skies that surround the Alps. It also communicates optimism and ideas about what’s possible. </p>
+				<p>The shield is a simple and timeless symbol of safety. The negative space is influenced by the Swiss cross from the flag.</p>
+				<p>The font is customized. We started with Oxygen due to it’s clarity and functionality. Then added a look of casual sophistication by adding some harder verticals to the letter shapes.</p>
 			</aside>
 			<div class="col-sm-9 col-lg-10">
 				<div class="row">
@@ -141,7 +143,8 @@ Description: Globacom Project
 		<div class="row">
 			<aside class="col-sm-3 col-lg-2">
 				<h3 class="libre h4">On the Typeface:</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum enim deleniti ducimus nostrum voluptas nesciunt earum iure illum itaque commodi?</p>
+				<p>Oxygen is the main type face for clarity and functionality as well as having a nice modern feel.</p>
+				<p>Libre Baskerville Italics: This is used as an accent font to highlight bytes of information. This font conveys elegance and lineage. It is meant to ground the brand and bring maturity and balance to the functional and modern Oxygen.</p>
 			</aside>
 			<div class="col-sm-9 col-lg-10">
 				<div class="row">

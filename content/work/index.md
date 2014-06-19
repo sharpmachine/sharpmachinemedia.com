@@ -11,7 +11,7 @@ Description: This description will go in the meta description tag
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-6 col-md-3 work-piece">
-				<a href="work/bia">
+				<a href="work/beauty-i-am">
 					<img src="themes/smm/img/bia-sm.jpg" class="img-responsive" alt="Beauty I Am">
 				</a>
 			</div>
@@ -21,12 +21,12 @@ Description: This description will go in the meta description tag
 				</a>
 			</div>
 			<div class="col-sm-6 col-md-3 work-piece">
-				<a href="work/otb">
+				<a href="work/on-the-beam">
 					<img src="themes/smm/img/otb-sm.jpg" class="img-responsive" alt="On The Beam">
 				</a>
 			</div>
 			<div class="col-sm-6 col-md-3 work-piece">
-				<a href="work/uh">
+				<a href="work/unlikely-heroes">
 					<img src="themes/smm/img/uh-sm.jpg" class="img-responsive" alt="Unlikely Heroes">
 				</a>
 			</div>
@@ -42,7 +42,7 @@ Description: This description will go in the meta description tag
 		</div>
 	</div>
 	<div class="container">
-		<p class="lead">&#8220;Brands are successful when they’re consistent with their message, they know what they represent, and have a story that connects with people.&#8221;</p>
+		<p class="lead">&#8220;Knowing why your brand exists allows you to easily influence your audience.&#8221;</p>
 		<div class="accent"></div>
 	</div>
 </div>

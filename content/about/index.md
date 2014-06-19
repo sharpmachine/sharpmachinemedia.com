@@ -135,7 +135,7 @@ Description: This description will go in the meta description tag
 		</div>
 	</div>
 	<div class="container">
-		<p class="lead">&#8220;Good is the enemy of great.&#8221;</p>
+		<p class="lead">&#8220;Awesome is a process.&#8221;</p>
 		<div class="accent"></div>
 	</div>
 </div>

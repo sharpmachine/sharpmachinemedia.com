@@ -70,7 +70,7 @@ Description: This description will go in the meta description tag
 			<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0 short text-right">
 				<h1>Web</h1>
 				<p class="lead">Your online presence is probably your biggest touch-point, and your brand emotion needs be reflected in the experience. Whether your audience is interacting with you online via desktop, laptop, tablet or mobile, their experience should be easy-to-use, positive and memorable.</p>
-				<p class="lead">Besides that, it also needs to meet your business goals.  We like to ask, "If your website was an employee, what would you want it to do for you?".  The answer to that question will give us a good idea of where to start.
+				<p class="lead">Besides that, it also needs to meet your business goals.  We like to ask, "If your website was an employee, what would you want it to do for you?".  The answer to that question will give us a good idea of where to start.</p>
 				</div>
 				<div class="col-md-6 hidden-xs hidden-sm">
 					<img src="themes/smm/img/web-photo.jpg" class="img-circle img-responsive" alt="Web">

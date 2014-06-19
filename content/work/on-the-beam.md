@@ -20,23 +20,23 @@ Description: This description will go in the meta description tag
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2">
 				<h2 class="headline text-center">The Brand</h2>
-				<p class="text-center lead libre">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque, esse, officiis alias ad autem eos dolore omnis beatae maxime earum ullam excepturi vitae nulla at optio cupiditate aperiam enim quo.</p>
+				<p class="text-center lead libre">OTB is an online community offering support to aspiring entrepreneurs and resources for growing in the knowledge and ability to mange wealth. The original branding was intended to zig when similar companies were zagging. The market research showed a strong tendency toward very modern, minimal designs with bright colors and open space. We were initially inspired by the strength and longevity of the Redwood trees of Northern California. A symbol of connection, community and longevity. Our aim was to communicate warmth, connection as well as lineage and belonging to this online community.</p>
 			</div>
 			<div class="col-sm-3">
 				<h3 class="libre h4">1. Purpose</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi incidunt aliquid officiis minus ducimus esse molestiae id provident quisquam qui.</p>
+				<p>To lovingly mentor people into a prosperous lifestyle.</p>
 			</div>
 			<div class="col-sm-3">
 				<h3 class="libre h4">2. Position</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, placeat quos reiciendis hic ratione est molestias ipsa delectus ab dolor.</p>
+				<p>Create a community where prosperous-minded people can thrive. Entrepreneur from a small to mid-sized town who is aspiring to be prosperous, and needing encouragement and community.</p>
 			</div>
 			<div class="col-sm-3">
 				<h3 class="libre h4">3. Promise</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit, suscipit ut voluptate tempore similique adipisci iusto. Beatae obcaecati consequuntur laboriosam.</p>
+				<p>Connection.</p>
 			</div>
 			<div class="col-sm-3">
 				<h3 class="libre h4">4. Personality</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, quibusdam laudantium error maiores magnam ab dolorem distinctio ipsum esse sed?</p>
+				<p>Discovery (emotional space).</p>
 			</div>
 		</div>
 		<hr>
@@ -166,7 +166,7 @@ Description: This description will go in the meta description tag
 		<div class="row">
 			<aside class="col-sm-3 col-lg-2">
 				<h3 class="libre h4">On the Typeface:</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum enim deleniti ducimus nostrum voluptas nesciunt earum iure illum itaque commodi?</p>
+				<p>Futura: Most importantly we wanted a classic typeface that felt a strong sense of history and lineage, but still had a clean, modern and timeless look. We also appreciated the clear, no-nonsense geometry of the letter shapes.</p>
 			</aside>
 			<div class="col-sm-9 col-lg-10">
 				<figure>

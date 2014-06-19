@@ -45,18 +45,19 @@ Description: This description will go in the meta description tag
 					</div>
 				</div>
 				<div class="col-sm-6 col-md-4 col-md-offset-2">
-					<p>We believe in building purpose-driven brands. Your price and product will change as you grow, but your purpose should never change.</p>
-					<p>We've simplified the branding process to make it easier for our clients' to understand, appreciate and follow along, while still delivering maximum impact.</p>
+					<p>Because we live in a real world and your brand cannot exist in digital form alone.  Print is still very much alive and still offers great opportunities for your audience to connect with your brand.</p>
 				</div>
 				<div class="col-sm-6 col-md-4">
-					<p>We can design out the visual and tonal manifestation of that strategy, such as the logo, typefaces, icons and tone-of-voice, as well as a style guide to help your team manage your brand well.</p>
+					<p>We can design the big stuff, such as ads, packaging and signage, as well as the small things such as business cards and stationary.</p>
 					<ul>
-						<li>Conceptualization</li>
-						<li>Naming</li>
-						<li>Brand Rollout Strategy</li>
-						<li>Logo Design</li>
-						<li>Marketing Collateral</li>
-						<li>Brand Style Guide</li>
+						<li>Business Cards</li>
+						<li>Letterheads</li>
+						<li>Book covers</li>
+						<li>Album covers</li>
+						<li>Mailers</li>
+						<li>Apparell</li>
+						<li>Packaging</li>
+						<li>Banners</li>
 					</ul>
 				</div>
 			</div>
@@ -75,18 +76,17 @@ Description: This description will go in the meta description tag
 					</div>
 				</div>
 				<div class="col-sm-6 col-md-4 col-md-offset-2">
-					<p>We believe in building purpose-driven brands. Your price and product will change as you grow, but your purpose should never change.</p>
-					<p>We've simplified the branding process to make it easier for our clients' to understand, appreciate and follow along, while still delivering maximum impact.</p>
+					<p>Your online presence is probably your biggest touch-point, and your brand emotion needs be reflected in the experience. Whether your audience is interacting with you online via desktop, laptop, tablet or mobile, their experience should be easy-to-use, positive and memorable.</p>
 				</div>
 				<div class="col-sm-6 col-md-4">
-					<p>We can design out the visual and tonal manifestation of that strategy, such as the logo, typefaces, icons and tone-of-voice, as well as a style guide to help your team manage your brand well.</p>
+					<p>Besides that, it also needs to meet your business goals.  We like to ask, "If your website was an employee, what would you want it to do for you?".  The answer to that question will give us a good idea of where to start.</p>
 					<ul>
-						<li>Conceptualization</li>
-						<li>Naming</li>
-						<li>Brand Rollout Strategy</li>
+						<li>Responsive Websites</li>
+						<li>Ecommerce</li>
+						<li>Web Apps</li>
 						<li>Logo Design</li>
-						<li>Marketing Collateral</li>
-						<li>Brand Style Guide</li>
+						<li>Landing Pages</li>
+						<li>Web Style Guide</li>
 					</ul>
 				</div>
 			</div>
@@ -105,18 +105,14 @@ Description: This description will go in the meta description tag
 					</div>
 				</div>
 				<div class="col-sm-6 col-md-4 col-md-offset-2">
-					<p>We believe in building purpose-driven brands. Your price and product will change as you grow, but your purpose should never change.</p>
-					<p>We've simplified the branding process to make it easier for our clients' to understand, appreciate and follow along, while still delivering maximum impact.</p>
+					<p>For a brand to be effective it's messaging has to be consistent and on-brand.  Today there are more ways for brands to connect with their audience then in the past.  Facebook, Twitter, email...the list goes on.  You commmunciation across channels needs to be consistent, and awesome!</p>
 				</div>
 				<div class="col-sm-6 col-md-4">
-					<p>We can design out the visual and tonal manifestation of that strategy, such as the logo, typefaces, icons and tone-of-voice, as well as a style guide to help your team manage your brand well.</p>
+					<p>We can help develop messaging that can be used on your website, your print touch-points, social media, or anywhere you connect with your audience.</p>
 					<ul>
-						<li>Conceptualization</li>
-						<li>Naming</li>
-						<li>Brand Rollout Strategy</li>
-						<li>Logo Design</li>
-						<li>Marketing Collateral</li>
-						<li>Brand Style Guide</li>
+						<li>Content Strategy</li>
+						<li>Copywrighting</li>
+						<li>Social Media messaging</li>
 					</ul>
 				</div>
 			</div>
@@ -239,26 +235,28 @@ Description: This description will go in the meta description tag
 		<div class="row">
 			<div class="col-sm-6">
 				<div class="work-piece">
-					<a href="work/bia"><img src="themes/smm/img/bia-lg.jpg" class="img-responsive" alt="Beauty I AM" width="570" height="234"></a>
+					<a href="work/beauty-i-am">
+						<img src="themes/smm/img/bia-lg.jpg" class="img-responsive" alt="Beauty I AM" width="570" height="234">
+					</a>
 				</div>
 			</div>
 			<div class="col-sm-6">
 				<div class="work-piece">
-					<a href="work/piece">
+					<a href="work/globacom">
 						<img src="themes/smm/img/globacom-lg.jpg" class="img-responsive" alt="Beauty I AM" width="570" height="234">
 					</a>
 				</div>
 			</div>
 			<div class="col-sm-6">
 				<div class="work-piece">
-					<a href="work/otb">
+					<a href="work/on-the-beam">
 						<img src="themes/smm/img/otb-lg.jpg" class="img-responsive" alt="On The Beam" width="570" height="234">
 					</a>
 				</div>
 			</div>
 			<div class="col-sm-6">
 				<div class="work-piece">
-					<a href="work/uh">
+					<a href="work/Unlikely-heroes">
 						<img src="themes/smm/img/uh-lg.jpg" class="img-responsive" alt="Unlikely Heroes" width="570" height="234">
 					</a>
 				</div>
