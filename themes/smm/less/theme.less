@@ -228,6 +228,10 @@ body {
   background-size: cover;
   border: 0;
 
+  @media (max-width: @screen-xs-max) {
+    background-position: center top;
+  }
+
   h1 {
     line-height: 1;
   }
@@ -354,6 +358,15 @@ body {
 }
 
 /*..................................the modal */
+// .md-modal {
+//   top: 50%;
+//   @media (max-width: @screen-xs-max) {
+//     // top: 30%;
+//     margin-top: -100px;
+//   }
+// }
+
+
 .md-content {
   // padding-bottom: 80px;
   // min-height: 450px !important;
@@ -398,6 +411,15 @@ body {
 
 .md-show ~ .md-overlay {
   background-position: bottom -200px left -200px;
+}
+
+.md-modal {
+  overflow-x: hidden;
+
+  @media (max-width: @screen-xs-max) {
+    overflow-x: scroll;
+  }
+
 }
 
 /*..................................the footer */

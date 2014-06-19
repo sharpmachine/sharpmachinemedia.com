@@ -120,17 +120,17 @@ Description: This description will go in the meta description tag
 	</div>
 </div>
 
-<div class="md-modal md-effect-12" id="modal-four-steps">
+<!-- <div class="md-modal md-effect-12" id="modal-four-steps">
 	<div class="md-content">
-		<!-- <div class="container">
-			<div class="row"> -->
+		<div class="container">
+			<div class="row">
 				<div class="col-xs-12">
 					<img src="themes/smm/img/four-steps2.svg" class="img-responsive" alt="Four Steps">
 				</div>
-			<!-- </div>
-		</div> -->
+			</div>
+		</div>
 	</div>
-</div> 
+</div> -->
 
 <!-- jumbotron -->
 <section class="jumbotron text-center">
@@ -145,7 +145,7 @@ Description: This description will go in the meta description tag
 
 <!-- What we do -->
 <div id="what-we-do" class="anchor"></div>
-<section id="services">
+<section id="services" class="hidden-xs">
 	<div class="container">
 		<h2 class="headline text-center">What We Do</h2>
 		<div class="row">
@@ -179,6 +179,50 @@ Description: This description will go in the meta description tag
 						<h3>Messaging</h3>
 						<p>We create authentic content that streamlines and shares your brand message.</p>
 					</div>
+				</div>
+			</div>
+			<div class="col-xs-12 col-sm-6 col-md-3 pull-right">
+				<a href="services" class="btn btn-lg btn-red btn-lg btn-block">Learn More <span class="right-arrow">&#8608;</span></a>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- What we do (Mobile) -->
+<section id="services" class="visible-xs">
+	<div class="container">
+		<h2 class="headline text-center">What We Do</h2>
+		<div class="row">
+			<div class="col-sm-6 col-md-3 service">
+				<div class="service-inner service-branding">
+					<a href="services#branding" class="service-content">
+						<h3>Branding</h3>
+						<p>We take your business identity from idea to reality, telling your story with consistency.</p>
+					</a>
+				</div>
+			</div>
+			<div class="col-sm-6 col-md-3 service">
+				<div class="service-inner service-print">
+					<a href="services#print" class="service-content">
+						<h3>Print</h3>
+						<p>We create engaging print materials, and take them from concept to delivery for you.</p>
+					</a>
+				</div>
+			</div>
+			<div class="col-sm-6 col-md-3 service">
+				<div class="service-inner service-web">
+					<a href="services#web" class="service-content">
+						<h3>Web</h3>
+						<p>We build compelling mobile, tablet, and desktop experiences with our poetic code.</p>
+					</a>
+				</div>
+			</div>
+			<div class="col-sm-6 col-md-3 service">
+				<div class="service-inner service-messaging">
+					<a href="services#messaging" class="service-content">
+						<h3>Messaging</h3>
+						<p>We create authentic content that streamlines and shares your brand message.</p>
+					</a>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-6 col-md-3 pull-right">

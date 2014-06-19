@@ -8,7 +8,8 @@
 
   @media (max-width: @screen-xs-max) {
     height: 697px;
-    background-position: right -150px;
+    background-position: right center;
+    background-size: cover;
   }
 
   @media (min-width: @screen-sm-min) {
@@ -68,6 +69,23 @@
     background-image: url(../img/messaging.svg);
   }
 }
+
+#modal-branding {
+  height: 420px;
+}
+
+#modal-print {
+  height: 459px;
+}
+
+#modal-web {
+  height: 445px;
+}
+
+#modal-messaging {
+  height: 299px;
+}
+
 
 // service boxes
 .service {
@@ -142,11 +160,17 @@
   padding-right: 15px;
   position: absolute;
   bottom: 15px;
+  color: @brand-cream;
 
   p {
     margin-bottom: 0;
     padding-right: 15px;
     .libre();
+  }
+
+  &:hover {
+    color: @brand-cream;
+    text-decoration: none;
   }
 }
 

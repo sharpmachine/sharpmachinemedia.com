@@ -15,9 +15,19 @@ $(document).ready(function(){
 			}
 		});
 	});
+
+	// $(function(){
+	// 	$('#modal-branding, #modal-print, #modal-web, #modal-messaging').each(function() {
+	// 		var $this = $(this);
+	// 		$this.height($this.find('.md-content').height());
+	// 		console.log($this.height());
+	// 	});
+	// });
+
 });
 
 $(window).load(function() {
 	$("body").removeClass("preload");
 });
+
 
