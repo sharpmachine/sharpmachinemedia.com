@@ -53,7 +53,7 @@ Description: This description will go in the meta description tag
 			</div>
 			<div class="col-sm-4">
 				<div class="person">
-					<img src="themes/smm/img/jack.jpg" class="img-responsive" alt="Jesse Kade">
+					<img src="themes/smm/img/jack.jpg" class="img-responsive" alt="Jack Vu">
 					<div class="person-info">
 						<h2>Jack Vu</h2>
 						<div class="position">Code Intern</div>
@@ -62,7 +62,7 @@ Description: This description will go in the meta description tag
 			</div>
 			<div class="col-sm-4">
 				<div class="person">
-					<img src="themes/smm/img/jake.jpg" class="img-responsive" alt="Jesse Kade">
+					<img src="themes/smm/img/jake.jpg" class="img-responsive" alt="Jack Scanlan">
 					<div class="person-info">
 						<h2>Jake Scanlan</h2>
 						<div class="position">Design Intern</div>
@@ -71,7 +71,7 @@ Description: This description will go in the meta description tag
 			</div>
 			<div class="col-sm-4">
 				<div class="person">
-					<img src="themes/smm/img/ben.jpg" class="img-responsive" alt="Jesse Kade">
+					<img src="themes/smm/img/ben.jpg" class="img-responsive" alt="Ben Siekmeier">
 					<div class="person-info">
 						<h2>Ben Siekmeier</h2>
 						<div class="position">Brand Intern</div>
@@ -99,28 +99,28 @@ Description: This description will go in the meta description tag
 		<h2 class="headline text-center">The Studio</h2>
 		<div class="row">
 			<div class="col-xs-12">
-				<img src="themes/smm/img/about1.jpg" class="img-responsive" alt="" width="1140" height="500">
+				<img src="themes/smm/img/StudioWindow.jpg" class="img-responsive" alt="Meeting area" width="2280" height="1520">
 			</div>
 			<div class="col-sm-6">
 				<div class="row">
 					<div class="col-xs-12">
-						<img src="themes/smm/img/about2.jpg" class="img-responsive" alt="" width="555" height="555">
+						<img src="themes/smm/img/shelves.jpg" class="img-responsive" alt="Handmade shelves" width="1110" height="1110">
 					</div>
 				</div>
 			</div>
 			<div class="col-sm-6">
 				<div class="row">
 					<div class="col-sm-6">
-						<img src="themes/smm/img/about3.jpg" class="img-responsive" alt="" width="263" height="263">
+						<img src="themes/smm/img/BradReading.jpg" class="img-responsive" alt="Brad Reading" width="526" height="526">
 					</div>
 					<div class="col-sm-6">
-						<img src="themes/smm/img/about4.jpg" class="img-responsive" alt="" width="263" height="263">
+						<img src="themes/smm/img/deck.jpg" class="img-responsive" alt="Deck" width="526" height="526">
 					</div>
 					<div class="col-sm-6">
-						<img src="themes/smm/img/about5.jpg" class="img-responsive" alt="" width="263" height="263">
+						<img src="themes/smm/img/inside-out.jpg" class="img-responsive" alt="Inside Out" width="526" height="526">
 					</div>
 					<div class="col-sm-6">
-						<img src="themes/smm/img/about6.jpg" class="img-responsive" alt="" width="263" height="263">
+						<img src="themes/smm/img/chalkboard.jpg" class="img-responsive" alt="Chalkboard" width="526" height="526">
 					</div>
 				</div>
 			</div>
@@ -145,20 +145,30 @@ Description: This description will go in the meta description tag
 		<h2 class="headline text-center">FAQ</h2>
 		<div class="row">
 			<div class="col-sm-6">
-				<h4>What do you charge?</h4>
-				<p>Our pricing is based on the amount of hours your project will take. In order to determine that, we will need to have a brief discussion about your project, the level of detail involved, technical requirements, etc. The best way to get the ball rolling on that process is to send an email to <a href="mailto:hello@sharpmachinemedia.com">hello@sharpmachinemedia.com</a>, and we’ll ask you some questions.</p>
+				<h4>How long will it take you to complete my project?</h4>
+				<p>Each timeline is different, and varies depending on your deliverables and the level of detail your project requires. Let’s meet up and we can get more information about your idea, then we’ll be able to give you a clear timeframe. Send an email to <a href="mailto:hello@sharpmachinemedia.com">hello@sharpmachinemedia.com</a>, and we’ll chat.</p>
 			</div>
 			<div class="col-sm-6">
-				<h4>How long will it take you to complete my project?</h4>
-				<p>Each timeline is different, and is determined by the amount of deliverables and the level of intricacy your project requires. Once we get more information about your project, we’ll be able to give you an estimated timeframe. The best way to get the ball rolling on that process is to send an email to <a href="mailto:hello@sharpmachinemedia.com">hello@sharpmachinemedia.com</a>, and we’ll ask you some questions.</p>
+				<h4>Do you do logos?</h4>
+				<p>Technically yes, but we don’t sell products (Logos), we are a branding service. We refer to the logo as visual identity, and we factor this into your overall branding. We like to say that your logo is the result of a strong brand strategy. In the end, a logo is a crucial part of the larger process.</p>
 			</div>
 			<div class="col-sm-6">
 				<h4>Do you do websites?</h4>
-				<p>Technically, yes.  But what we really do is build brands.  A website is a touchpoint for a brand...etc.</p>
+				<p>Again, yes but we see the website as merely one customer touch point. What we really do is build brands, and the website is part of the brand. It’s best to have a holistic approach here if your proposed site is part of something larger.</p>
+			</div>
+			<div class="col-sm-6">
+				<h4>Can we hold you on retainer?</h4>
+				<p>Yes. Creating and designing out the initial brand is great, but great brands are built over time. The most important part of branding is sticking to the discipline of the brand strategy. As your reputation grows, so does your brand. We can be there along side of you to help insure your messaging stays consistent, cohesive and engaging. </p>
 			</div>
 			<div class="col-sm-6">
 				<h4>What is your perfect client?</h4>
-				<p>Our perfect client is someone who loves great design, likes collaboration, and appreciates our creative input. We enjoy working with clients who understand the value of what we do and want to use design to make their businesses more successful.</p>
+				<p>Our perfect client is someone who understands the power of building and maintaining a strong brand image in the current business culture. They also appreciate how beautiful design can enhance their customer’s experience. We enjoy working with clients who understand the importance of what we do and want to use excellent design to make their businesses more successful.</p>
+			</div>
+			<div class="col-sm-6">
+				<h4>What do you charge?</h4>
+				<p>Currently we offer a two hour Brand Strategy session to establish the 4P’s of your brand with you. That session is $399.</p>
+				<p>Once we have completed the session you can choose to move forward with our team designing out your visual identity and customer touch points. This phase often involves a combination of print design, web design and other ideas that are relevant to your brand. The price here can vary depending on each brand's needs. Let us assess your needs and submit a proposal. Remember though, your branding is a crucial investment in your future, so try not to see it as only an expense. </p>
+				<p>Schedule a brand strategy session by emailing <a href="mailto:hello@sharpmachinemedia.com?subject=Schedule brand strategy session">hello@sharpmachinemedia.com</a></p>
 			</div>
 		</div>
 	</div>

@@ -227,7 +227,7 @@ Description: This description will go in the meta description tag
 		</div>
 	</div>
 	<div class="container">
-		<p class="lead">&#8220;Brands are successful when they’re consistent with their message, they know what they represent, and have a story that connects with people.&#8221;</p>
+		<p class="lead">&#8220;Brand your company for where you want it to go, not where it's at.&#8221;</p>
 		<div class="accent"></div>
 	</div>
 </div>
