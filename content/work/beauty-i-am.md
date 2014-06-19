@@ -15,7 +15,7 @@ Description: Beauty I AM Project Page
 </header>
 
 <!-- Project Intro -->
-<section class="piece-intro bg-brand-white" style="background-image: url(../../content/work/project-assets/bia-logo-vert-cream.svg); background-size: 555px 555px; background-position: top -250px right -250px; background-repeat: no-repeat;">
+<section class="piece-intro bg-brand-white" style="background-image: url(../themes/smm/img/project-assets/bia-logo-vert-cream.svg); background-size: 555px 555px; background-position: top -250px right -250px; background-repeat: no-repeat;">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2">
@@ -62,7 +62,7 @@ Description: Beauty I AM Project Page
 					<div class="col-sm-6">
 						<figure>
 							<div class="logo-bg bg-brand-white">
-								<img src="../../content/work/project-assets/bia-logo-d-vert.svg" class="center-block img-responsive" alt="Beauty I AM logo">
+								<img src="../themes/smm/img/project-assets/bia-logo-d-vert.svg" class="center-block img-responsive" alt="Beauty I AM logo">
 							</div>
 							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.0 - Full lockup on light background</figcaption>
 						</figure>
@@ -70,7 +70,7 @@ Description: Beauty I AM Project Page
 					<div class="col-sm-6">
 						<figure>
 							<div class="logo-bg bg-brand-black">
-								<img src="../../content/work/project-assets/bia-logo-l-vert.svg" class="center-block img-responsive" alt="Beauty I AM logo">
+								<img src="../themes/smm/img/project-assets/bia-logo-l-vert.svg" class="center-block img-responsive" alt="Beauty I AM logo">
 							</div>
 							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.1 - Full lockup on dark background</figcaption>
 						</figure>
@@ -85,7 +85,7 @@ Description: Beauty I AM Project Page
 					<div class="col-sm-6">
 						<figure>
 							<div class="logo-bg bg-brand-white">
-								<img src="../../content/work/project-assets/bia-logo-d-hor.svg" alt="" class="center-block img-responsive">
+								<img src="../themes/smm/img/project-assets/bia-logo-d-hor.svg" alt="" class="center-block img-responsive">
 							</div>
 							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.2 - Horizontal lockup on light background</figcaption>
 						</figure>
@@ -93,7 +93,7 @@ Description: Beauty I AM Project Page
 					<div class="col-sm-6">
 						<figure>
 							<div class="logo-bg bg-brand-black">
-								<img src="../../content/work/project-assets/bia-logo-l-hor.svg" alt="" class="center-block img-responsive">
+								<img src="../themes/smm/img/project-assets/bia-logo-l-hor.svg" alt="" class="center-block img-responsive">
 							</div>
 							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.3 - Horizontal lockup on light background</figcaption>
 						</figure>
@@ -118,13 +118,13 @@ Description: Beauty I AM Project Page
 					<div class="col-sm-6">
 						<figure>
 							<figcaption class="libre"><span class="up-triangle">&#9660;</span> Figure 1.2.0 - Source Sans Pro</figcaption>
-							<img src="../../content/work/project-assets/source_sans_pro.svg" width="100%" alt="" class="img-responsive">
+							<img src="../themes/smm/img/project-assets/source_sans_pro.svg" width="100%" alt="" class="img-responsive">
 						</figure>
 					</div>
 					<div class="col-sm-6">
 						<figure>
 							<figcaption class="libre"><span class="up-triangle">&#9660;</span> Figure 1.2.1 - Linden Hill</figcaption>
-							<img src="../../content/work/project-assets/linden_hill.svg" width="100%" alt="" class="img-responsive">
+							<img src="../themes/smm/img/project-assets/linden_hill.svg" width="100%" alt="" class="img-responsive">
 						</figure>
 					</div>
 				</div>
@@ -144,7 +144,7 @@ Description: Beauty I AM Project Page
 			<div class="col-md-9 col-lg-10">
 				<div class="row">
 					<div class="col-xs-12">
-						<img src="../../content/work/project-assets/color_palett.svg" width="100%" alt="" class="img-responsive">
+						<img src="../themes/smm/img/project-assets/color_palett.svg" width="100%" alt="" class="img-responsive">
 					</div>
 				</div>
 			</div>
@@ -163,9 +163,9 @@ Description: Beauty I AM Project Page
 			<div class="col-sm-9 col-lg-10">
 				<figure>
 					<figcaption class="libre"><span class="up-triangle">&#9660;</span> Figure 1.3.0 - Mockup Concepts</figcaption>
-					<img src="../../content/work/project-assets/Branding Identity Mock-Up BeautyIam.jpg" alt="" class="img-responsive">
+					<img src="../themes/smm/img/project-assets/Branding Identity Mock-Up BeautyIam.jpg" alt="" class="img-responsive">
 					<figcaption class="libre"><span class="up-triangle">&#9660;</span> Figure 1.3.1 - Business Card Mockup Concepts</figcaption>
-					<img src="../../content/work/project-assets/Business-card-mock-up-BeautyIam.jpg" class="img-responsive" alt="BIA Business Card Mock up">
+					<img src="../themes/smm/img/project-assets/Business-card-mock-up-BeautyIam.jpg" class="img-responsive" alt="BIA Business Card Mock up">
 				</figure>
 			</div>
 		</div>
@@ -173,7 +173,7 @@ Description: Beauty I AM Project Page
 </section>
 
 <!-- Web -->
-<section class="piece-bg" style="background-image:url(../../content/work/project-assets/bia_bg_img.svg);">
+<section class="piece-bg" style="background-image:url(../themes/smm/img/project-assets/bia_bg_img.svg);">
 	<h2 class="headline-inverse text-center">Web</h2>
 </section>
 
@@ -186,19 +186,19 @@ Description: Beauty I AM Project Page
 			</aside>
 			<div class="col-sm-6 col-lg-8 piece-screenshot">
 				<figure>
-					<img src="../../content/work/project-assets/00-arrive_landing.jpg" alt="" class="img-responsive">
+					<img src="../themes/smm/img/project-assets/00-arrive_landing.jpg" alt="" class="img-responsive">
 					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.0.0 - Homepage</figcaption>
 				</figure>
 				<figure>
-					<img src="../../content/work/project-assets/01-about.jpg" alt="" class="img-responsive">
+					<img src="../themes/smm/img/project-assets/01-about.jpg" alt="" class="img-responsive">
 					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.1.0 - About 1</figcaption>
 				</figure>
 				<figure>
-					<img src="../../content/work/project-assets/02-about-blue.jpeg" alt="" class="img-responsive">
+					<img src="../themes/smm/img/project-assets/02-about-blue.jpeg" alt="" class="img-responsive">
 					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.2.0 - About 2</figcaption>
 				</figure>
 				<figure>
-					<img src="../../content/work/project-assets/05-about.jpeg" alt="" class="img-responsive">
+					<img src="../themes/smm/img/project-assets/05-about.jpeg" alt="" class="img-responsive">
 					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.3.0 - About 3</figcaption>
 				</figure>
 			</div>
