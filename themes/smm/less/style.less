@@ -3,7 +3,7 @@
 .jumbotron {
   height: 800px;
   margin-bottom: 0;
-  background: url(../img/jumbotron.jpg) center -150px no-repeat fixed;
+  background: url(../img/jumbo-jake.jpg) center -150px no-repeat fixed;
   background-size: cover;
 
   @media (max-width: @screen-xs-max) {
@@ -228,108 +228,59 @@
       font-style: italic;
     }
   }
-
-  img {
-    margin: 15px 0;
-  }
 }
 
 .item {
   p {
-    margin-top: 0;
+    margin-top: 38.5px;
   }
 }
 
 a.carousel-control {
-  top: auto;
+  color: @brand-cream;
   .opacity(1);
+  .libre();
+  font-style: normal;
   text-shadow: none;
+
+  i {
+    position: absolute;
+    top: calc(~'50% - 100px / 2');
+    font-size: 100px;
+  }
 
   &.left,
   &.right {
-    bottom: -9px;
     background: none;
   }
 
-
-  &.right {
-    right: 120px;
-
-    span {
-      right: 0;
-    }
-  }
-
-  &.left {
-    left: 120px;
-
-    span {
-      left: 0;
-    }
-  }
-
-  span {
-    position: relative;
-    color: @brand-cream;
-    font-size: 32px;
-    .transition(all ease 0.1s);
-  }
-
   &:hover {
-
-    span {
-      .transition(all ease 0.1s);
-    }
-
-    &.right {
-      span {
-        right: -10px;
-      }
-    }
-
-    &.left {
-      span {
-        left: -10px;
-      }
-    }
+    color: @brand-black;
   }
-}
-
-.carousel-inner {
-  margin-bottom: 22px;
 }
 
 .carousel-indicators {
-  bottom: -18px;
-
-  @media (max-width: @screen-sm-min) {
-    bottom: -45px;
-  }
 
   li {
-    border-color: @brand-cream;
+    // border-color: @brand-cream;
+    background-color: @brand-cream;
   }
 
   .active {
-    background-color: @brand-cream;
+    background-color: @brand-black;
     border: 0;
   }
 }
 
-.img-thumbnail {
-  padding: 2px;
-  background-color: @brand-red;
-}
+// .carousel .item {
+//   .opacity(0);
+//   .transition(0.4s ease opacity);
+// }
 
-.carousel .item {
-  .opacity(0);
-  .transition(0.4s ease opacity);
-}
-
-.carousel .active {
-  .opacity(1);
-  .transition(0.4s ease opacity);
-}
+// .carousel .active {
+//   .opacity(1);
+//   .transition(0.4s ease opacity);
+// }
 
 
 // RECENT WORK SECTION
