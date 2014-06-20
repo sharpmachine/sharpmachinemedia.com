@@ -1,6 +1,6 @@
 /*
 Title: Beauty I AM
-Description: Beauty I AM Project Page
+Description: Project presentation for Beauty I AM
 */
 
 <header class="page-header text-center">
@@ -8,41 +8,19 @@ Description: Beauty I AM Project Page
 		<div class="row">
 			<div class="col-xs-12">
 				<h1 class="title">Beauty I AM</h1>
-				<div class="page-header-subtitle">Branding, Print, Web, Messaging</div>
+				<div class="page-header-subtitle">Branding &amp; Web</div>
 			</div>
 		</div>
 	</div>
 </header>
 
 <!-- Project Intro -->
-<section class="piece-intro bg-brand-white" style="background-image: url(../themes/smm/img/project-assets/bia-logo-vert-cream.svg); background-size: 555px 555px; background-position: top -250px right -250px; background-repeat: no-repeat;">
+<section class="piece-intro bg-brand-white" style="background-image: url(../themes/smm/img/project-assets/bia-logo-vert-cream.svg); background-size: 555px 555px; background-position: top -200px right -200px; background-repeat: no-repeat;">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2">
 				<h2 class="headline text-center">The Brand</h2>
-				<p class="text-center lead libre">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque, esse, officiis alias ad autem eos dolore omnis beatae maxime earum ullam excepturi vitae nulla at optio cupiditate aperiam enim quo.</p>
-			</div>
-			<div class="col-sm-3">
-				<h3 class="libre h4">1. Purpose</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi incidunt aliquid officiis minus ducimus esse molestiae id provident quisquam qui.</p>
-			</div>
-			<div class="col-sm-3">
-				<h3 class="libre h4">2. Position</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, placeat quos reiciendis hic ratione est molestias ipsa delectus ab dolor.</p>
-			</div>
-			<div class="col-sm-3">
-				<h3 class="libre h4">3. Promise</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit, suscipit ut voluptate tempore similique adipisci iusto. Beatae obcaecati consequuntur laboriosam.</p>
-			</div>
-			<div class="col-sm-3">
-				<h3 class="libre h4">4. Personality</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, quibusdam laudantium error maiores magnam ab dolorem distinctio ipsum esse sed?</p>
-			</div>
-		</div>
-		<hr>
-		<div class="row">
-			<div class="col-xs-12">
-				<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.0.0 - 4 part brand strategy</figcaption>
+				<p class="text-center lead libre">Beauty I AM offers a variety of groups, counseling and classes that address mental, physical and spiritual need of those pursing their dreams in Hollywood.</p>
 			</div>
 		</div>
 	</div>
@@ -102,8 +80,7 @@ Description: Beauty I AM Project Page
 			</div>
 		</div>
 		<!-- Stylized -->
-		
-</section>
+	</section>
 
 <!-- Typefaces -->
 <section class="piece-typeface bg-brand-white">
@@ -173,7 +150,7 @@ Description: Beauty I AM Project Page
 </section>
 
 <!-- Web -->
-<section class="piece-bg" style="background-image:url(../themes/smm/img/project-assets/bia_bg_img.svg);">
+<section class="piece-bg" style="background-image:url(../themes/smm/img/project-assets/bia/bg3.jpg);">
 	<h2 class="headline-inverse text-center">Web</h2>
 </section>
 
@@ -182,25 +159,57 @@ Description: Beauty I AM Project Page
 		<div class="row">
 			<aside class="col-sm-3 col-lg-2 hidden-xs">
 				<h3 class="libre h4">On the Experience:</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde, dolorum, ex aliquid culpa aut tempora illo distinctio assumenda harum facere.</p>
+				<p>Given that BIA is going after people pursing careers in Hollywood, we wanted the experience to feel high-fasion magazine like.  This meant great typography, strong visuals, and extremely high quality photography.</p>
 			</aside>
 			<div class="col-sm-6 col-lg-8 piece-screenshot">
 				<figure>
-					<img src="../themes/smm/img/project-assets/00-arrive_landing.jpg" alt="" class="img-responsive">
+					<img src="../themes/smm/img/project-assets/bia/bia-home.jpg" alt="Beauty I AM Homepage Screenshot" class="img-responsive">
 					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.0.0 - Homepage</figcaption>
 				</figure>
 				<figure>
-					<img src="../themes/smm/img/project-assets/01-about.jpg" alt="" class="img-responsive">
-					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.1.0 - About 1</figcaption>
+					<img src="../themes/smm/img/project-assets/bia/bia-fighting.png" alt="Beauty I AM Fitness Screenshot" class="img-responsive">
+					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.1.0 - Fitness</figcaption>
 				</figure>
 				<figure>
-					<img src="../themes/smm/img/project-assets/02-about-blue.jpeg" alt="" class="img-responsive">
-					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.2.0 - About 2</figcaption>
+					<img src="../themes/smm/img/project-assets/bia/bia-classes.png" alt="Beauty I AM Classes Screenshot" class="img-responsive">
+					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.2.0 - Classes</figcaption>
 				</figure>
 				<figure>
-					<img src="../themes/smm/img/project-assets/05-about.jpeg" alt="" class="img-responsive">
-					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.3.0 - About 3</figcaption>
+					<img src="../themes/smm/img/project-assets/bia/bia-support-group.png" alt="Beauty I AM Support Group Screenshot" class="img-responsive">
+					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.3.0 - Support Group Dropdown</figcaption>
 				</figure>
+				<figure>
+					<img src="../themes/smm/img/project-assets/bia/bia-about.jpg" alt="Beauty I AM About Screenshot" class="img-responsive">
+					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.3.0 - About</figcaption>
+				</figure>
+			</div>
+			<div class="col-md-8 col-md-offset-2">
+				<div class="row">
+					<div class="col-sm-6">
+						<figure>
+							<img src="../themes/smm/img/project-assets/bia/landing-slide1.jpg" alt="Beauty I AM About Screenshot" class="img-responsive">
+							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.3.0 - Homepage Model</figcaption>
+						</figure>
+					</div>
+					<div class="col-sm-6">
+						<figure>
+							<img src="../themes/smm/img/project-assets/bia/landing-slide3.jpg" alt="Beauty I AM About Screenshot" class="img-responsive">
+							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.3.0 - Homepage Model</figcaption>
+						</figure>
+					</div>
+					<div class="col-sm-6">
+						<figure>
+							<img src="../themes/smm/img/project-assets/bia/landing-slide4.jpg" alt="Beauty I AM About Screenshot" class="img-responsive">
+							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.3.0 - Homepage Model</figcaption>
+						</figure>
+					</div>
+					<div class="col-sm-6">
+						<figure>
+							<img src="../themes/smm/img/project-assets/bia/landing-slide2.jpg" alt="Beauty I AM About Screenshot" class="img-responsive">
+							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.3.0 - Homepage Model</figcaption>
+						</figure>
+					</div>
+				</div>
 			</div>
 			<aside class="col-sm-3 col-lg-2 visible-xs">
 				<h3 class="libre h4">On the Experience:</h3>
@@ -210,31 +219,16 @@ Description: Beauty I AM Project Page
 	</div>
 </section>
 
-<!-- Responsive Showcase -->
-<section class="piece-showcase bg-brand-white">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-12">
-				<figure>
-					<img src="../themes/smm/img/showcase.png" alt="" class="img-responsive">
-					<hr>
-					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.1.0 - Responsive Showcase</figcaption>
-				</figure>
-			</div>
-		</div>
-	</div>
-</section>
-
-<section id="testimonies">
+<section id="testimonies" class="bg-brand-white">
 	<div class="container">
 		<div class="row client-testimonial">
 			<div class="col-md-8 col-md-offset-2">
 				<div class="row">
 					<div class="col-sm-3">
-						<img src="../themes/smm/img/jonathan.jpg" class="img-responsive img-circle" alt="Generic placeholder image">
+						<img src="../themes/smm/img/client-testimonies/ashton-roark.jpg" class="img-responsive img-circle center-block" alt="Ashton Roark">
 					</div>
 					<div class="col-sm-9">
-						<p>"We loved the enthusiasm and the commitment to design consistency which Sharp Machine demonstrated throughout the process" <br> <cite>- <strong>Michael Van Tinteren, BJM</strong></cite></p>
+						<p>&#8220;People have really enjoyed using our site and have viewed us more professionally because of the quality of it.&#8221;<br> <cite>- <strong>Ashton Roark, Founder of Beauty I AM</strong></cite></p>
 					</div>
 				</div>
 			</div>
@@ -248,13 +242,13 @@ Description: Beauty I AM Project Page
 			<div class="col-md-8 col-md-offset-2">
 				<div class="row">
 					<div class="col-sm-4">
-						<a href="piece" class="btn btn-lg btn-black btn-block">&#8606; Previous</a>
+						<a href="unlikely-heroes" class="btn btn-lg btn-black btn-block">&#8606; Previous</a>
 					</div>
 					<div class="col-sm-4">
 						<a href="../work" class="btn btn-lg btn-black btn-block">All Work</a>
 					</div>
 					<div class="col-sm-4">
-						<a href="piece" class="btn btn-lg btn-black btn-block">Next <span class="right-arrow">&#8608;</span></a>
+						<a href="globacom" class="btn btn-lg btn-black btn-block">Next <span class="right-arrow">&#8608;</span></a>
 					</div>
 				</div>
 			</div>
