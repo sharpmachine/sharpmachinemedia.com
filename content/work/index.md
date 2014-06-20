@@ -60,13 +60,13 @@ Description: Our proudest work
 		<div class="item active">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-8 col-md-offset-2">
+					<div class="col-sm-8 col-sm-offset-2">
 						<div class="row">
 							<div class="col-sm-3">
-								<img src="../themes/smm/img/client-testimonies/paul-manwaring.jpg" class="img-responsive img-circle" alt="Paul Manwaring">
+								<img src="../themes/smm/img/client-testimonies/paul-manwaring.jpg" class="img-responsive img-circle center-block" alt="Paul Manwaring">
 							</div>
 							<div class="col-sm-9">
-								<p>&#8220;Efficient, easy to work with, professional and know what they are doing.&#8221;<br> <cite>- <strong>Paul Manwaring</strong></cite></p>
+								<p>&#8220;Efficient, easy to work with, professional and know what they are doing.&#8221;<br> <cite>- Paul Manwaring</cite></p>
 							</div>
 						</div>
 					</div>
@@ -77,13 +77,13 @@ Description: Our proudest work
 		<div class="item">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-8 col-md-offset-2">
+					<div class="col-sm-8 col-sm-offset-2">
 						<div class="row">
 							<div class="col-sm-3">
-								<img src="../themes/smm/img/client-testimonies/trish-harris.jpg" class="img-responsive img-circle" alt="Trish Harris">
+								<img src="../themes/smm/img/client-testimonies/trish-harris.jpg" class="img-responsive img-circle center-block" alt="Trish Harris">
 							</div>
 							<div class="col-sm-9">
-								<p>&#8220;My experience with SM has been professional, and effective. I am already referring SM to my friends.&#8221; <br> <cite>- <strong>Trish Harris, Harris Studios</strong></cite></p>
+								<p>&#8220;My experience with SM has been professional, and effective. I am already referring SM to my friends.&#8221; <br> <cite>- Trish Harris, Harris Studios</cite></p>
 							</div>
 						</div>
 					</div>
@@ -94,13 +94,13 @@ Description: Our proudest work
 		<div class="item">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-8 col-md-offset-2">
+					<div class="col-sm-8 col-sm-offset-2">
 						<div class="row">
 							<div class="col-sm-3">
-								<img src="../themes/smm/img/client-testimonies/sadie-hess.jpg" class="img-responsive img-circle" alt="Sadie Hess">
+								<img src="../themes/smm/img/client-testimonies/sadie-hess.jpg" class="img-responsive img-circle center-block" alt="Sadie Hess">
 							</div>
 							<div class="col-sm-9">
-								<p>&#8220;We felt like a team working together with us at the center of the creative process.&#8220;<br> <cite>- <strong>Sadie Hess, Compass</strong></cite></p>
+								<p>&#8220;We felt like a team working together with us at the center of the creative process.&#8220;<br> <cite>- Sadie Hess, Compass</cite></p>
 							</div>
 						</div>
 					</div>

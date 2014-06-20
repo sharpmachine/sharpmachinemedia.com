@@ -225,7 +225,11 @@
       .libre();
       margin-top: @padding-base-horizontal;
       font-size: 14px;
-      font-style: italic;
+      text-transform: uppercase;
+
+      @media (max-width: @screen-xs-max) {
+        float: none;
+      }
     }
   }
 }
@@ -233,6 +237,14 @@
 .item {
   p {
     margin-top: 38.5px;
+
+    @media (max-width: @screen-sm-min) {
+      margin-top: 10px;
+    }
+
+    @media (max-width: @screen-xs-max) {
+      text-align: center;
+    }
   }
 }
 
@@ -256,6 +268,10 @@ a.carousel-control {
 
   &:hover {
     color: @brand-black;
+  }
+
+  @media (max-width: @screen-xs-max) {
+    display: none;
   }
 }
 
