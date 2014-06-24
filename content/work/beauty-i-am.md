@@ -15,7 +15,7 @@ Description: Project presentation for Beauty I AM
 </header>
 
 <!-- Project Intro -->
-<section class="piece-intro bg-brand-white" style="background-image: url(../themes/smm/img/project-assets/bia-logo-vert-cream.svg); background-size: 555px 555px; background-position: top -200px right -200px; background-repeat: no-repeat;">
+<section class="piece-intro bg-brand-white" style="background-image: url(../themes/smm/img/project-assets/bia/bia-logo-vert-cream.svg); background-size: 555px 555px; background-position: top -200px right -200px; background-repeat: no-repeat;">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2">
@@ -40,7 +40,7 @@ Description: Project presentation for Beauty I AM
 					<div class="col-sm-6">
 						<figure>
 							<div class="logo-bg bg-brand-white">
-								<img src="../themes/smm/img/project-assets/bia-logo-d-vert.svg" class="center-block img-responsive" alt="Beauty I AM logo">
+								<img src="../themes/smm/img/project-assets/bia/bia-logo-d-vert.svg" class="center-block img-responsive" alt="Beauty I AM logo">
 							</div>
 							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.0 - Full lockup on light background</figcaption>
 						</figure>
@@ -48,7 +48,7 @@ Description: Project presentation for Beauty I AM
 					<div class="col-sm-6">
 						<figure>
 							<div class="logo-bg bg-brand-black">
-								<img src="../themes/smm/img/project-assets/bia-logo-l-vert.svg" class="center-block img-responsive" alt="Beauty I AM logo">
+								<img src="../themes/smm/img/project-assets/bia/bia-logo-l-vert.svg" class="center-block img-responsive" alt="Beauty I AM logo">
 							</div>
 							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.1 - Full lockup on dark background</figcaption>
 						</figure>
@@ -63,7 +63,7 @@ Description: Project presentation for Beauty I AM
 					<div class="col-sm-6">
 						<figure>
 							<div class="logo-bg bg-brand-white">
-								<img src="../themes/smm/img/project-assets/bia-logo-d-hor.svg" alt="" class="center-block img-responsive">
+								<img src="../themes/smm/img/project-assets/bia/bia-logo-d-hor.svg" alt="Beauty I AM logo" class="center-block img-responsive">
 							</div>
 							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.2 - Horizontal lockup on light background</figcaption>
 						</figure>
@@ -71,7 +71,7 @@ Description: Project presentation for Beauty I AM
 					<div class="col-sm-6">
 						<figure>
 							<div class="logo-bg bg-brand-black">
-								<img src="../themes/smm/img/project-assets/bia-logo-l-hor.svg" alt="" class="center-block img-responsive">
+								<img src="../themes/smm/img/project-assets/bia/bia-logo-l-hor.svg" alt="Beauty I AM logo" class="center-block img-responsive">
 							</div>
 							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.3 - Horizontal lockup on light background</figcaption>
 						</figure>
@@ -80,7 +80,7 @@ Description: Project presentation for Beauty I AM
 			</div>
 		</div>
 		<!-- Stylized -->
-	</section>
+</section>
 
 <!-- Typefaces -->
 <section class="piece-typeface bg-brand-white">
@@ -95,13 +95,13 @@ Description: Project presentation for Beauty I AM
 					<div class="col-sm-6">
 						<figure>
 							<figcaption class="libre"><span class="up-triangle">&#9660;</span> Figure 1.2.0 - Source Sans Pro</figcaption>
-							<img src="../themes/smm/img/project-assets/source_sans_pro.svg" width="100%" alt="" class="img-responsive">
+							<img src="../themes/smm/img/project-assets/bia/source_sans_pro.svg" width="100%" alt="source sans type" class="img-responsive">
 						</figure>
 					</div>
 					<div class="col-sm-6">
 						<figure>
 							<figcaption class="libre"><span class="up-triangle">&#9660;</span> Figure 1.2.1 - Linden Hill</figcaption>
-							<img src="../themes/smm/img/project-assets/linden_hill.svg" width="100%" alt="" class="img-responsive">
+							<img src="../themes/smm/img/project-assets/bia/linden_hill.svg" width="100%" alt="linden hill type" class="img-responsive">
 						</figure>
 					</div>
 				</div>
@@ -121,7 +121,7 @@ Description: Project presentation for Beauty I AM
 			<div class="col-md-9 col-lg-10">
 				<div class="row">
 					<div class="col-xs-12">
-						<img src="../themes/smm/img/project-assets/color_palett.svg" width="100%" alt="" class="img-responsive">
+						<img src="../themes/smm/img/project-assets/bia/color_palett.svg" width="100%" alt="bia color palette" class="img-responsive">
 					</div>
 				</div>
 			</div>
@@ -140,9 +140,9 @@ Description: Project presentation for Beauty I AM
 			<div class="col-sm-9 col-lg-10">
 				<figure>
 					<figcaption class="libre"><span class="up-triangle">&#9660;</span> Figure 1.3.0 - Mockup Concepts</figcaption>
-					<img src="../themes/smm/img/project-assets/Branding Identity Mock-Up BeautyIam.jpg" alt="" class="img-responsive">
+					<img src="../themes/smm/img/project-assets/bia/Branding Identity Mock-Up BeautyIam.jpg" alt="bia mock up" class="img-responsive">
 					<figcaption class="libre"><span class="up-triangle">&#9660;</span> Figure 1.3.1 - Business Card Mockup Concepts</figcaption>
-					<img src="../themes/smm/img/project-assets/Business-card-mock-up-BeautyIam.jpg" class="img-responsive" alt="BIA Business Card Mock up">
+					<img src="../themes/smm/img/project-assets/bia/Business-card-mock-up-BeautyIam.jpg" class="img-responsive" alt="BIA Business Card Mock up">
 				</figure>
 			</div>
 		</div>
