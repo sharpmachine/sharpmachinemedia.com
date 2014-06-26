@@ -15,7 +15,7 @@ Description: Project presentation for Beauty I AM
 </header>
 
 <!-- Project Intro -->
-<section class="piece-intro bg-brand-white" style="background-image: url(../themes/smm/img/project-assets/bia/bia-logo-vert-cream.svg); background-size: 555px 555px; background-position: top -200px right -200px; background-repeat: no-repeat;">
+<section class="piece-intro bg-brand-white">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2">
@@ -159,7 +159,7 @@ Description: Project presentation for Beauty I AM
 		<div class="row">
 			<aside class="col-sm-3 col-lg-2 hidden-xs">
 				<h3 class="libre h4">On the Experience:</h3>
-				<p>Given that BIA is going after people pursing careers in Hollywood, we wanted the experience to feel high-fasion magazine like.  This meant great typography, strong visuals, and extremely high quality photography.</p>
+				<p>Given that BIA is going after people pursing careers in Hollywood, we wanted the experience to feel high-fashion magazine like.  This meant great typography, strong visuals, and extremely high quality photography.</p>
 			</aside>
 			<div class="col-sm-6 col-lg-8 piece-screenshot">
 				<figure>
@@ -213,7 +213,7 @@ Description: Project presentation for Beauty I AM
 			</div>
 			<aside class="col-sm-3 col-lg-2 visible-xs">
 				<h3 class="libre h4">On the Experience:</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde, dolorum, ex aliquid culpa aut tempora illo distinctio assumenda harum facere.</p>
+				<p>Given that BIA is going after people pursing careers in Hollywood, we wanted the experience to feel high-fashion magazine like.  This meant great typography, strong visuals, and extremely high quality photography.</p>
 			</aside>
 		</div>
 	</div>
@@ -228,7 +228,7 @@ Description: Project presentation for Beauty I AM
 						<img src="../themes/smm/img/client-testimonies/ashton-roark.jpg" class="img-responsive img-circle center-block" alt="Ashton Roark">
 					</div>
 					<div class="col-sm-9">
-						<p>&#8220;People have really enjoyed using our site and have viewed us more professionally because of the quality of it.&#8221;<br> <cite>- <strong>Ashton Roark, Founder of Beauty I AM</strong></cite></p>
+						<p>&#8220;People have really enjoyed using our site and have viewed us more professionally because of the quality of it.&#8221;<br> <cite>- Ashton Roark, Founder of Beauty I AM</cite></p>
 					</div>
 				</div>
 			</div>
