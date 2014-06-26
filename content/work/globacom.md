@@ -15,7 +15,7 @@ Description: Globacom Project
 </header>
 
 <!-- Project Intro -->
-<section class="piece-intro bg-brand-white" style="background-image: url(../themes/smm/img/project-assets/Globacom_Logo_Cream.svg); background-size: 555px 555px; background-position: top -250px right -250px; background-repeat: no-repeat;">
+<section class="piece-intro bg-brand-white" style="background-image: url(../themes/smm/img/project-assets/globacom/Globacom_Logo_Cream.svg); background-size: 555px 555px; background-position: top -250px right -250px; background-repeat: no-repeat;">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2">
@@ -58,14 +58,13 @@ Description: Globacom Project
 				<p>Products that celebrate a Swiss feel, often use the red from the national flag. We chose to deviate and used a dark blue to convey trust and confidence. In the two color version we used a bright blue inspired by the clear mountain skies that surround the Alps. It also communicates optimism and ideas about what’s possible. </p>
 				<p>The shield is a simple and timeless symbol of safety. The negative space is influenced by the Swiss cross from the flag.</p>
 				<p>The font is customized. We started with Oxygen due to it’s clarity and functionality. Then added a look of casual sophistication by adding some harder verticals to the letter shapes.</p>
-			</aside>
-			<div class="clearfix"></div>
+			</aside>			
 			<div class="col-sm-9 col-lg-10">
 				<div class="row">
 					<div class="col-sm-6">
 						<figure>
 							<div class="logo-bg bg-brand-white">
-								<img src="../themes/smm/img/project-assets/Globacom_Logo_Final_Color.svg" class="center-block img-responsive" alt="On the Beam logo">
+								<img src="../themes/smm/img/project-assets/globacom/Globacom_Logo_Final_Color.svg" class="center-block img-responsive" alt="Globacom logo">
 							</div>
 							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.0 - Full color lockup on light background</figcaption>
 						</figure>
@@ -73,7 +72,7 @@ Description: Globacom Project
 					<div class="col-sm-6">
 						<figure>
 							<div class="logo-bg bg-brand-black">
-								<img src="../themes/smm/img/project-assets/Globacom_Dark_1.svg" class="center-block img-responsive" alt="On the Beam logo">
+								<img src="../themes/smm/img/project-assets/globacom/Globacom_Dark_1.svg" class="center-block img-responsive" alt="Globacom logo">
 							</div>
 							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.1 - One color lockup on dark background 1</figcaption>
 						</figure>
@@ -88,7 +87,7 @@ Description: Globacom Project
 					<div class="col-sm-6">
 						<figure>
 							<div class="logo-bg bg-brand-white">
-								<img src="../themes/smm/img/project-assets/Globacom_One_Color_Light.svg" alt="" class="center-block img-responsive">
+								<img src="../themes/smm/img/project-assets/globacom/Globacom_One_Color_Light.svg" alt="Globacom Logo" class="center-block img-responsive">
 							</div>
 							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.2 - One color lockup on light background</figcaption>
 						</figure>
@@ -96,7 +95,7 @@ Description: Globacom Project
 					<div class="col-sm-6">
 						<figure>
 							<div class="logo-bg bg-brand-black">
-								<img src="../themes/smm/img/project-assets/Globacom_Dark_2.svg" alt="" class="center-block img-responsive">
+								<img src="../themes/smm/img/project-assets/globacom/Globacom_Dark_2.svg" alt="Globacom Logo" class="center-block img-responsive">
 							</div>
 							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.3 - One color lockup on dark background 2</figcaption>
 						</figure>
@@ -113,7 +112,7 @@ Description: Globacom Project
 							<div class="col-sm-6">
 								<figure>
 									<div class="logo-bg bg-brand-white">
-										<img src="../themes/smm/img/project-assets/Globacom_full_color_logo.svg" alt="" class="center-block img-responsive">
+										<img src="../themes/smm/img/project-assets/globacom/Globacom_full_color_logo.svg" alt="Globacom Logo" class="center-block img-responsive">
 									</div>
 									<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.4 - Full color icon on light background</figcaption>
 								</figure>
@@ -125,7 +124,7 @@ Description: Globacom Project
 							<div class="col-sm-6">
 								<figure>
 									<div class="logo-bg bg-brand-black">
-										<img src="../themes/smm/img/project-assets/Globacom_one_color_logo.svg" alt="" class="center-block img-responsive">
+										<img src="../themes/smm/img/project-assets/globacom/Globacom_one_color_logo.svg" alt="Globacom Logo" class="center-block img-responsive">
 									</div>
 									<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.5 - One color icon on dark background</figcaption>
 								</figure>
@@ -135,6 +134,8 @@ Description: Globacom Project
 				</div>
 			</div>
 		</div>
+	</div>
+	<div class="clearfix"></div>
 		<!-- Stylized -->
 </section>
 
@@ -152,20 +153,19 @@ Description: Globacom Project
 					<div class="col-sm-6">
 						<figure>
 							<figcaption class="libre"><span class="up-triangle">&#9660;</span> Figure 1.2.0 - Oxygen</figcaption>
-							<img src="../themes/smm/img/project-assets/oxygen.svg" width="100%" alt="" class="img-responsive">
+							<img src="../themes/smm/img/project-assets/globacom/oxygen.svg" width="100%" alt="Oxygen Type" class="img-responsive">
 						</figure>
 					</div>
 					<div class="col-sm-6">
 						<figure>
 							<figcaption class="libre"><span class="up-triangle">&#9660;</span> Figure 1.2.1 - Libre Baskervill Italic</figcaption>
-							<img src="../themes/smm/img/project-assets/libre_baskerville_italic.svg" width="100%" alt="" class="img-responsive">
+							<img src="../themes/smm/img/project-assets/globacom/libre_baskerville_italic.svg" width="100%" alt="Libre Baskerville Type" class="img-responsive">
 						</figure>
 					</div>
 				</div>
 			</div>
 		</div>
-	</div>	
-</section>
+	</section>
 
 <!-- Color Palette -->
 <section class="piece-logo">
@@ -178,7 +178,7 @@ Description: Globacom Project
 			<div class="col-md-9 col-lg-10">
 				<div class="row">
 					<div class="col-xs-12">
-						<img src="../themes/smm/img/project-assets/Globacom_color_palett.svg" width="100%" alt="" class="img-responsive">
+						<img src="../themes/smm/img/project-assets/globacom/Globacom_color_palett.svg" width="100%" alt="Globacom Color Palette" class="img-responsive">
 					</div>
 				</div>
 			</div>
@@ -186,7 +186,7 @@ Description: Globacom Project
 	</div>	
 </section>
 <!-- Web -->
-<section class="piece-bg" style="background-image:url(../themes/smm/img/project-assets/DSC_5804_NR_2.jpg);">
+<section class="piece-bg" style="background-image:url(../themes/smm/img/project-assets/globacom/DSC_5804_NR_2.jpg);">
 	<h2 class="headline-inverse text-center">Web</h2>
 </section>
 
@@ -199,7 +199,7 @@ Description: Globacom Project
 			</aside>
 			<div class="col-sm-6 col-lg-8 piece-screenshot">
 				<figure>
-					<img src="../themes/smm/img/project-assets/Page_Capture_1.png" alt="" class="img-responsive">
+					<img src="../themes/smm/img/project-assets/globacom/Page_Capture_1.png" alt="Globacom Page Capture" class="img-responsive">
 					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.0.0 - Homepage</figcaption>
 				</figure>
 			</div>
@@ -217,7 +217,7 @@ Description: Globacom Project
 		<div class="row">
 			<div class="col-md-12">
 				<figure>
-					<img src="../themes/smm/img/showcase.png" alt="" class="img-responsive">
+					<img src="../themes/smm/img/project-assets/globacom/globacom_responsive.png" alt="Globacom Responsive Showcase" class="img-responsive">
 					<hr>
 					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.1.0 - Responsive Showcase</figcaption>
 				</figure>
@@ -232,7 +232,7 @@ Description: Globacom Project
 			<div class="col-md-8 col-md-offset-2">
 				<div class="row">
 					<div class="col-sm-3">
-						<img src="../themes/smm/img/jonathan.jpg" class="img-responsive img-circle" alt="Generic placeholder image">
+						<img src="../themes/smm/img/project-assets/globacom/markfix.jpg" class="img-responsive img-circle" alt="Mark Fix">
 					</div>
 					<div class="col-sm-9">
 						<p>"We loved the enthusiasm and the commitment to design consistency which Sharp Machine demonstrated throughout the process" <br> <cite>- <strong>Michael Van Tinteren, BJM</strong></cite></p>
@@ -249,13 +249,13 @@ Description: Globacom Project
 			<div class="col-md-8 col-md-offset-2">
 				<div class="row">
 					<div class="col-sm-4">
-						<a href="piece" class="btn btn-lg btn-black btn-block">&#8606; Previous</a>
+						<a href="beauty-i-am" class="btn btn-lg btn-black btn-block">&#8606; Previous</a>
 					</div>
 					<div class="col-sm-4">
 						<a href="../work" class="btn btn-lg btn-black btn-block">All Work</a>
 					</div>
 					<div class="col-sm-4">
-						<a href="piece" class="btn btn-lg btn-black btn-block">Next <span class="right-arrow">&#8608;</span></a>
+						<a href="on-the-beam" class="btn btn-lg btn-black btn-block">Next <span class="right-arrow">&#8608;</span></a>
 					</div>
 				</div>
 			</div>

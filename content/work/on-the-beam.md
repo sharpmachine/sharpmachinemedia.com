@@ -15,7 +15,7 @@ Description: This description will go in the meta description tag
 </header>
 
 <!-- Project Intro -->
-<section class="piece-intro bg-brand-white" style="background-image: url(../themes/smm/img/otb-outline-cream.svg); background-size: 555px 555px; background-position: top -250px right -250px; background-repeat: no-repeat;">
+<section class="piece-intro bg-brand-white" style="background-image: url(../themes/smm/img/project-assets/otb/otb-outline-cream.svg); background-size: 555px 555px; background-position: top -250px right -250px; background-repeat: no-repeat;">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2">
@@ -62,7 +62,7 @@ Description: This description will go in the meta description tag
 					<div class="col-sm-6">
 						<figure>
 							<div class="logo-bg bg-brand-white">
-								<img src="../themes/smm/img/otb-logo.svg" class="center-block img-responsive" alt="On the Beam logo">
+								<img src="../themes/smm/img/project-assets/otb/otb-logo.svg" class="center-block img-responsive" alt="On the Beam logo">
 							</div>
 							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.0 - Full lockup on light background</figcaption>
 						</figure>
@@ -70,7 +70,7 @@ Description: This description will go in the meta description tag
 					<div class="col-sm-6">
 						<figure>
 							<div class="logo-bg bg-brand-black">
-								<img src="../themes/smm/img/otb-logo-inverse.svg" class="center-block img-responsive" alt="On the Beam logo">
+								<img src="../themes/smm/img/project-assets/otb/otb-logo-inverse.svg" class="center-block img-responsive" alt="On the Beam logo">
 							</div>
 							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.1 - Full lockup on dark background</figcaption>
 						</figure>
@@ -85,7 +85,7 @@ Description: This description will go in the meta description tag
 					<div class="col-sm-6">
 						<figure>
 							<div class="logo-bg bg-brand-white">
-								<img src="../themes/smm/img/otb-horizontal-light.svg" alt="" class="center-block img-responsive">
+								<img src="../themes/smm/img/project-assets/otb/otb-horizontal-light.svg" alt="On The Beam Logo" class="center-block img-responsive">
 							</div>
 							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.2 - Horizontal lockup on light background</figcaption>
 						</figure>
@@ -93,7 +93,7 @@ Description: This description will go in the meta description tag
 					<div class="col-sm-6">
 						<figure>
 							<div class="logo-bg bg-brand-black">
-								<img src="../themes/smm/img/otb-horizontal-dark.svg" alt="" class="center-block img-responsive">
+								<img src="../themes/smm/img/project-assets/otb/otb-horizontal-dark.svg" alt="On The Beam Logo" class="center-block img-responsive">
 							</div>
 							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.3 - Horizontal lockup on light background</figcaption>
 						</figure>
@@ -110,7 +110,7 @@ Description: This description will go in the meta description tag
 							<div class="col-sm-6">
 								<figure>
 									<div class="logo-bg bg-brand-white">
-										<img src="../themes/smm/img/otb-no-frame-light.svg" alt="" class="center-block img-responsive">
+										<img src="../themes/smm/img/project-assets/otb/otb-no-frame-light.svg" alt="On The Beam Logo" class="center-block img-responsive">
 									</div>
 									<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.4 - Icon w/o frame on light background</figcaption>
 								</figure>
@@ -118,7 +118,7 @@ Description: This description will go in the meta description tag
 							<div class="col-sm-6">
 								<figure>
 									<div class="logo-bg bg-brand-black">
-										<img src="../themes/smm/img/otb-no-frame-dark.svg" alt="" class="center-block img-responsive">
+										<img src="../themes/smm/img/project-assets/otb/otb-no-frame-dark.svg" alt="On The Beam Logo" class="center-block img-responsive">
 									</div>
 									<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.5 - Icon w/o frame on dark background</figcaption>
 								</figure>
@@ -130,7 +130,7 @@ Description: This description will go in the meta description tag
 							<div class="col-sm-6">
 								<figure>
 									<div class="logo-bg bg-brand-white">
-										<img src="../themes/smm/img/otb-outline-light.svg" alt="" class="center-block img-responsive">
+										<img src="../themes/smm/img/project-assets/otb/otb-outline-light.svg" alt="On The Beam Logo" class="center-block img-responsive">
 									</div>
 									<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.6 - Icon w/ outline on light background</figcaption>
 								</figure>
@@ -138,7 +138,7 @@ Description: This description will go in the meta description tag
 							<div class="col-sm-6">
 								<figure>
 									<div class="logo-bg bg-brand-black">
-										<img src="../themes/smm/img/otb-outline-dark.svg" alt="" class="center-block img-responsive">
+										<img src="../themes/smm/img/project-assets/otb/otb-outline-dark.svg" alt="On The Beam Logo" class="center-block img-responsive">
 									</div>
 									<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.7 - Icon w/ outline on dark background</figcaption>
 								</figure>
@@ -153,7 +153,7 @@ Description: This description will go in the meta description tag
 			<div class="col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2">
 				<figure>
 					<figcaption class="libre"><span class="up-triangle">&#9660;</span> Figure 1.1.8 - Stylized in wood</figcaption>
-					<img src="../themes/smm/img/OTB-Carved.jpg" class="img-responsive" alt="On the Beam logo">
+					<img src="../themes/smm/img/project-assets/otb/OTB-Carved.jpg" class="img-responsive" alt="On the Beam Stylized in wood">
 				</figure>
 			</div>
 		</div>
@@ -171,7 +171,7 @@ Description: This description will go in the meta description tag
 			<div class="col-sm-9 col-lg-10">
 				<figure>
 					<figcaption class="libre"><span class="up-triangle">&#9660;</span> Figure 1.2.0 - Futura specimen</figcaption>
-					<img src="../themes/smm/img/Futura_Specimen.svg" width="100%" alt="" class="img-responsive">
+					<img src="../themes/smm/img/project-assets/otb/Futura_Specimen.svg" width="100%" alt="Futura Type" class="img-responsive">
 				</figure>
 			</div>
 		</div>
@@ -228,7 +228,7 @@ Description: This description will go in the meta description tag
 			<div class="col-sm-9 col-lg-10">
 				<figure>
 					<figcaption class="libre"><span class="up-triangle">&#9660;</span> Figure 1.4.0 - Mockup Concepts</figcaption>
-					<img src="../themes/smm/img/otb-layout.jpg" alt="" class="img-responsive">
+					<img src="../themes/smm/img/project-assets/otb/otb-layout.jpg" alt="On The Beam Mock Up" class="img-responsive">
 				</figure>
 			</div>
 		</div>
@@ -236,7 +236,7 @@ Description: This description will go in the meta description tag
 </section>
 
 <!-- Web -->
-<section class="piece-bg" style="background-image:url(../themes/smm/img/otb-bg.jpg);">
+<section class="piece-bg" style="background-image:url(../themes/smm/img/project-assets/otb/otb-bg.jpg);">
 	<h2 class="headline-inverse text-center">Web</h2>
 </section>
 
@@ -249,7 +249,7 @@ Description: This description will go in the meta description tag
 			</aside>
 			<div class="col-sm-6 col-lg-8 piece-screenshot">
 				<figure>
-					<img src="../themes/smm/img/interface-desktop-otb.png" alt="" class="img-responsive">
+					<img src="../themes/smm/img/project-assets/otb/interface-desktop-otb.png" alt="On The Beam Screen Shot" class="img-responsive">
 					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.0.0 - Homepage</figcaption>
 				</figure>
 			</div>
@@ -267,7 +267,7 @@ Description: This description will go in the meta description tag
 		<div class="row">
 			<div class="col-md-12">
 				<figure>
-					<img src="../themes/smm/img/showcase.png" alt="" class="img-responsive">
+					<img src="../themes/smm/img/project-assets/otb/otb_responsive.png" alt="On The Beam Showcase" class="img-responsive">
 					<hr>
 					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.1.0 - Responsive Showcase</figcaption>
 				</figure>
@@ -282,7 +282,7 @@ Description: This description will go in the meta description tag
 			<div class="col-md-8 col-md-offset-2">
 				<div class="row">
 					<div class="col-sm-3">
-						<img src="../themes/smm/img/jonathan.jpg" class="img-responsive img-circle" alt="Generic placeholder image">
+						<img src="../themes/smm/img/project-assets/otb/Billscott.jpg" class="img-responsive img-circle" alt="Bill Scott">
 					</div>
 					<div class="col-sm-9">
 						<p>"We loved the enthusiasm and the commitment to design consistency which Sharp Machine demonstrated throughout the process" <br> <cite>- <strong>Michael Van Tinteren, BJM</strong></cite></p>
@@ -299,13 +299,13 @@ Description: This description will go in the meta description tag
 			<div class="col-md-8 col-md-offset-2">
 				<div class="row">
 					<div class="col-sm-4">
-						<a href="piece" class="btn btn-lg btn-black btn-block">&#8606; Previous</a>
+						<a href="globacom" class="btn btn-lg btn-black btn-block">&#8606; Previous</a>
 					</div>
 					<div class="col-sm-4">
 						<a href="../work" class="btn btn-lg btn-black btn-block">All Work</a>
 					</div>
 					<div class="col-sm-4">
-						<a href="piece" class="btn btn-lg btn-black btn-block">Next <span class="right-arrow">&#8608;</span></a>
+						<a href="unlikely-heroes" class="btn btn-lg btn-black btn-block">Next <span class="right-arrow">&#8608;</span></a>
 					</div>
 				</div>
 			</div>
