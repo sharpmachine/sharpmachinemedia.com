@@ -102,9 +102,9 @@ Description: Unlikley Heroes Project Page
 					<div class="col-xs-6 col-sm-3">
 						<figure>
 							<div class="logo-bg bg-brand-white">
-								<img src="../themes/smm/img/project-assets/uh/uh_hand_black.svg" alt="Unlikely Heroes Hand" class="center-block img-responsive">
+								<img src="../themes/smm/img/project-assets/uh/uh_hand_teal.svg" alt="Unlikely Heroes Hand" class="center-block img-responsive">
 							</div>
-							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.4 - Black icon on light background</figcaption>
+							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.4 - Teal icon on light background</figcaption>
 						</figure>
 					</div>
 					<div class="col-xs-6 col-sm-3">
@@ -117,10 +117,10 @@ Description: Unlikley Heroes Project Page
 					</div>
 					<div class="col-xs-6 col-sm-3">
 						<figure>
-							<div class="logo-bg bg-brand-white">
+							<div class="logo-bg bg-brand-black">
 								<img src="../themes/smm/img/project-assets/uh/uh_hand_grey.svg" alt="Unlikely Heroes Hand" class="center-block img-responsive">
 							</div>
-							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.7 - Grey icon on light background</figcaption>
+							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.7 - Grey icon on dark background</figcaption>
 						</figure>
 					</div>
 				</div>

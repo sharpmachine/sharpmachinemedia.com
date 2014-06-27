@@ -358,7 +358,7 @@ Description: Project presentation for On the Beam
 			<div class="col-md-8 col-md-offset-2">
 				<div class="row">
 					<div class="col-sm-3">
-						<img src="../themes/smm/img/project-assets/otb/Billscott.jpg" class="img-responsive img-circle" alt="Bill Scott">
+						<img src="../themes/smm/img/project-assets/otb/Billscott.jpg" class="img-responsive img-circle center-block" alt="Bill Scott">
 					</div>
 					<div class="col-sm-9">
 						<p>&#8220;Sharp Machine will help transform your company into just that...a Sharp Machine.&#8221; <br> <cite>- Bill Scott, On the Beam Co-Founder</cite></p>
