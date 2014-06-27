@@ -184,7 +184,7 @@ Description: Project presentation for On the Beam
 		<div class="row">
 			<aside class="col-md-3 col-lg-2">
 				<h3 class="libre h4">On the Color Palette:</h3>
-				<p>The colors we chose focused on the area they are coming from (Northern California) while adding a sense of elegance</p>
+				<p>The colors we chose focused on the area they are coming from (Northern California) while adding a sense of elegance.</p>
 			</aside>
 			<div class="col-md-9 col-lg-10">
 				<div class="row">
@@ -237,8 +237,8 @@ Description: Project presentation for On the Beam
 		<div class="row">
 			<aside class="col-sm-3 col-lg-2 hidden-xs">
 				<h3 class="libre h4">On the Experience:</h3>
-				<p><strong>Marketing Site:</strong> We really wanted to inspire people to want more in their lives, and clearly tell how OTB authentically wants to help them do that.  As always, we stived to keep things simpe and clear.</p>
-				<p><strong>Members Site:</strong> We really wanted the membership site to feel more app-like than website-like.  Reduced clutter, well organized so the user can quickly get to what they want and an enjoyable experience all the way around.</p>
+				<p><strong>Marketing Site:</strong> We really wanted to inspire people to want more in their lives, and clearly tell how OTB authentically wants to help them do that.  As always, we strived to keep things simple and clear.</p>
+				<p><strong>Members Site:</strong> We wanted the membership site to feel more app-like than website-like; reduced clutter, well organized so the user can quickly get to what they want and an enjoyable experience all the way around.</p>
 			</aside>
 			<div class="col-sm-6 col-lg-8 piece-screenshot">
 				<figure>
@@ -330,8 +330,8 @@ Description: Project presentation for On the Beam
 			</div>
 			<aside class="col-sm-3 col-lg-2 visible-xs">
 				<h3 class="libre h4">On the Experience:</h3>
-				<p><strong>Marketing Site:</strong> We really wanted to inspire people to want more in their lives, and clearly tell how OTB authentically wants to help them do that.  As always, we stived to keep things simpe and clear.</p>
-				<p><strong>Members Site:</strong> We really wanted the membership site to feel more app-like than website-like.  Reduced clutter, well organized so the user can quickly get to what they want and an enjoyable experience all the way around.</p>
+				<p><strong>Marketing Site:</strong> We really wanted to inspire people to want more in their lives, and clearly tell how OTB authentically wants to help them do that.  As always, we strived to keep things simple and clear.</p>
+				<p><strong>Members Site:</strong> We wanted the membership site to feel more app-like than website-like; reduced clutter, well organized so the user can quickly get to what they want and an enjoyable experience all the way around.</p>
 			</aside>
 		</div>
 	</div>

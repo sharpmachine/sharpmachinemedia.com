@@ -135,7 +135,7 @@ Description: Unlikley Heroes Project Page
 		<div class="row">
 			<aside class="col-sm-3 col-lg-2">
 				<h3 class="libre h4">On the Typeface:</h3>
-				<p>We really wanted to reinforce the new emotional direction of "empowering" so we chose typefaces that were bold, and could make used to make powerful statements when needed.</p>
+				<p>We really wanted to reinforce the new emotional direction of "empowering" so we chose typefaces that were bold, and could be used to make powerful statements when needed.</p>
 			</aside>
 			<div class="col-sm-9 col-lg-10">
 				<div class="row">
@@ -196,12 +196,12 @@ Description: Unlikley Heroes Project Page
 		<div class="row">
 			<aside class="col-sm-3 col-lg-2">
 				<h3 class="libre h4">On the Collateral:</h3>
-				<p>The most excited piece of collateral for Unlikely Heroes is the awareness ad we designed that ran in OKAY! Magazine.</p>
+				<p>The most exciting piece of collateral for Unlikely Heroes is the awareness ad we designed that ran in OK! Magazine and Relevant Magazine.</p>
 			</aside>
 			<div class="col-sm-9 col-lg-10">
 				<figure>
-					<figcaption class="libre"><span class="up-triangle">&#9660;</span> Figure 1.3.1 - Feb. 2014 OKAY! Magazine national ad</figcaption>
-					<img src="../themes/smm/img/project-assets/uh/UH-Magazine MockUp.jpg" class="img-responsive" alt="Feb. 2014 OKAY! Magazine national ad">
+					<figcaption class="libre"><span class="up-triangle">&#9660;</span> Figure 1.3.1 - Feb. 2014 OK! Magazine national ad</figcaption>
+					<img src="../themes/smm/img/project-assets/uh/UH-Magazine MockUp.jpg" class="img-responsive" alt="Feb. 2014 OK! Magazine national ad">
 				</figure>
 			</div>
 			<div class="col-sm-9 col-sm-offset-3 col-md-offset-2 col-lg-10">
@@ -229,7 +229,7 @@ Description: Unlikley Heroes Project Page
 		<div class="row">
 			<aside class="col-sm-3 col-lg-2 hidden-xs">
 				<h3 class="libre h4">On the Experience:</h3>
-				<p>We really wanted to cut down on the clutter of that the old Unlikely Heroes website had so that the messaging would be very clear.  We also wanted to make sure the focus of the site was to accomplish the business objectives rather than distract users with tons of content.  So we opted for a clean and minimal design.</p>
+				<p>We really wanted to cut down on the clutter of the the old Unlikely Heroes website had so that the messaging would be very clear.  We also wanted to make sure the focus of the site was to accomplish the business objectives rather than distract users with tons of content.  So we opted for a clean and minimal design.</p>
 			</aside>
 			<div class="col-sm-6 col-lg-8 piece-screenshot">
 				<figure>
@@ -245,7 +245,7 @@ Description: Unlikley Heroes Project Page
 			</div>
 			<aside class="col-sm-3 col-lg-2 visible-xs">
 				<h3 class="libre h4">On the Experience:</h3>
-				<p>We really wanted to cut down on the clutter of that the old Unlikely Heroes website had so that the messaging would be very clear.  We also wanted to make sure the focus of the site was to accomplish the business objectives rather than distract users with tons of content.  So we opted for a clean and minimal design.</p>
+				<p>We really wanted to cut down on the clutter of the the old Unlikely Heroes website had so that the messaging would be very clear.  We also wanted to make sure the focus of the site was to accomplish the business objectives rather than distract users with tons of content.  So we opted for a clean and minimal design.</p>
 			</aside>
 		</div>
 	</div>

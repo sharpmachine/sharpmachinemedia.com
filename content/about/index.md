@@ -146,28 +146,32 @@ Description: This description will go in the meta description tag
 		<div class="row">
 			<div class="col-sm-6">
 				<h4>How long will it take you to complete my project?</h4>
-				<p>Each timeline is different, and varies depending on your deliverables and the level of detail your project requires. Let’s meet up and we can get more information about your idea, then we’ll be able to give you a clear timeframe. Send an email to <a href="mailto:hello@sharpmachinemedia.com">hello@sharpmachinemedia.com</a>, and we’ll chat.</p>
+				<p>Each timeline is different, and varies depending on your deliverables and the level of detail your project requires. Let’s meet up and chat.  From that we’ll be able to give you a clear timeframe. Send an email to <a href="mailto:hello@sharpmachinemedia.com">hello@sharpmachinemedia.com</a>, and we’ll talk.</p>
 			</div>
 			<div class="col-sm-6">
 				<h4>Do you do logos?</h4>
-				<p>Technically yes, but we don’t sell products (Logos), we are a branding service. We refer to the logo as visual identity, and we factor this into your overall branding. We like to say that your logo is the result of a strong brand strategy. In the end, a logo is a crucial part of the larger process.</p>
+				<p>Technically yes, but we don’t sell products (logos), we are a branding service. We refer to the logo as visual identity, and we factor this into your overall branding. We like to say that your logo is the result of a strong brand strategy.</p>
 			</div>
+		</div>
+		<div class="row">
 			<div class="col-sm-6">
 				<h4>Do you do websites?</h4>
-				<p>Again, yes but we see the website as merely one customer touch point. What we really do is build brands, and the website is part of the brand. It’s best to have a holistic approach here if your proposed site is part of something larger.</p>
+				<p>Yes, but we see the website as merely one customer touch point. What we really do is build brands, and the website is part of the brand. It’s best to have a holistic approach here if your proposed site is part of something larger.</p>
 			</div>
+			<div class="col-sm-6">
+				<h4>Who is your perfect client?</h4>
+				<p>Our perfect client is someone who understands the power of building and maintaining a strong brand image in the current business culture. They also appreciate how beautiful design can enhance their customer’s experience.</p>
+			</div>
+		</div>
+		<div class="row">
 			<div class="col-sm-6">
 				<h4>Can we hold you on retainer?</h4>
-				<p>Yes. Creating and designing out the initial brand is great, but great brands are built over time. The most important part of branding is sticking to the discipline of the brand strategy. As your reputation grows, so does your brand. We can be there along side of you to help insure your messaging stays consistent, cohesive and engaging. </p>
-			</div>
-			<div class="col-sm-6">
-				<h4>What is your perfect client?</h4>
-				<p>Our perfect client is someone who understands the power of building and maintaining a strong brand image in the current business culture. They also appreciate how beautiful design can enhance their customer’s experience. We enjoy working with clients who understand the importance of what we do and want to use excellent design to make their businesses more successful.</p>
+				<p>Yes. Creating and designing out the initial brand is great, but great brands are built over time. The most important part of branding is sticking to the discipline of the brand strategy. As your reputation grows, so does your brand. We can be along side of you to help ensure your messaging stays consistent, cohesive and engaging. </p>
 			</div>
 			<div class="col-sm-6">
 				<h4>What do you charge?</h4>
 				<p>Currently we offer a two hour Brand Strategy session to establish the 4P’s of your brand with you. That session is $399.</p>
-				<p>Once we have completed the session you can choose to move forward with our team designing out your visual identity and customer touch points. This phase often involves a combination of print design, web design and other ideas that are relevant to your brand. The price here can vary depending on each brand's needs. Let us assess your needs and submit a proposal. Remember though, your branding is a crucial investment in your future, so try not to see it as only an expense. </p>
+				<p>Once we have completed the session you can choose to move forward with our team designing out your visual identity and customer touch points.  The price here can vary depending on each brand's needs and touch points.</p>
 				<p>Schedule a brand strategy session by emailing <a href="mailto:hello@sharpmachinemedia.com?subject=Schedule brand strategy session">hello@sharpmachinemedia.com</a></p>
 			</div>
 		</div>
