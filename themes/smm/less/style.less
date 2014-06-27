@@ -6,14 +6,17 @@
   background: url(../img/Main_Jake.jpg) center -150px no-repeat fixed;
   background-size: cover;
 
+  @media (min-width: 0) and (max-width: @screen-sm) {
+    background-position: right center;
+    background-attachment: scroll;
+  }
+
   @media (max-width: @screen-xs-max) {
     height: 697px;
-    background-position: right center;
   }
 
   @media (min-width: @screen-sm-min) {
     height: 647px;
-    background-position: right center;
   }
 
   .logo {
@@ -347,6 +350,10 @@ span.lowercase {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+
+  @media (min-width: 0) and (max-width: @screen-sm) {
+    background-attachment: scroll;
+  }
 }
 
 .piece-screenshot {
