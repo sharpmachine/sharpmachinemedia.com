@@ -1,6 +1,6 @@
 /*
 Title: On The Beam
-Description: This description will go in the meta description tag
+Description: Project presentation for On the Beam
 */
 
 <header class="page-header text-center">
@@ -15,12 +15,12 @@ Description: This description will go in the meta description tag
 </header>
 
 <!-- Project Intro -->
-<section class="piece-intro bg-brand-white" style="background-image: url(../themes/smm/img/project-assets/otb/otb-outline-cream.svg); background-size: 555px 555px; background-position: top -250px right -250px; background-repeat: no-repeat;">
+<section class="piece-intro bg-brand-white">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2">
 				<h2 class="headline text-center">The Brand</h2>
-				<p class="text-center lead libre">OTB is an online community offering support to aspiring entrepreneurs and resources for growing in the knowledge and ability to mange wealth. The original branding was intended to zig when similar companies were zagging. The market research showed a strong tendency toward very modern, minimal designs with bright colors and open space. We were initially inspired by the strength and longevity of the Redwood trees of Northern California. A symbol of connection, community and longevity. Our aim was to communicate warmth, connection as well as lineage and belonging to this online community.</p>
+				<p class="text-center lead libre">OTB is an online community offering support to aspiring entrepreneurs and resources for growing in the knowledge and ability to mange wealth. Our aim was to communicate warmth, connection as well as lineage and belonging to this online community.</p>
 			</div>
 			<div class="col-sm-3">
 				<h3 class="libre h4">1. Purpose</h3>
@@ -28,7 +28,7 @@ Description: This description will go in the meta description tag
 			</div>
 			<div class="col-sm-3">
 				<h3 class="libre h4">2. Position</h3>
-				<p>Create a community where prosperous-minded people can thrive. Entrepreneur from a small to mid-sized town who is aspiring to be prosperous, and needing encouragement and community.</p>
+				<p>Create a community where prosperous-minded people can thrive.</p>
 			</div>
 			<div class="col-sm-3">
 				<h3 class="libre h4">3. Promise</h3>
@@ -55,7 +55,7 @@ Description: This description will go in the meta description tag
 		<div class="row">
 			<aside class="col-sm-3 col-lg-2">
 				<h3 class="libre h4">On the Logo</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum enim deleniti ducimus nostrum voluptas nesciunt earum iure illum itaque commodi?</p>
+				<p>We were initially inspired by the strength and longevity of the Redwood trees of Northern California. A symbol of connection, community and longevity. The structure of the brand was developed to feel safe and solid.  We developed a final product that both served them and drew on timeless elements.</p>
 			</aside>
 			<div class="col-sm-9 col-lg-10">
 				<div class="row">
@@ -166,7 +166,7 @@ Description: This description will go in the meta description tag
 		<div class="row">
 			<aside class="col-sm-3 col-lg-2">
 				<h3 class="libre h4">On the Typeface:</h3>
-				<p>Futura: Most importantly we wanted a classic typeface that felt a strong sense of history and lineage, but still had a clean, modern and timeless look. We also appreciated the clear, no-nonsense geometry of the letter shapes.</p>
+				<p>We wanted a classic typeface that felt a strong sense of history and lineage, but still had a clean, modern and timeless look. We also appreciated the clear, no-nonsense geometry of the letter shapes.</p>
 			</aside>
 			<div class="col-sm-9 col-lg-10">
 				<figure>
@@ -184,7 +184,7 @@ Description: This description will go in the meta description tag
 		<div class="row">
 			<aside class="col-md-3 col-lg-2">
 				<h3 class="libre h4">On the Color Palette:</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum enim deleniti ducimus nostrum voluptas nesciunt earum iure illum itaque commodi?</p>
+				<p>The colors we chose focused on the area they are coming from (Northern California) while adding a sense of elegance</p>
 			</aside>
 			<div class="col-md-9 col-lg-10">
 				<div class="row">
@@ -204,13 +204,6 @@ Description: This description will go in the meta description tag
 							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.3.1 - Accent/Action colors: Green, True Blue &amp; Orange (left to right)</figcaption>
 						</figure>
 					</div>
-					<div class="col-xs-12">
-						<figure>
-							<div class="col-xs-6 color-block" style="background-color: #ffffff"></div>
-							<div class="col-xs-6 color-block" style="background-color: #F6F7F8"></div>
-							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.3.2 - Background colors: White &amp; Silver (left to right)</figcaption>
-						</figure>
-					</div>
 				</div>
 			</div>
 		</div>
@@ -222,8 +215,7 @@ Description: This description will go in the meta description tag
 	<div class="container">
 		<div class="row">
 			<aside class="col-sm-3 col-lg-2">
-				<h3 class="libre h4">On the Collateral:</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum enim deleniti ducimus nostrum voluptas nesciunt earum iure illum itaque commodi?</p>
+				<h3 class="libre h4">The Collateral:</h3>
 			</aside>
 			<div class="col-sm-9 col-lg-10">
 				<figure>
@@ -245,57 +237,101 @@ Description: This description will go in the meta description tag
 		<div class="row">
 			<aside class="col-sm-3 col-lg-2 hidden-xs">
 				<h3 class="libre h4">On the Experience:</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde, dolorum, ex aliquid culpa aut tempora illo distinctio assumenda harum facere.</p>
+				<p><strong>Marketing Site:</strong> We really wanted to inspire people to want more in their lives, and clearly tell how OTB authentically wants to help them do that.  As always, we stived to keep things simpe and clear.</p>
+				<p><strong>Members Site:</strong> We really wanted the membership site to feel more app-like than website-like.  Reduced clutter, well organized so the user can quickly get to what they want and an enjoyable experience all the way around.</p>
 			</aside>
 			<div class="col-sm-6 col-lg-8 piece-screenshot">
 				<figure>
-					<img src="../themes/smm/img/project-assets/otb/homepage.png" alt="On The Beam Screen Shot" class="img-responsive">
+					<img src="../themes/smm/img/project-assets/otb/homepage.png" alt="On The Beam Homepage" class="img-responsive">
 					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.0.0 - Homepage</figcaption>
 				</figure>
 			</div>
-			<div class="col-sm-6 col-sm-offset-2 col-lg-8">
+			<div class="col-sm-6 col-sm-offset-3 col-md-offset-2 col-lg-8">
 				<figure>
-					<img src="../themes/smm/img/project-assets/otb/about.png" alt="On The Beam Screen Shot" class="img-responsive">
-					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.0.0 - Homepage</figcaption>
+					<img src="../themes/smm/img/project-assets/otb/about.png" alt="On The Beam About Page" class="img-responsive">
+					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.0.0 - About</figcaption>
 				</figure>
 			</div>
-			<div class="col-sm-6 col-sm-offset-2 col-lg-8">
+			<div class="col-sm-6 col-sm-offset-3 col-md-offset-2 col-lg-8">
 				<figure>
-					<img src="../themes/smm/img/project-assets/otb/features.png" alt="On The Beam Screen Shot" class="img-responsive">
-					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.0.0 - Homepage</figcaption>
+					<img src="../themes/smm/img/project-assets/otb/features.png" alt="On The Beam Features Page" class="img-responsive">
+					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.0.0 - Features</figcaption>
 				</figure>
 			</div>
-			<div class="col-sm-6 col-sm-offset-2 col-lg-8">
+			<div class="col-sm-6 col-sm-offset-3 col-md-offset-2 col-lg-8">
 				<div class="row">
-					<div class="col-sm-9">
+					<div class="col-sm-12 col-md-9">
 						<figure>
-							<img src="../themes/smm/img/project-assets/otb/member-desktop.jpg" alt="On The Beam Screen Shot" class="img-responsive">
-							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.0.0 - Homepage</figcaption>
+							<img src="../themes/smm/img/project-assets/otb/member-desktop.jpg" alt="On The Beam Members Dashboard" class="img-responsive">
+							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.0.0 - Members Dashboard for Desktops</figcaption>
 						</figure>
 					</div>
-					<div class="col-sm-3" style="height:581px;overflow:hidden;">
+					<div class="col-sm-3 hidden-sm">
 						<figure>
-							<img src="../themes/smm/img/project-assets/otb/member-mobile.jpg" alt="On The Beam Screen Shot" class="img-responsive">
-							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.0.0 - Homepage</figcaption>
+							<img src="../themes/smm/img/project-assets/otb/member-mobile.jpg" alt="On The Beam Members Dashboard for Mobile" class="img-responsive">
+							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.0.0 - Members Dashboard for Mobile</figcaption>
 						</figure>
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-6 col-sm-offset-2 col-lg-8">
-				<figure>
-					<img src="../themes/smm/img/project-assets/otb/member-desktop-channels.jpg" alt="On The Beam Screen Shot" class="img-responsive">
-					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.0.0 - Homepage</figcaption>
-				</figure>
+			<div class="col-sm-6 col-sm-offset-3 col-md-offset-2 col-lg-8">
+				<div class="row">
+					<div class="col-sm-12 col-md-9">
+						<figure>
+							<img src="../themes/smm/img/project-assets/otb/member-desktop-channels.jpg" alt="On The Beam Members Channels for Desktop" class="img-responsive">
+							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.0.0 - Members Channels for Desktop</figcaption>
+						</figure>
+					</div>
+					<div class="col-sm-3 hidden-sm">
+						<figure>
+							<img src="../themes/smm/img/project-assets/otb/member-mobile-channels.jpg" alt="On The Beam Members Channels for Mobile" class="img-responsive">
+							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.0.0 - Members Channels for Mobile</figcaption>
+						</figure>
+					</div>
+				</div>
 			</div>
-			<div class="col-sm-6 col-sm-offset-2 col-lg-8">
-				<figure>
-					<img src="../themes/smm/img/project-assets/otb/member-desktop-billing.jpg" alt="On The Beam Screen Shot" class="img-responsive">
-					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.0.0 - Homepage</figcaption>
-				</figure>
+			<div class="col-sm-6 col-sm-offset-3 col-md-offset-2 col-lg-8">
+				<div class="row">
+					<div class="col-sm-12 col-md-9">
+						<figure>
+							<img src="../themes/smm/img/project-assets/otb/member-desktop-billing.jpg" alt="On The Beam Members Billing for Desktop" class="img-responsive">
+							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.0.0 - Members Billing for Desktop</figcaption>
+						</figure>
+					</div>
+					<div class="col-sm-3 hidden-sm">
+						<figure>
+							<img src="../themes/smm/img/project-assets/otb/member-mobile-billing.jpg" alt="On The Beam Members Billing for Mobile" class="img-responsive">
+							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.0.0 - Members Billing for Mobile</figcaption>
+						</figure>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-6 col-sm-offset-3 col-md-offset-2 col-lg-8 visible-sm">
+				<div class="row">
+					<div class="col-sm-4">
+						<figure>
+							<img src="../themes/smm/img/project-assets/otb/member-mobile.jpg" alt="On The Beam Members Dashboard for Mobile" class="img-responsive">
+							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.0.0 - Members Dashboard for Mobile</figcaption>
+						</figure>
+					</div>
+					<div class="col-sm-4">
+						<figure>
+							<img src="../themes/smm/img/project-assets/otb/member-mobile-channels.jpg" alt="On The Beam Members Channels for Mobile" class="img-responsive">
+							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.0.0 - Members Channels for Mobile</figcaption>
+						</figure>
+					</div>
+					<div class="col-sm-4">
+						<figure>
+							<img src="../themes/smm/img/project-assets/otb/member-mobile-billing.jpg" alt="On The Beam Members Billing for Mobile" class="img-responsive">
+							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.0.0 - Members Billing for Mobile</figcaption>
+						</figure>
+					</div>
+				</div>
 			</div>
 			<aside class="col-sm-3 col-lg-2 visible-xs">
 				<h3 class="libre h4">On the Experience:</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde, dolorum, ex aliquid culpa aut tempora illo distinctio assumenda harum facere.</p>
+				<p><strong>Marketing Site:</strong> We really wanted to inspire people to want more in their lives, and clearly tell how OTB authentically wants to help them do that.  As always, we stived to keep things simpe and clear.</p>
+				<p><strong>Members Site:</strong> We really wanted the membership site to feel more app-like than website-like.  Reduced clutter, well organized so the user can quickly get to what they want and an enjoyable experience all the way around.</p>
 			</aside>
 		</div>
 	</div>
@@ -325,7 +361,7 @@ Description: This description will go in the meta description tag
 						<img src="../themes/smm/img/project-assets/otb/Billscott.jpg" class="img-responsive img-circle" alt="Bill Scott">
 					</div>
 					<div class="col-sm-9">
-						<p>&#8220;Sharp Machine will help transform your company into just that...a Sharp Machine.&#8221; <br> <cite>- Bill Scott, On the Beam Founder</cite></p>
+						<p>&#8220;Sharp Machine will help transform your company into just that...a Sharp Machine.&#8221; <br> <cite>- Bill Scott, On the Beam Co-Founder</cite></p>
 					</div>
 				</div>
 			</div>

@@ -93,9 +93,6 @@ module.exports = function(grunt) {
             ],
             tasks: ['uglify']
           },
-          // php: {
-          //   files: ['*.php']
-          // },
           livereload: {
             files: [
             'themes/smm/css/*.css',

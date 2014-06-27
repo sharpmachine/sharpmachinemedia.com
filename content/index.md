@@ -280,28 +280,28 @@ Description: This description will go in the meta description tag
 			<div class="col-sm-6">
 				<div class="work-piece">
 					<a href="work/beauty-i-am">
-						<img src="themes/smm/img/bia-lg.jpg" class="img-responsive" alt="Beauty I AM" width="570" height="234">
+						<img src="themes/smm/img/project-assets/bia/bia-lg.jpg" class="img-responsive" alt="Beauty I AM" width="570" height="234">
 					</a>
 				</div>
 			</div>
 			<div class="col-sm-6">
 				<div class="work-piece">
 					<a href="work/globacom">
-						<img src="themes/smm/img/globacom-lg.jpg" class="img-responsive" alt="Beauty I AM" width="570" height="234">
+						<img src="themes/smm/img/project-assets/globacom/globacom-lg.jpg" class="img-responsive" alt="Beauty I AM" width="570" height="234">
 					</a>
 				</div>
 			</div>
 			<div class="col-sm-6">
 				<div class="work-piece">
 					<a href="work/on-the-beam">
-						<img src="themes/smm/img/otb-lg.jpg" class="img-responsive" alt="On The Beam" width="570" height="234">
+						<img src="themes/smm/img/project-assets/otb/otb-lg.jpg" class="img-responsive" alt="On The Beam" width="570" height="234">
 					</a>
 				</div>
 			</div>
 			<div class="col-sm-6">
 				<div class="work-piece">
 					<a href="work/Unlikely-heroes">
-						<img src="themes/smm/img/uh-lg.jpg" class="img-responsive" alt="Unlikely Heroes" width="570" height="234">
+						<img src="themes/smm/img/project-assets/uh/uh-lg.jpg" class="img-responsive" alt="Unlikely Heroes" width="570" height="234">
 					</a>
 				</div>
 			</div>
