@@ -249,7 +249,47 @@ Description: This description will go in the meta description tag
 			</aside>
 			<div class="col-sm-6 col-lg-8 piece-screenshot">
 				<figure>
-					<img src="../themes/smm/img/project-assets/otb/interface-desktop-otb.png" alt="On The Beam Screen Shot" class="img-responsive">
+					<img src="../themes/smm/img/project-assets/otb/homepage.png" alt="On The Beam Screen Shot" class="img-responsive">
+					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.0.0 - Homepage</figcaption>
+				</figure>
+			</div>
+			<div class="col-sm-6 col-sm-offset-2 col-lg-8">
+				<figure>
+					<img src="../themes/smm/img/project-assets/otb/about.png" alt="On The Beam Screen Shot" class="img-responsive">
+					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.0.0 - Homepage</figcaption>
+				</figure>
+			</div>
+			<div class="col-sm-6 col-sm-offset-2 col-lg-8">
+				<figure>
+					<img src="../themes/smm/img/project-assets/otb/features.png" alt="On The Beam Screen Shot" class="img-responsive">
+					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.0.0 - Homepage</figcaption>
+				</figure>
+			</div>
+			<div class="col-sm-6 col-sm-offset-2 col-lg-8">
+				<div class="row">
+					<div class="col-sm-9">
+						<figure>
+							<img src="../themes/smm/img/project-assets/otb/member-desktop.jpg" alt="On The Beam Screen Shot" class="img-responsive">
+							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.0.0 - Homepage</figcaption>
+						</figure>
+					</div>
+					<div class="col-sm-3" style="height:581px;overflow:hidden;">
+						<figure>
+							<img src="../themes/smm/img/project-assets/otb/member-mobile.jpg" alt="On The Beam Screen Shot" class="img-responsive">
+							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.0.0 - Homepage</figcaption>
+						</figure>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-6 col-sm-offset-2 col-lg-8">
+				<figure>
+					<img src="../themes/smm/img/project-assets/otb/member-desktop-channels.jpg" alt="On The Beam Screen Shot" class="img-responsive">
+					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.0.0 - Homepage</figcaption>
+				</figure>
+			</div>
+			<div class="col-sm-6 col-sm-offset-2 col-lg-8">
+				<figure>
+					<img src="../themes/smm/img/project-assets/otb/member-desktop-billing.jpg" alt="On The Beam Screen Shot" class="img-responsive">
 					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.0.0 - Homepage</figcaption>
 				</figure>
 			</div>
@@ -285,7 +325,7 @@ Description: This description will go in the meta description tag
 						<img src="../themes/smm/img/project-assets/otb/Billscott.jpg" class="img-responsive img-circle" alt="Bill Scott">
 					</div>
 					<div class="col-sm-9">
-						<p>"We loved the enthusiasm and the commitment to design consistency which Sharp Machine demonstrated throughout the process" <br> <cite>- <strong>Michael Van Tinteren, BJM</strong></cite></p>
+						<p>&#8220;Sharp Machine will help transform your company into just that...a Sharp Machine.&#8221; <br> <cite>- Bill Scott, On the Beam Founder</cite></p>
 					</div>
 				</div>
 			</div>

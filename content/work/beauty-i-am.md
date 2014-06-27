@@ -33,7 +33,7 @@ Description: Project presentation for Beauty I AM
 		<div class="row">
 			<aside class="col-sm-3 col-lg-2">
 				<h3 class="libre h4">On the Logo</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum enim deleniti ducimus nostrum voluptas nesciunt earum iure illum itaque commodi?</p>
+				<p>In the visual identity our main goal was to convey a sense of beauty balanced with the strength and confidence that women in the entertainment industry carry. The frame around the logo type is meant to resemble an antique hand mirror to convey the sense of identity and self confidence in the midst of a male dominant environment.</p>
 			</aside>
 			<div class="col-sm-9 col-lg-10">
 				<div class="row">
@@ -88,7 +88,9 @@ Description: Project presentation for Beauty I AM
 		<div class="row">
 			<aside class="col-sm-3 col-lg-2">
 				<h3 class="libre h4">On the Typeface:</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum enim deleniti ducimus nostrum voluptas nesciunt earum iure illum itaque commodi?</p>
+				<p>We balanced the flow and softness of the script lines with the stability and strength of the serif letters to convey a sense of passion and refinement.</p>
+				<p>Source sans pro is the main font used in the website. It is clean, balanced with a modern, no-nonsense appearance and feel. Also it is slightly condensed in width to have a “put together” feel.</p>
+				<p>Linden Hill is the serif that conveys a sense of personality, flair and character. It has distinct letter shape which also convey a sense of heritage and history.</p>
 			</aside>
 			<div class="col-sm-9 col-lg-10">
 				<div class="row">
@@ -116,7 +118,7 @@ Description: Project presentation for Beauty I AM
 		<div class="row">
 			<aside class="col-md-3 col-lg-2">
 				<h3 class="libre h4">On the Color Palette:</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum enim deleniti ducimus nostrum voluptas nesciunt earum iure illum itaque commodi?</p>
+				<p>With a cohesive message of strength and beauty coming together, the color palette also reflects that. There are lighter playful feminine colors on the top, balanced with the strength and grounding of the darker colors below. The gray is very practical in lettering and messaging, the blue conveys trust and purple for royalty, identity and mystery.</p>
 			</aside>
 			<div class="col-md-9 col-lg-10">
 				<div class="row">
@@ -134,8 +136,7 @@ Description: Project presentation for Beauty I AM
 	<div class="container">
 		<div class="row">
 			<aside class="col-sm-3 col-lg-2">
-				<h3 class="libre h4">On the Collateral:</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum enim deleniti ducimus nostrum voluptas nesciunt earum iure illum itaque commodi?</p>
+				<h3 class="libre h4">The Collateral:</h3>
 			</aside>
 			<div class="col-sm-9 col-lg-10">
 				<figure>
