@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Sharp Machine offers outstanding branding, strategy and design services for those who demand the best.">
   <meta name="author" content="Sharp Machine Media">
+  <meta property="og:image" content="http://sharpmachinemedia.com/themes/smm/img/screen.jpg"/>
   <link rel="shortcut icon" href="{{ theme_url }}/img/ico/favicon.ico">
 
   <title>{% if meta.title %}{{ meta.title }} | {% endif %}{{ site_title }}</title>
@@ -41,7 +42,7 @@
                 </button>
                 <a class="navbar-brand" href="{{ base_url }}"><img src="{{ theme_url }}/img/navbar-logo.png" width="57px" height="65px" alt="Sharp Machine Icon"></a>
                 <ul class="nav nav-pills center-block visible-xs">
-                  <li><a href="http://sharpmachine.typeform.com/to/iubVVq">Start a Project</a></li>
+                  <li><a class="typeform-share" href="http://sharpmachine.typeform.com/to/iubVVq" data-mode="2" target="_blank">Start a Project</a></li>
                 </ul>
               </div>
               <div class="navbar-collapse collapse text-right">
@@ -52,7 +53,7 @@
                   <li><a href="mailto:hello@sharpmachinemedia.com">Contact</a></li>
                 </ul>
                 <ul class="nav nav-pills pull-right hidden-xs">
-                  <li><a href="http://sharpmachine.typeform.com/to/iubVVq">Start a Project</a></li>
+                  <li><a class="typeform-share" href="http://sharpmachine.typeform.com/to/iubVVq" data-mode="2" target="_blank">Start a Project</a></li>
                 </ul>
               </div>
             </div>
@@ -143,5 +144,19 @@
     <script src="{{ theme_url }}/js/scripts.min.js"></script>
 
     <script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'share.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}id=id+'_';if(!gi.call(d,id)){qs=ce.call(d,'link');qs.rel='stylesheet';qs.id=id;qs.href=b+'share-button.css';s=gt.call(d,'head')[0];s.appendChild(qs,s)}})()</script>
+
+    <script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-11236337-3']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+    </script>
   </body>
   </html>
