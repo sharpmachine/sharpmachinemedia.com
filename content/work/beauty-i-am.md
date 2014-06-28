@@ -141,7 +141,7 @@ Description: Project presentation for Beauty I AM
 			<div class="col-sm-9 col-lg-10">
 				<figure>
 					<figcaption class="libre"><span class="up-triangle">&#9660;</span> Figure 1.3.0 - Mockup Concepts</figcaption>
-					<img src="../themes/smm/img/project-assets/bia/Branding Identity Mock-Up BeautyIam.jpg" alt="bia mock up" class="img-responsive">
+					<img src="../themes/smm/img/project-assets/bia/brand-identity-mockup.jpg" alt="bia mock up" class="img-responsive">
 					<figcaption class="libre"><span class="up-triangle">&#9660;</span> Figure 1.3.1 - Business Card Mockup Concepts</figcaption>
 					<img src="../themes/smm/img/project-assets/bia/Business-card-mock-up-BeautyIam.jpg" class="img-responsive" alt="BIA Business Card Mock up">
 				</figure>

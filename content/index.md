@@ -333,18 +333,17 @@ Description: This description will go in the meta description tag
 		<div class="row">
 			<div class="col-sm-3">
 				<div class="client-logo">
-					<!-- <img src="themes/smm/img/harris-logo.svg" class="img-responsive center-block" alt="Harris Studios logo"> -->
 					<img src="themes/smm/img/red-arrow-logo.svg" class="img-responsive center-block" alt="Red Arrow logo">
 				</div>
 			</div>
 			<div class="col-sm-3">
 				<div class="client-logo">
-					<img src="themes/smm/img/compass-logo.svg" class="img-responsive center-block" alt="Compass logo">
+					<img src="themes/smm/img/was-logo.svg" class="img-responsive center-block" alt="White Antelope Studio logo">
 				</div>
 			</div>
 			<div class="col-sm-3">
 				<div class="client-logo">
-					<img src="themes/smm/img/was-logo.svg" class="img-responsive center-block" alt="White Antelope Studio logo">
+					<img src="themes/smm/img/harris-logo.svg" class="img-responsive center-block" alt="Harris Studios logo">
 				</div>
 			</div>
 			<div class="col-sm-3">
