@@ -126,7 +126,7 @@ Description: This description will go in the meta description tag
 			</div>
 		</div>
 	</div>
-</section>Ï
+</section>
 
 <div class="well well-lg">
 	<div class="diamond">
