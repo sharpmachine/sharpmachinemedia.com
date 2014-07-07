@@ -20,7 +20,7 @@ Description: Project presentation for Beauty I AM
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2">
 				<h2 class="headline text-center">The Brand</h2>
-				<p class="text-center lead libre">Beauty I AM offers a variety of groups, counseling and classes that address mental, physical and spiritual need of those pursing their dreams in Hollywood.</p>
+				<p class="text-center lead libre">Beauty I AM offers a variety of groups, counseling and classes that address mental, physical and spiritual need of those pursuing their dreams in Hollywood.</p>
 			</div>
 		</div>
 	</div>

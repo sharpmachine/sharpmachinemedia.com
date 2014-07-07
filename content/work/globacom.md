@@ -141,7 +141,7 @@ Description: Project presentation for Globacom
 					</div>
 					<div class="col-sm-6">
 						<figure>
-							<figcaption class="libre"><span class="up-triangle">&#9660;</span> Figure 1.2.1 - Libre Baskervill Italic</figcaption>
+							<figcaption class="libre"><span class="up-triangle">&#9660;</span> Figure 1.2.1 - Libre Baskerville Italic</figcaption>
 							<img src="../themes/smm/img/project-assets/globacom/libre_baskerville_italic.svg" width="100%" alt="Libre Baskerville Type" class="img-responsive">
 						</figure>
 					</div>
