@@ -30,6 +30,11 @@ Description: Our proudest work
 					<img src="themes/smm/img/project-assets/uh/uh-sm.jpg" class="img-responsive" alt="Unlikely Heroes">
 				</a>
 			</div>
+			<div class="col-sm-6 col-md-3 work-piece">
+				<a href="work/white-antelope">
+					<img src="themes/smm/img/project-assets/was/was-sm.jpg" class="img-responsive" alt="White Antelope Studio">
+				</a>
+			</div>
 		</div>
 	</div>
 </section>
