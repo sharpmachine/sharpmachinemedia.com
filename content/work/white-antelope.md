@@ -33,7 +33,7 @@ Description: White Antelope Studio project page
 		<div class="row">
 			<aside class="col-sm-3 col-lg-2">
 				<h3 class="libre h4">On the Logo</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum enim deleniti ducimus nostrum voluptas nesciunt earum iure illum itaque commodi?</p>
+				<p>The visual identity is meant to create a sense of mystery and depth. Much of art is about emotional value and interpretive visuals. We wanted to capture that sense of vision and unique perspective. The play on negative space revealing the antelope with merely details gives the brand a simple, effective and memorable identity that we believe truly captures the elegance of contemporary art.</p>
 			</aside>
 			<div class="col-sm-9 col-lg-10">
 				<div class="row">
@@ -71,7 +71,7 @@ Description: White Antelope Studio project page
 		<div class="row">
 			<aside class="col-sm-3 col-lg-2">
 				<h3 class="libre h4">On the Typeface:</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum enim deleniti ducimus nostrum voluptas nesciunt earum iure illum itaque commodi?</p>
+				<p>Alte Hass Grotesk was selected as the primary font to accompany the minimalist identity. Classic lines and clean strength inducing pure, contemporary simplicity.</p>
 			</aside>
 			<div class="col-sm-9 col-lg-10">
 				<figure>
@@ -83,13 +83,39 @@ Description: White Antelope Studio project page
 	</div>	
 </section>
 
+<section class="piece-logo">
+	<div class="container">
+		<div class="row">
+			<aside class="col-md-3 col-lg-2">
+				<h3 class="libre h4">On the Color Palette:</h3>
+				<p>With such a simplistic approach the the brand, a palette of only black and white was chosen to reflect that. Amplifying that minimalist approach in it’s artistic presentation. The strength of black on white gives the brand a focused and clean polish that shows effective intent.</p>
+			</aside>
+			<div class="col-md-9 col-lg-10">
+				<div class="row">
+					<div class="col-xs-12">
+						<figure>
+							<div class="col-xs-6 color-block" style="background-color: #000"></div>
+							<div class="col-xs-6 color-block" style="background-color: #fff"></div>
+							<div class="col-xs-6 color-block" style="background-color: #fff"></div>
+							<div class="col-xs-6 color-block" style="background-color: #000"></div>
+							<div class="col-xs-6 color-block" style="background-color: #000"></div>
+							<div class="col-xs-6 color-block" style="background-color: #fff"></div>
+							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Base colors: Classic Black &amp; Purist White</figcaption>
+						</figure>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>	
+</section>
+
 <!-- Collateral -->
-<section class="piece-collateral">
+<section class="piece-collateral bg-brand-white">
 	<div class="container">
 		<div class="row">
 			<aside class="col-sm-3 col-lg-2">
 				<h3 class="libre h4">On the Collateral:</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum enim deleniti ducimus nostrum voluptas nesciunt earum iure illum itaque commodi?</p>
+				<p>The collateral mirrors that simple approach with large margins and carefully placed identity. Since so much of the brand is constantly clean, the unfinished painted elements gives the brand and small token of the creative nature of art and applies an effective contrast to the minimalism.</p>
 			</aside>
 			<div class="col-sm-9 col-lg-10">
 				<figure>

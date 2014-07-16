@@ -172,7 +172,7 @@ Description: Unlikley Heroes Project Page
 </section>
 
 <!-- Color Palette -->
-<section class="piece-logo">
+<section class="piece-logo bg-brand-white">
 	<div class="container">
 		<div class="row">
 			<aside class="col-md-3 col-lg-2">
