@@ -45,20 +45,12 @@ Description: White Antelope Studio project page
 							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Full lockup</figcaption>
 						</figure>
 					</div>
-					<div class="col-sm-6">
+					<div class="col-sm-12">
 						<figure>
 							<div class="logo-bg bg-brand-white">
 								<img src="../themes/smm/img/project-assets/was/was-logo-wide.svg" class="center-block img-responsive" alt="White Antelope Studios logo">
 							</div>
 							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Horizontal lockup</figcaption>
-						</figure>
-					</div>
-					<div class="col-sm-6">
-						<figure>
-							<div class="logo-bg bg-brand-white">
-								<img src="../themes/smm/img/project-assets/was/was-icon.svg" class="center-block img-responsive" style="height:195px;" alt="White Antelope Studios icon">
-							</div>
-							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Icon</figcaption>
 						</figure>
 					</div>
 				</div>
@@ -159,13 +151,13 @@ Description: White Antelope Studio project page
 					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Homepage</figcaption>
 				</figure>
 			</div>
-			<div class="col-sm-6 col-sm-offset-3 col-md-offset-2 col-lg-8">
+			<div class="col-sm-6 col-md-offset-3 col-lg-8">
 				<figure>
 					<img src="../themes/smm/img/project-assets/was/was-blog.png" alt="Blog Page" class="img-responsive">
 					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Blog</figcaption>
 				</figure>
 			</div>
-			<div class="col-sm-6 col-sm-offset-3 col-md-offset-2 col-lg-8">
+			<div class="col-sm-6 col-sm-offset-3 col-md-offset-3 col-lg-8">
 				<figure>
 					<img src="../themes/smm/img/project-assets/was/was-gallery.png" alt="Gallery Page" class="img-responsive">
 					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Gallery</figcaption>
