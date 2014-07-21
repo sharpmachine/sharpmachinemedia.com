@@ -183,7 +183,7 @@ Description: White Antelope Studio project page
 						<a href="../work" class="btn btn-lg btn-black btn-block">All Work</a>
 					</div>
 					<div class="col-sm-4">
-						<a href="beauty-i-am" class="btn btn-lg btn-black btn-block">Next <span class="right-arrow">&#8608;</span></a>
+						<a href="bjm" class="btn btn-lg btn-black btn-block">Next <span class="right-arrow">&#8608;</span></a>
 					</div>
 				</div>
 			</div>

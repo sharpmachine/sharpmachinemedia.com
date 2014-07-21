@@ -35,6 +35,11 @@ Description: Our proudest work
 					<img src="themes/smm/img/project-assets/was/was-sm.jpg" class="img-responsive" alt="White Antelope Studio">
 				</a>
 			</div>
+			<div class="col-sm-6 col-md-3 work-piece">
+				<a href="work/bjm">
+					<img src="themes/smm/img/project-assets/bjm/bjm-sm.jpg" class="img-responsive" alt="BJM">
+				</a>
+			</div>
 		</div>
 	</div>
 </section>
