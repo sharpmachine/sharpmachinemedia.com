@@ -15,7 +15,7 @@ Description: This description will go in the meta description tag
 </header>
 
 <!-- Project Intro -->
-<section class="piece-intro bg-brand-white" style="background-image: url(../themes/smm/img/otb-outline-cream.svg); background-size: 555px 555px; background-position: top -250px right -250px; background-repeat: no-repeat;">
+<section class="piece-intro bg-brand-white">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2">
@@ -236,7 +236,7 @@ Description: This description will go in the meta description tag
 </section>
 
 <!-- Web -->
-<section class="piece-bg">
+<section class="piece-bg" style="background-image:url(../themes/smm/img/project-assets/bjm/bjm-bg.jpg);">
 	<h2 class="headline-inverse text-center">Web</h2>
 </section>
 

@@ -40,6 +40,11 @@ Description: Our proudest work
 					<img src="themes/smm/img/project-assets/bjm/bjm-sm.jpg" class="img-responsive" alt="BJM">
 				</a>
 			</div>
+			<div class="col-sm-6 col-md-3 work-piece hidden">
+				<a href="work/harris-studios">
+					<img src="themes/smm/img/project-assets/harris-studios/harris-sm.jpg" class="img-responsive" alt="Harris Studios">
+				</a>
+			</div>
 		</div>
 	</div>
 </section>

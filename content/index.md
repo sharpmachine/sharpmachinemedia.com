@@ -300,7 +300,7 @@ Description: This description will go in the meta description tag
 			</div>
 			<div class="col-sm-6">
 				<div class="work-piece">
-					<a href="work/Unlikely-heroes">
+					<a href="work/unlikely-heroes">
 						<img src="themes/smm/img/project-assets/uh/uh-lg.jpg" class="img-responsive" alt="Unlikely Heroes" width="570" height="234">
 					</a>
 				</div>

@@ -218,7 +218,7 @@ Description: Project presentation for Globacom
 						<img src="../themes/smm/img/project-assets/globacom/markfix.jpg" class="img-responsive img-circle" alt="Mark Fix">
 					</div>
 					<div class="col-sm-9">
-						<p>&#8220;These guys have what call in Switzerland, Swissness.  It means excellence and a commitment to quality&#8221; <br> <cite>- Mark Fix, Globacom Founder</cite></p>
+						<p>&#8220;These guys have what we call in Switzerland, 'Swissness'.  It means excellence and a commitment to quality&#8221; <br> <cite>- Mark Fix, Globacom Founder</cite></p>
 					</div>
 				</div>
 			</div>
