@@ -170,7 +170,6 @@ Description: This description will go in the meta description tag
 			</div>
 			<div class="col-sm-6">
 				<h4>What do you charge?</h4>
-				<p>Currently we offer a two hour Brand Strategy session to establish the 4P’s of your brand with you. That session is $399.</p>
 				<p>Once we have completed the session you can choose to move forward with our team designing out your visual identity and customer touch points.  The price here can vary depending on each brand's needs and touch points.</p>
 				<p>Schedule a brand strategy session by emailing <a href="mailto:hello@sharpmachinemedia.com?subject=Schedule brand strategy session">hello@sharpmachinemedia.com</a></p>
 			</div>
